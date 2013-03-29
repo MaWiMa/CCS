@@ -1,0 +1,36 @@
+The Roeher Institute
+Canadas National Institute for the Study of Public Policy
+Affecting Persons with an Intellectual Impairment.
+
+The Roeher Institute has two major goals:
+
+* to identify and anticipate future trends that will support the
+presence, participation, self-determination and contribution of
+persons with an intellectual impairment in their communities;
+
+* to foster the exchange of ideas leading to new ways of thinking 
+about persons with an intellectual impairment.
+
+The Institute conducts, sponsors and publishes research in a wide
+range of areas, with a maior focus on public policy and funding, on
+studies of innovative social programs and on the development of
+policy alternatives. It offers training programs and workshops
+across Canada on topics such as integrated education, post secondary
+education, leisure, employment, and alternatives to intrusive
+methods of behaviour modification. Through its Information Services,
+which include a library, a book and film distribution service, and
+a computer accessible information system. The Instiute provides
+up-to-date information to the public, professionals and community groups.
+The Institute also publishes the quarterly magazine entourage.
+
+The Roeher Institute is sponsored by the Canadian Association for
+Community Living, a voluntary organization bringing together over
+400 local and twelve provincial and territorial associations working
+on behalf of persons with an intellectual impairment.
+
+For more information about The Roeher Institute, please contact us at:
+Kinsmen Buildung, York University, 4700 Keele Street,
+North York, Ontario, Canada MSJ 1P3 (416) 661-9611
+
+
+### 006 ###

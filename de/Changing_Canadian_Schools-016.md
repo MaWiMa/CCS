@@ -1,0 +1,38 @@
+### 016 ###
+
+Dieses Buch hat mehrere Jahre zur Vorbereitung gebraucht und im Laufe
+dieser Zeit waren wir begierg darauf es zu beenden. Gleichzeitig waren 
+wir zufrieden, dass unsere Autoren mehr Zeit zur Aktualisierung ihres 
+Materials der fortlaufenden Beteiligung an integrativen
+Bildungsinitiativen gehabt haben. Die meisten Mitwirkenden sind aus
+New Brunswick und die Gründe dafür müssen bekannt sein. Erstens, weil
+einer der Redakteure aus New Brunswick ist, war die persönliche Kenntnis,
+der in diesem Gebiet arbeitenden Menschen, ein Faktor. Zweitens, die 
+Erfahrung mit integrativer Ausbildung als Ergebnis der gesetzgeberischen
+und politischen Initiativen ist einzigartig in der Provinz, Pädagogen
+und Eltern machten umfangreiche Erfahrungen, die sie in diesem Buch
+geteilt haben.
+
+Ein besonderes Wort des Dankes gebührt Dr. G. Michael Fullan, Dekan der
+Fakultät für Erziehungswissenschaft, Universität von Toronto, 
+für seine Gunst das Vorwort zu diesem Buch zu verfassen. Seine Worte der
+Unterstützung für die vorgebrachten Ansätze sind ermutigende Verstärkung
+der mit dem Kampf für Inklusion beschäftigten Menschen. Seine Worte sind
+erst recht mächtig, da er international als Führungskraft mit Verständnis
+für pädagogische Veränderungen anerkannt ist.
+
+Ein herzliches Dankeschön geht an Laura Code, Publikationen Editor des
+Roeher Instituts für ihre fröhliche, aber anhaltende Eingabeaufforderung
+und Motivation, ohne die das Buch nie abgeschlossen worden wäre. Alle
+Mitwirkenden verdienen Anerkennung sowohl für ihre wertvolle Ergänzungen
+zum Buch, sowie für ihre Bereitschaft ihr Material zu überarbeiten, um
+ein Gleichgewicht zwischen den Kapiteln herzustellen.
+
+Wir hoffen, dass die Strategien und praktischen Anregungen in
+<kanadische Schulen verändern>, gleichermaßen für Familien und Pädagogen
+nützlich sein werden. Ihre Bemühungen werden die Inklusion von Menschen
+mit Behinderungen in allen Bereichen des gesellschaftlichen Lebens
+vorantreiben und das Bildungssystem für alle Schüler verbessern.
+
+Gordon L. Porter and Diane Richler
+August, 1991

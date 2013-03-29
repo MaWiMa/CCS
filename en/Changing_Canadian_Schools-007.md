@@ -1,0 +1,7 @@
+To the families (parents, siblings and students themselves)
+who have struggled for access to and equity in
+school and community and from whom we have learned
+so much; and to the teachers and educators who have
+accepted the challenge and turned vision into reality.
+
+### 007 ###

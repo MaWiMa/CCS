@@ -1,0 +1,5 @@
+This publication was prepared with financial support
+from the Department of National Health and Welfare,
+Social Service Programs Branch.
+
+### 005 ###
