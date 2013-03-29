@@ -1,0 +1,5 @@
+### 005 ###
+***
+Diese Veröffentlichung wurde mit finanzieller Unterstützung
+des Ministeriums für Gesundheit und Soziales,
+Bereich der Programme des Sozialdienstes, ermöglicht.
