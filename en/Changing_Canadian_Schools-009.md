@@ -2,7 +2,7 @@
 ***
 ### 
 
-### SECTION Three:	Innovations and Practical Applications		..............105
+SECTION Three:	Innovations and Practical Applications		..............105
 Chapter 8: The Methods and Resource Teacher
 		A Collaborative Consultant Model
 		Gordon L. Porter				..............107
