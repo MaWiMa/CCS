@@ -15,10 +15,11 @@ Issued also in French under the title:
 
 Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégration.  
 
-1. Mainstreaming in education - Canada. 2. Mentally  
-handicapped children - Education - Canada   
-I. Porter, Gordon L. II. Richler, Diane.  
-III. G. Allan Roeher Institute  
+1. Mainstreaming in education - Canada.  
+2. Mentally handicapped children - Education - Canada  
+I. Porter, Gordon L.  
+II. Richler, Diane.  
+III. G. Allan Roeher Institute    
 
 LC4634.C53 1991 371.92'806’0971 C91-094767-8  
 The Roeher Institute  
@@ -33,3 +34,7 @@ Institute Director:|Marcia H. Rioux
 Editors:|Gordon L. Porter and Diane Richler
 Publications Editor:|Laura Code
 Desktop Publishing:|Victor Salus
+
+[Copy of the originalpage](/copies-from-original/Changing_Canadian_Schools-004.pdf)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-005)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
