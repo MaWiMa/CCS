@@ -15,11 +15,8 @@ conflict and perceived to be incompatible so that we are dealing
 with changes in beliefsystems. Capability or the degree of skill
 and know-how is a perennial central problem of change.
 This is why continuous in-service education or professional
-development is a critical strategy. Given what change requires
-- persistens, coordination, follow-up, conﬂict resolution, and
-the like - leadership at all levels is required including teacher
-leaders, school administrators, school board consultants, parent
-leaders and provincial ministries.  
+development is a critical strategy. Given what change requires  
+-- persistens, coordination, follow-up, conﬂict resolution, and the like -- leadership at all levels is required including teacher leaders, school administrators, school board consultants, parent leaders and provincial ministries.  
 
 The ideas in Changing Canadian Schools provide ample
 insight for addressing the above obstacles to reform. Above
@@ -38,7 +35,6 @@ Fullan, M. (1991) The New Meaning of Educational Change.
 Toronto: OISE Press; New York: Teachers College Press.
 
 
-[Copy of the originalpage](/copies-from-original/CCS011.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
-[next page](Changing_Canadian_Schools-012)|[all pages of the transscript] (/pages/en/)
+[Copy of the originalpage](/copies-from-original/CCS011.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-012)|[all pages of the transscript] (/pages/en/)
 ---|---|---|---
 
