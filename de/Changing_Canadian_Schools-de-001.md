@@ -41,4 +41,5 @@ Die Kapitel haben folgende Titel und Autoren:
 "Auf dem Campus: Integratives Post-Sekundarschulwesen "(Melanie Panitch).  
 (80 Bezugnahmen) (DB)
 ***
-[Changing_Canadian_Schools-de-002](Changing_Canadian_Schools-de-002)|[DE] (pages/de) 
+[Changing_Canadian_Schools-de-002](Changing_Canadian_Schools-de-002)|[DE] (pages/de)
+:---|---:
