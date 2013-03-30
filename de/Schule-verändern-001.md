@@ -2,9 +2,8 @@
 ***
 # DOCUMENT RESUME
 
-
-ED 341 224 	| EC 300 899
 	---	|	---
+ED 341 224 	| EC 300 899
 AUTHOR		| Porter, Gordon L., Ed.; Richler. Diane. Ed.
 TITLE		| Changing Canadian Schools: Perspectives on Disability and Inclusion.
 INSTITUTION	| G. Allen Roeher Inst., Toronto (Ontario).
