@@ -1,27 +1,26 @@
-DOCUMENT RESUME
-ED 341 224				EC 300 899
-AUTHOR		Porter, Gordon L., Ed.; Richler. Diane. Ed.
-TITLE		Changing Canadian Schools: Perspectives on Disability and Inclusion.
-INSTITUTION	G. Allen Roeher Inst., Toronto (Ontario).
-REPORT N0	ISBN-1-895070-00-7
-PUB DATE	91
-NOTE		330p.
-AVAILABLE FROM	The Roeher Institute, Kinsman Building. York
-		University, 4700 Keele St., North York. Ontario M3J
-		1P3, Canada ($24.00).
-PUB TYPE	Collected Works - General (020)
-EDRS PRICE	MF01 Plus Postage. PC Not Available from EDRS.
-DESCRIPTCRS	Child Advocacy; Delivery Systems; *Disabilities;
-		Educational Change; Educational History; *Educational
-		Philosophy: *Educational Policy; Educational Practices;
-		Educational Trends; Elementary Secondary Education;
-		Foreign Countries; Legal Responsibility;
-		*Mainstreaming; *Parent Participation; Program Implementation;
-		Social Integration; Teacher Role; *Teaching Methods
-IDENTIFIERS 	Canada
+##### Changing Canadian Schools Page 001
+***
+### DOCUMENT RESUME
+ .|. 
+---|---
+ED 341 224 | EC 300 899
+AUTHOR | Porter, Gordon L., Ed.; Richler. Diane. Ed.
+TITLE | Changing Canadian Schools: Perspectives on Disability and Inclusion.
+INSTITUTION | G. Allen Roeher Inst., Toronto (Ontario).
+REPORT N0 | ISBN-1-895070-00-7
+PUB DATE | 91
+NOTE | 330p.
+AVAILABLE FROM | The Roeher Institute, Kinsman Building. York University, 4700 Keele St., North York. Ontario M3J 1P3, Canada ($24.00).
+PUB TYPE  | Collected Works - General (020)
+EDRS PRICE | MF01 Plus Postage. PC Not Available from EDRS. 
+DESCRIPTCORS | Child Advocacy; Delivery Systems; *Disabilities; Educational Change; Educational History; *Educational Philosophy: *Educational Policy; Educational Practices; Educational Trends; Elementary Secondary Education; Foreign Countries; Legal Responsibility; *Mainstreaming; *Parent Participation; Program Implementation; Social Integration; Teacher Role; *Teaching Methods
+IDENTIFIERS | Canada
 
-ABSTRACT
-		The 15 papers in this collection present a Canadian
+
+
+
+### ABSTRACT  
+The 15 papers in this collection present a Canadian
 perspective on providing services to children with disabilities in
 regular classes and schools. The papers are grouped into three
 sections: Philosophical, Legal and Historical Overview; Parent and
