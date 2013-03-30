@@ -26,7 +26,7 @@ account of the state-of-the-art of special education reform.
 Special education reform represents just about all the issues
 involved in bringing about educational reform. The existence
 of significant social needs even when combined with
-legislation is not sufficient to achieve reform. (We know from a -> page 11)
+legislation is not sufficient to achieve reform. ~~We know from a~~ -> page 11
 
 
 [Copy of the originalpage](/copies-from-original/CCS010.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-011)|[all pages of the transscript] (/pages/en/)
