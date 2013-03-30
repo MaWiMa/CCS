@@ -39,7 +39,7 @@ Die Kapitel haben folgende Titel und Autoren:
 "Schüler/Schüler: Der Lehrplan und die Entwicklung von gleichgestellten Beziehungen" (Julie Stone and Charlotte Campbell);  
 "Inakzeptables Verhalten: Ein Fall von Strategien sozialer Intervention für einen Schüler mit Verhaltensauffälligkeiten" (Julie Stone and Charlotte Campbell);  
 "Auf dem Campus: Integratives Post-Sekundarschulwesen "(Melanie Panitch).  
-(80 Bezugnahmen) (DB)
-***
-[Kopie der Originalseite](copies-from-original/Changing_Canadian_Schools-001.pdf)|[Schule verändern (alle Seiten)] (pages/de)|[zur folgenden Seite](Changing_Canadian_Schools-de-002)
+(80 Bezugnahmen) (DB)  
+
+[Kopie der Originalseite](/copies-from-original/Changing_Canadian_Schools-001.pdf)|[alle Seiten der Übersetzung] (pages/de)|[zur folgenden Seite](Changing_Canadian_Schools-de-002)
 ---|---|---
