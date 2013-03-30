@@ -1,6 +1,7 @@
 ### Schule verändern - from Changing Canadian Schools Page 001 ###
 ***
 DOCUMENT RESUME|
+test|test
 ---|---
 ED 341 224 	| EC 300 899  
 AUTHOR		| Porter, Gordon L., Ed.; Richler. Diane. Ed.  
@@ -14,7 +15,7 @@ AVAILABLE FROM	| The Roeher Institute, Kinsman Building. York
 		| 1P3, Canada ($24.00).  
 PUB TYPE	| Collected Works - General (020)  
 EDRS PRICE	| MF01 Plus Postage. PC Not Available from EDRS.  
-DESCRIPTCRS	| Child Advocacy; Delivery Systems; *Disabilities;  
+DESCRIPTCORS	| Child Advocacy; Delivery Systems; *Disabilities;  
 		| Educational Change; Educational History; *Educational 
 		Philosophy: *Educational Policy; Educational Practices;
 		Educational Trends; Elementary Secondary Education;
