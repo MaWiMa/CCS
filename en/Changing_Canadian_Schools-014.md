@@ -1,6 +1,7 @@
 ##### Changing Canadian Schools Page 014
 ***
 ### 
+~~anything to do with you except the people that you have daily contact with.~~
 So you don't make friends there.
 You don't know how to conduct yourself appropriately.  
 
@@ -39,6 +40,5 @@ of important strategies for teachers, school (from 15) administrators
 and special education professionals.
 
 
-[Copy of the originalpage](/copies-from-original/CCS014.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
-[next page](Changing_Canadian_Schools-015)|[all pages of the transscript] (/pages/en/)
+[Copy of the originalpage](/copies-from-original/CCS014.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-015)|[all pages of the transscript] (/pages/en/)
 ---|---|---|---
