@@ -2,9 +2,9 @@
 ***
 # DOCUMENT RESUME
 
-test|test
----|---
+
 ED 341 224 	| EC 300 899
+	---	|	---
 AUTHOR		| Porter, Gordon L., Ed.; Richler. Diane. Ed.
 TITLE		| Changing Canadian Schools: Perspectives on Disability and Inclusion.
 INSTITUTION	| G. Allen Roeher Inst., Toronto (Ontario).
@@ -16,13 +16,7 @@ AVAILABLE FROM	| The Roeher Institute, Kinsman Building. York
 		| 1P3, Canada ($24.00).
 PUB TYPE	| Collected Works - General (020)
 EDRS PRICE	| MF01 Plus Postage. PC Not Available from EDRS. 
-DESCRIPTCORS	| Child Advocacy; Delivery Systems; *Disabilities;
-		| Educational Change; Educational History; *Educational
-		Philosophy: *Educational Policy; Educational Practices;
-		Educational Trends; Elementary Secondary Education;
-		Foreign Countries; Legal Responsibility;
-		*Mainstreaming; *Parent Participation; Program Implementation;
-		Social Integration; Teacher Role; *Teaching Methods
+DESCRIPTCORS	| Child Advocacy; Delivery Systems; *Disabilities; Educational Change; Educational History; *Educational Philosophy: *Educational Policy; Educational Practices; Educational Trends; Elementary Secondary Education; Foreign Countries; Legal Responsibility; *Mainstreaming; *Parent Participation; Program Implementation; Social Integration; Teacher Role; *Teaching Methods
 IDENTIFIERS 	| Canada
 
 
