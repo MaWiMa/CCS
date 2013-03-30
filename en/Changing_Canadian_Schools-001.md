@@ -17,8 +17,6 @@ DESCRIPTCORS | Child Advocacy; Delivery Systems; *Disabilities; Educational Chan
 IDENTIFIERS | Canada
 
 
-
-
 ### ABSTRACT  
 The 15 papers in this collection present a Canadian
 perspective on providing services to children with disabilities in
@@ -43,4 +41,6 @@ Chapters have the following titles and authors:
 "On Campus: Integrated Post-Secondary Education" (Melanie Panitch).
 (80 references) (DB)
 
-### 001 ###
+[Copy of the originalpage](/copies-from-original/Changing_Canadian_Schools-???.pdf)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-???)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
+
