@@ -1,3 +1,3 @@
 ### [Changing Canadian Schools Transscript and Translation](readme)
 ***
-[_TOC_]]  
+[[_TOC_]]  
