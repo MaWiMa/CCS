@@ -5,7 +5,7 @@
 # Preface
 As someone interested in issues of social reform and strategies
 for change, I feel it is a special privilege to write this preface
-for Chanching Canadian Schools.
+for *Changing Canadian Schools.*
 This is a very well balanced, thorough, and practical book.
 Its chapters contain clear analysis of all the roles involved in
 changing special education practices. It provides perspectives
