@@ -1,4 +1,8 @@
-SECTION Three:	Innovations and Practical Applications		..............105
+##### Changing Canadian Schools Page 009
+***
+### 
+
+### SECTION Three:	Innovations and Practical Applications		..............105
 Chapter 8: The Methods and Resource Teacher
 		A Collaborative Consultant Model
 		Gordon L. Porter				..............107
@@ -28,4 +32,8 @@ The Roeher Institute Information Services
 		Annotated Bibliography on Integrated Education	..............295
 Editors and Contributors					..............329
 
-### 009 ###
+
+[Copy of the originalpage](/copies-from-original/CCS009.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-010)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
+

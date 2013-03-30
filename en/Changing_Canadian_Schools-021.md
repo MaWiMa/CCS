@@ -1,14 +1,18 @@
+##### Changing Canadian Schools Page 021
+***
+### 
+
 With few exceptions, Canadian school boards have generally offered
 options that have become the standard both in this country
 (Caapo and Goguen, 1980) and in the United States under public
-Law 94-142 (Gartner and Lipsky, 1987):
+Law 94-142 (Gartner and Lipsky, 1987):  
 
 -> "pull-out" resource room programs for students with mild
 disabilities;
 -> segregated schools or segragated classes in regular schools
 for students with moderate or severe disabilities;
 -> individual cases of integration for students with moderate
-disabilities.
+disabilities.  
 
 However, while education is an area of provincial jurisdiction,
 the context in which provincial education legislation operates
@@ -34,5 +38,8 @@ programs are a natural target for litigation based on the Charter
 an increased awareness of and sensi (from 22) tivity to the
 question of school integration for students with disabilities.
 
-### 021 ###
+[Copy of the originalpage](/copies-from-original/CCS021.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-022)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
+
 

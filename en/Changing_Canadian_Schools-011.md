@@ -1,5 +1,9 @@
+##### Changing Canadian Schools Page 011
+***
+### 
+
 We know from a lot of research that knowledge of the change process is also
-crucial (Fullan, 1991).
+crucial (Fullan, 1991).  
 Some of the key obstacles to reform include the problems
 of complexity, compatibility, capability, and lack of coordinated
 leadership. Special education reform reflects all of these
@@ -15,7 +19,7 @@ development is a critical strategy. Given what change requires
 - persistens, coordination, follow-up, conﬂict resolution, and
 the like - leadership at all levels is required including teacher
 leaders, school administrators, school board consultants, parent
-leaders and provincial ministries.
+leaders and provincial ministries.  
 
 The ideas in Changing Canadian Schools provide ample
 insight for addressing the above obstacles to reform. Above
@@ -26,11 +30,15 @@ same direction they begin to intersect, and influence others
 along the way. We have in this book a compilation of the
 struggles and success stories of such individuals whose efforts
 have begun to add up and to make a substantial difference and
-improvement in educational practice.
+improvement in educational practice.  
 
-Dr. G. Michael Fullan
-Dean, Faculty of Education, University of Toronto.
-Fullan, M. (1991) The New Meaning of Educational Change.
+Dr. G. Michael Fullan  
+Dean, Faculty of Education, University of Toronto.  
+Fullan, M. (1991) The New Meaning of Educational Change.  
 Toronto: OISE Press; New York: Teachers College Press.
 
-### 11 ###
+
+[Copy of the originalpage](/copies-from-original/CCS011.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-012)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
+

@@ -1,4 +1,8 @@
-Preface
+##### Changing Canadian Schools Page 010
+***
+### 
+
+# Preface
 As someone interested in issues of social reform and strategies
 for change, I feel it is a special privilege to write this preface
 for Chanching Canadian Schools.
@@ -24,4 +28,7 @@ involved in bringing about educational reform. The existence
 of significant social needs even when combined with
 legislation is not sufficient to achieve reform. (We know from a -> page 11)
 
-### 010 ###
+
+[Copy of the originalpage](/copies-from-original/CCS010.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-011)|[all pages of the transscript] (/pages/en/)
+---|---|---|---

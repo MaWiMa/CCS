@@ -35,6 +35,6 @@ Editors:|Gordon L. Porter and Diane Richler
 Publications Editor:|Laura Code
 Desktop Publishing:|Victor Salus
 
-[Copy of the originalpage](/copies-from-original/Changing_Canadian_Schools-004.pdf)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[Copy of the originalpage](/copies-from-original/CCS004.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
 [next page](Changing_Canadian_Schools-005)|[all pages of the transscript] (/pages/en/)
 ---|---|---|---

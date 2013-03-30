@@ -1,5 +1,8 @@
+##### Changing Canadian Schools Page 014
+***
+### 
 So you don't make friends there.
-You don't know how to conduct yourself appropriately.
+You don't know how to conduct yourself appropriately.  
 
 The second section, Parent and Self-Advocacy is a glimpse
 into the personal drama that lies behind years of legal action and
@@ -24,7 +27,7 @@ They also reveal the extent of their involvement in the politics and
 complexities of the education systems as they met with resistance
 and worked to understand and untangle a mass of bureaucracy.
 It was often the case that they were lobbying for concepts which
-people in the education system had not yet begun to consider.
+people in the education system had not yet begun to consider.  
 
 The third section, Innovations and Practical Applications
 describes the fruits of these parents' efforts - inclusion in action.
@@ -35,4 +38,7 @@ in implementing inclusive programs through the development and pursuit
 of important strategies for teachers, school (from 15) administrators
 and special education professionals.
 
-### 14 ###
+
+[Copy of the originalpage](/copies-from-original/CCS014.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
+[next page](Changing_Canadian_Schools-015)|[all pages of the transscript] (/pages/en/)
+---|---|---|---
