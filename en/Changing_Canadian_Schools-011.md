@@ -18,7 +18,7 @@ This is why continuous in-service education or professional
 development is a critical strategy. Given what change requires  
 -- persistens, coordination, follow-up, conﬂict resolution, and the like -- leadership at all levels is required including teacher leaders, school administrators, school board consultants, parent leaders and provincial ministries.  
 
-The ideas in Changing Canadian Schools provide ample
+The ideas in *Changing Canadian Schools* provide ample
 insight for addressing the above obstacles to reform. Above
 all, the book demonstrates that we should not wait for someone
 else to take the first step. It takes each individual pushing for
@@ -29,12 +29,13 @@ struggles and success stories of such individuals whose efforts
 have begun to add up and to make a substantial difference and
 improvement in educational practice.  
 
-Dr. G. Michael Fullan  
-Dean, Faculty of Education, University of Toronto.  
-Fullan, M. (1991) The New Meaning of Educational Change.  
-Toronto: OISE Press; New York: Teachers College Press.
+*Dr. G. Michael Fullan*  
+*Dean, Faculty of Education, University of Toronto.*  
+*Fullan, M. (1991) The New Meaning of Educational Change.*  
+*Toronto: OISE Press; New York: Teachers College Press.*
 
 
-[Copy of the originalpage](/copies-from-original/CCS011.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-012)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS011.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-012) |[whole transscript] (/pages/en/)
 ---|---|---|---
+
 
