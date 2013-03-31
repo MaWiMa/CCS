@@ -1,9 +1,9 @@
 ##### Changing Canadian Schools Page 014
-***
+
 ### 
-~~anything to do with you except the people that you have daily contact with.~~
+*~~anything to do with you except the people that you have daily contact with.~~
 So you don't make friends there.
-You don't know how to conduct yourself appropriately.  
+You don't know how to conduct yourself appropriately.*  
 
 The second section, Parent and Self-Advocacy is a glimpse
 into the personal drama that lies behind years of legal action and
