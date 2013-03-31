@@ -14,7 +14,7 @@ perspective on the issue in question. The books three sections-
 Philosophical, legal and Historical Overview; Parent and Self-
 Advocacy; and Innovations and Practical Applications - parallel
 the evolution of an inclusionary approach to schooling.
-The first section describes the ideals and attitudes that led
+**The first section** describes the ideals and attitudes that led
 to a desire for inclusive education. Various contributors explain
 the social theory and legal action that arose as people began to work
 towards their ideals.
@@ -29,7 +29,7 @@ a founding member of People First of Canada, an advocacy organization
 of individuals who have been labelled mentally handicapped, sums up
 the situation:  
 
-*I have to thank my father and mother for not putting me in
+> *I have to thank my father and mother for not putting me in
 a segregated school back in the '50s when they were just
 starting. They said. "No, you have to go a regular school",
 and I have benefitted from it. I had regular friends, got into
