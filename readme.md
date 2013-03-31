@@ -8,3 +8,12 @@ Until 2011 you could download the book from [www.eric.ed.gov]
 I split the copy into each page to go through translation side by side.
 If you want to work with me (or maybe later us), you should know how to use [git](http://git-scm.com/) and write [markdown](http://daringfireball.net/projects/markdown/). It is all quiet simple, *if I can do this everybody can do it!* All work can be done within a simple editor.  
 I run the wiki with [gollum](https://github.com/gollum/gollum/blob/master/README.md) at home, it is really lovely and simple do work with that software. 
+
+.  
+.  
+###### Changing Canadian Schools
+
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]  
+[[Transscript] (/pages/en/) in englisch]  
+[[Abschrift] (/pages/de/) in deutsch]
+
