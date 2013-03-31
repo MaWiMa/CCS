@@ -38,8 +38,8 @@ programs are a natural target for litigation based on the Charter
 an increased awareness of and sensi (from 22) tivity to the
 question of school integration for students with disabilities.
 
-[Copy of the originalpage](/copies-from-original/CCS021.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
-[next page](Changing_Canadian_Schools-022)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS021.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-022) |[whole transscript] (/pages/en/)
+
 ---|---|---|---
 
 
