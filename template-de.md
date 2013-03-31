@@ -1,4 +1,4 @@
-###
+#### 
 .  
 .  
 
@@ -6,5 +6,5 @@
 
 [Kopie der [Originalseite](/copies-from-original/CCS???.png)]
 [[Abschrift der Originalseite](/en/Changing_Canadian_Schools-???)]
-[[alle Seiten der Übersetzung] (/pages/de/)]
-[[zur folgenden Seite der Übersetzung](Changing_Canadian_Schools-de-????)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-????) der Übersetzung]
