@@ -1,31 +1,22 @@
 ##### Changing Canadian Schools Page 020
 ***
 ### 
--> The education minister should immediately give school
-boards the funds they need to meet the requirements of the bill.
--> More training on teaching exceptional children should be
-provided to teachers and ... should provide more such training
+- The education minister should immediately give school boards the funds they need to meet the requirements of the bill.
+- More training on teaching exceptional children should be provided to teachers and ... should provide more such training
 in their education programs.
--> The education minister should provide leadership by accenting
-the successes and positive points of integration (Committee
+- The education minister should provide leadership by accenting the successes and positive points of integration (Committee
 reports, 1989).
 
-Continuing controversy over integration and intensive preasure
-from the province's teachers' union had prompted the minister of
-education in May 1989, to mandate this committee with the task of
-reviewing the integration process that has been under way in New
-Brunswick since the passage of Bill 85 in 1986. Union leaders had
-maintained that integration was putting New Brunswick's already
-strained education system at risk of collapse. The president of
-the New Brunswick Teachers’ Association claimed that "integration
-is turning classrooms into zoos" and creating conditions in which
+Continuing controversy over integration and intensive preasure from the province's teachers' union had prompted the minister of education in May 1989, to mandate this committee with the task of
+reviewing the integration process that has been under way in New Brunswick since the passage of Bill 85 in 1986. Union leaders had maintained that integration was putting New Brunswick's already
+strained education system at risk of collapse. The president of the New Brunswick Teachers’ Association claimed that "integration is turning classrooms into zoos" and creating conditions in which
 "teachers can't teach and students can't learn" (Benteau, 1989).
 The union insisted that the "horror stories" of integration be
 made public and that the issue be included in their negotiation
 of a new collective agreement (Richardson, 1989). As a result, the
 committee's strong support for the integration process came as a
 surprise to many and as a relief to advocates for students with
-disabilities.
+disabilities.  
 
 While provincial legislation in Canada requires school boards to
 provide educational services to students with disabilities, how
@@ -38,6 +29,5 @@ legislation governing schools, but the right of a student
 with disabilities to placement in a regular class with (from 21)
 his or her nondisabled peers is not asured.
 
-[Copy of the originalpage](/copies-from-original/CCS020.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|
-[next page](Changing_Canadian_Schools-021)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS020.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-021) |[whole transscript] (/pages/en/)
 ---|---|---|---
