@@ -23,7 +23,7 @@ perspective on providing services to children with disabilities in
 regular classes and schools. The papers are grouped into three
 sections: Philosophical, Legal and Historical Overview; Parent and
 Self-Advocacy; and Innovations and Practical Applications.
-Chapters have the following titles and authors:
+Chapters have the following titles and authors:  
 "Changing Special Education Practice: Law, Advocacy and Innovation" (Gordon L. Porter and Diane Richler);  
 "Inclusive Education as Social Policy" (Diane Richler);  
 "Education: A System of Social Disempowerment" (Marcia H. Rioux);  
