@@ -1,5 +1,4 @@
 ##### Changing Canadian Schools Page 018
-***
 # Chapter 1
 #### Changing Special Education Practice:    Law, Advocacy and Innovation  
 *by Gordon L. Porter and Diane Richler*  
