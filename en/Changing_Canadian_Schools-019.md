@@ -1,6 +1,7 @@
 ##### Changing Canadian Schools Page 019
-***
+
 ### 
+~~rationalization of the need for parallel and separate systems.~~  
 During the 1980s, the process of gradual, evolutionary
 change in special education practice in Canada was subject to
 increasing challenge. In this chapter we discuss three factors
