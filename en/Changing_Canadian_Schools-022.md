@@ -1,5 +1,3 @@
-
-
 ~~tivity to the question of school integration for students with disabilities.~~
 In 1986, a Nova Scotia couple, Rick and Maureen Elwood,
 obtained a court injunction to keep their son Luke, who had
