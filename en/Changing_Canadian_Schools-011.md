@@ -1,5 +1,5 @@
 ##### Changing Canadian Schools Page 011
-***
+
 ### 
 
 We know from a lot of research that knowledge of the change process is also
