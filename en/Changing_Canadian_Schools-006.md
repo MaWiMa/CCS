@@ -35,6 +35,6 @@ Kinsmen Buildung, York University, 4700 Keele Street,
 North York, Ontario, Canada MSJ 1P3 (416) 661-9611
 
 
-[Copy of the originalpage](/copies-from-original/CCS006.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-007)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS006.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-007) |[whole transscript] (/pages/en/)
 ---|---|---|---
 
