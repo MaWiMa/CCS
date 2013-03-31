@@ -28,6 +28,6 @@ involved in bringing about educational reform. The existence
 of significant social needs even when combined with
 legislation is not sufficient to achieve reform. ~~We know from a~~ -> page 11
 
-
-[Copy of the originalpage](/copies-from-original/CCS010.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-011)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS010.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-011) |[whole transscript] (/pages/en/)
 ---|---|---|---
+
