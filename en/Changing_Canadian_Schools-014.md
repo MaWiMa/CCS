@@ -1,7 +1,7 @@
 ##### Changing Canadian Schools Page 014
 
 ### 
-*~~anything to do with you except the people that you have daily contact with.~~
+> *~~anything to do with you except the people that you have daily contact with.~~
 So you don't make friends there.
 You don't know how to conduct yourself appropriately.*  
 
@@ -30,7 +30,7 @@ and worked to understand and untangle a mass of bureaucracy.
 It was often the case that they were lobbying for concepts which
 people in the education system had not yet begun to consider.  
 
-The third section, Innovations and Practical Applications
+**The third section**, Innovations and Practical Applications
 describes the fruits of these parents' efforts - inclusion in action.
 As the education system has begun to adapt to demands for
 inclusion, new approaches have evolved at all levels. The chapters 
