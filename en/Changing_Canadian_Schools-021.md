@@ -36,7 +36,7 @@ an increased awareness of and sensi (from 22) tivity to the
 question of school integration for students with disabilities.
   
 .  
-  
+.    
 ###### Changing Canadian Schools Page 021
 ### 
 
