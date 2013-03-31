@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 015
-
-### 
  ~~administrators and special education professionals.~~
 These strategies cover the many facets of preparation for
 and planning of inclusion, such as curriculum development
@@ -38,5 +35,11 @@ are met appropriately, and I hope that soon the word
 "integrated" will be unnecessary. But we are not at that
 stage yet.*
 
-copy of the [original page](/copies-from-original/CCS015.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-016) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 015
+
+[copy of the [original page](/copies-from-original/CCS015.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-016)]
+[[whole transscript] (/pages/en/)]

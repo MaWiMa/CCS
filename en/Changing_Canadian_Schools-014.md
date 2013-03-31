@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 014
-
-### 
 > *~~anything to do with you except the people that you have daily contact with.~~
 So you don't make friends there.
 You don't know how to conduct yourself appropriately.*  
@@ -39,5 +36,11 @@ in implementing inclusive programs through the development and pursuit
 of important strategies for teachers, school (from 15) administrators
 and special education professionals.
 
-copy of the [original page](/copies-from-original/CCS014.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-015) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 014
+
+[copy of the [original page](/copies-from-original/CCS014.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-015)]
+[[whole transscript] (/pages/en/)]

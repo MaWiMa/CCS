@@ -1,7 +1,3 @@
-##### Changing Canadian Schools Page 008
-***
-### 
-
 Table of Contents||P 1|
 ---|---|---
 Preface | |.....i
@@ -16,7 +12,11 @@ Chapter 5: |Principles of Change: A Parent’s Perspective on the Education Syst
 Chapter 6: | The Road to Inclusion:  One Family's Story  Alene Steinbeck |....89
 Chapter 7: | A Will to Learn: The Experiences of a Self-Advocate in the Education System Marcia Marcaccio |...101
 
-###  
-copy of the [original page](/copies-from-original/CCS008.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-009) |[whole transscript] (/pages/en/)
----|---|---|---
-###
+.  
+.  
+###### Changing Canadian Schools Page 008
+
+[copy of the [original page](/copies-from-original/CCS008.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-009)]
+[[whole transscript] (/pages/en/)]

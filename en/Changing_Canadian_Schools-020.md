@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 020
-
-### 
 - The education minister should immediately give school boards the funds they need to meet the requirements of the bill.
 - More training on teaching exceptional children should be provided to teachers and ... should provide more such training
 in their education programs.
@@ -29,5 +26,11 @@ legislation governing schools, but the right of a student
 with disabilities to placement in a regular class with (from 21)
 his or her nondisabled peers is not asured.
 
-copy of the [original page](/copies-from-original/CCS020.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-021) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 020
+
+[copy of the [original page](/copies-from-original/CCS020.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-021)]
+[[whole transscript] (/pages/en/)]

@@ -1,7 +1,3 @@
-##### Changing Canadian Schools Page 011
-
-### 
-
 We know from a lot of research that knowledge of the change process is also
 crucial (Fullan, 1991).  
 Some of the key obstacles to reform include the problems
@@ -35,7 +31,11 @@ improvement in educational practice.
 *Toronto: OISE Press; New York: Teachers College Press.*
 
 
-copy of the [original page](/copies-from-original/CCS011.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-012) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 011
 
-
+[copy of the [original page](/copies-from-original/CCS011.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-012)]
+[[whole transscript] (/pages/en/)]

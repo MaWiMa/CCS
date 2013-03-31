@@ -1,7 +1,3 @@
-##### Changing Canadian Schools Page 013
-
-### 
-
 In Chapter 1, we have identified three factors connected to achieving school integration:  
 - law - a legal and legislative base  
 - Advocacy - a vision clearly articulated and effectively
@@ -38,6 +34,11 @@ growing up.
 When you are in a segregated setting nobody else wants to talk to you,
 nobody wants to have (from page 14) anything to do with you except the people that you have daily contact with.*
 
-### 
-copy of the [original page](/copies-from-original/CCS013.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-014) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 013
+
+[copy of the [original page](/copies-from-original/CCS013.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-014)]
+[[whole transscript] (/pages/en/)]

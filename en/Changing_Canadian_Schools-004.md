@@ -1,5 +1,3 @@
-##### Changing Canadian Schools Page 004
-***
 Copyright © 1991, The Roeher Institute  
 All rights reserved. The use of any part of this publication reproduced,
 transmitted in any form by any means, electronic, mechanical, photocopying,
@@ -35,5 +33,11 @@ Editors:|Gordon L. Porter and Diane Richler
 Publications Editor:|Laura Code
 Desktop Publishing:|Victor Salus
 
-copy of the [original page](/copies-from-original/CCS004.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-005) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 004
+
+[copy of the [original page](/copies-from-original/CCS004.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-005)]
+[[whole transscript] (/pages/en/)]

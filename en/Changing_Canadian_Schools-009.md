@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 009
-***
-### 
 Table of Contents||P 2|
 ---|---|---
 SECTION Three: |	Innovations and Practical Applications |...105
@@ -15,7 +12,11 @@ Chapter 15: | On Campus Integrated Post-Secondary Education Melanie Panitch |...
  |The Roeher Institute Information Services	Annotated Bibliography on Integrated Education |...295
  |Editors and Contributors |...329
 
-### 
-copy of the [original page](/copies-from-original/CCS009.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-010) |[whole transscript] (/pages/en/)
----|---|---|---
-###
+.  
+.  
+###### Changing Canadian Schools Page 009
+
+[copy of the [original page](/copies-from-original/CCS009.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-010)]
+[[whole transscript] (/pages/en/)]

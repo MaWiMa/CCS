@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 019
-
-### 
 ~~rationalization of the need for parallel and separate systems.~~  
 During the 1980s, the process of gradual, evolutionary
 change in special education practice in Canada was subject to
@@ -33,5 +30,11 @@ which mandated the integration of special needs children
 into the regular school system.
 - The education minister should clear up differences over interpretation and implementation of the act and issue "clear directives to all school boards."
 
-copy of the [original page](/copies-from-original/CCS019.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-020) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 019
+
+[copy of the [original page](/copies-from-original/CCS019.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-020)]
+[[whole transscript] (/pages/en/)]

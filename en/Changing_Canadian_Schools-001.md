@@ -1,5 +1,3 @@
-##### Changing Canadian Schools Page 001
-***
 ### DOCUMENT RESUME
 |||
 ---|---
@@ -41,6 +39,12 @@ Chapters have the following titles and authors:
 "On Campus: Integrated Post-Secondary Education" (Melanie Panitch).  
 (80 references) (DB)
 
-copy of the [original page](/copies-from-original/CCS001.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-002) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 001
+
+[copy of the [original page](/copies-from-original/CCS001.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-002)]
+[[whole transscript] (/pages/en/)]
 

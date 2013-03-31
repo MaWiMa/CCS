@@ -1,6 +1,3 @@
-##### Changing Canadian Schools Page 016
-
-### 
 This book has taken several years to prepare and in the course
 of that time we have been anxious to finish it. At the same time
 we have been pleased that our contributors have had more
@@ -40,5 +37,11 @@ education system for all students.
 August, 1991*  
 
 
-copy of the [original page](/copies-from-original/CCS016.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-017) |[whole transscript] (/pages/en/)
----|---|---|---
+.  
+.  
+###### Changing Canadian Schools Page 016
+
+[copy of the [original page](/copies-from-original/CCS016.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-017)]
+[[whole transscript] (/pages/en/)]
