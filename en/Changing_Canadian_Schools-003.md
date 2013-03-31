@@ -9,7 +9,7 @@ Dr. G.Michael Fullan
 Dean, Faculty of Education
 University of Toronto
 
-The Roeher Institute
+The Roeher Institute  
 
-[Copy of the originalpage](/copies-from-original/CCS003.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-004)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS003.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-004) |[whole transscript] (/pages/en/)
 ---|---|---|---
