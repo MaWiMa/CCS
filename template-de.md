@@ -1,4 +1,4 @@
-# Schule verändern - from Changing Canadian Schools
+# Schule verändern
 .  
 .  
 
