@@ -34,10 +34,9 @@ programs are a natural target for litigation based on *the Charter*
 (Donahue, 1988; MacKay, 1987a). In any event, there has been
 an increased awareness of and sensi (from 22) tivity to the
 question of school integration for students with disabilities.
-
+  
 .  
-.  
-.  
+  
 ###### Changing Canadian Schools Page 021
 ### 
 
