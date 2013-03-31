@@ -37,7 +37,9 @@ question of school integration for students with disabilities.
 
 ##### Changing Canadian Schools Page 021
 ### 
+
+|Changing Canadian Schools Page 021|||
+---|---|---
 copy of the [original page](/copies-from-original/CCS021.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-022) |[whole transscript] (/pages/en/)
----|---|---|---
 
 
