@@ -1,7 +1,7 @@
 ##### Changing Canadian Schools Page 001
 ***
 ### DOCUMENT RESUME
- .|. 
+|||
 ---|---
 ED 341 224 | EC 300 899
 AUTHOR | Porter, Gordon L., Ed.; Richler. Diane. Ed.
