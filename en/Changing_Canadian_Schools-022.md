@@ -1,5 +1,6 @@
 ##### Changing Canadian Schools Page 022
 ***
+~~tivity to the question of school integration for students with disabilities.~~
 In 1986, a Nova Scotia couple, Rick and Maureen Elwood,
 obtained a court injunction to keep their son Luke, who had
 been labelled mentally handicapped since birth, in a regular
@@ -39,5 +40,6 @@ dispute (Batten. 1988). The school board agreed to the parents’
 that assured Luke Elwood an integrated school program with
 appropriate support (MacKay, 1987b).  
 
-[Copy of the originalpage](/copies-from-original/CCS022.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-023)|[all pages of the transscript] (/pages/en/)
+copy of the [original page](/copies-from-original/CCS022.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-023) |[whole transscript] (/pages/en/)
+
 ---|---|---|---
