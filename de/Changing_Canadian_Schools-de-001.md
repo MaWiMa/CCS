@@ -1,7 +1,7 @@
 ##### Schule verändern - from Changing Canadian Schools Page 001 ####
 ***
 ### DOCUMENT RESUME
- ||| 
+|||
 ---|---
 ED 341 224 | EC 300 899
 AUTHOR | Porter, Gordon L., Ed.; Richler. Diane. Ed.
@@ -41,5 +41,5 @@ Die Kapitel haben folgende Titel und Autoren:
 "Auf dem Campus: Integratives Post-Sekundarschulwesen "(Melanie Panitch).  
 (80 Bezugnahmen) (DB)  
 
-Kopie der [Originalseite](/copies-from-original/Changing_Canadian_Schools-001.pdf)|[Abschrift der Originalseite](/en/Changing_Canadian_Schools-001)|[zur folgenden Seite der Übersetzung](Changing_Canadian_Schools-de-002)|[alle Seiten der Übersetzung] (/pages/de/)
+Kopie der [Originalseite](/copies-from-original/Changing_Canadian_Schools-001.pdf)|[Abschrift der Originalseite](/en/Changing_Canadian_Schools-001)|[nächste Seite](Changing_Canadian_Schools-de-002) der Übersetzung|[alle Seiten der Übersetzung] (/pages/de/)
 ---|---|---|---
