@@ -5,7 +5,7 @@
 So you don't make friends there.
 You don't know how to conduct yourself appropriately.*  
 
-The second section, Parent and Self-Advocacy is a glimpse
+**The second section**, Parent and Self-Advocacy is a glimpse
 into the personal drama that lies behind years of legal action and
 lobbying driven by parents who persistently challenged established
 systems. As with other aspects of the comunity living movement,
