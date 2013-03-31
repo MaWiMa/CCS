@@ -1,6 +1,6 @@
 # Changing Canadian Schools
 ### homepage for wikiusers 
-For details looks at the readme here: 
+For details look at the readme here: 
 [Changing Canadian Schools Transscript and Translation](readme)
 
 .  
