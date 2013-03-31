@@ -1,9 +1,8 @@
 ##### Changing Canadian Schools Page 018
 ***
 # Chapter 1
-###### Changing Special Education Practice: 
-###### Law, Advocacy and Innovation  
-by Gordon L. Porter and Diane Richler  
+#### Changing Special Education Practice:    Law, Advocacy and Innovation  
+*by Gordon L. Porter and Diane Richler*  
 
 It is somewhat ironic that the very organizations that first legitimized the education of children who have mental handicaps are now the ones fighting to dismantle the systems that are the product of their success. Yet, when the Canadian Association for Community Living (CACL) established a task force to identify issues facing the advocacy movement for people with mental handicaps, integrated education was rated a top priority (CACL, 1987). The goal of the Association is to promote the participation of people with mental handicaps in their communities by focusing on their citizenship (the power to exercise their rights), their inclusion (as full members of their communities), and their self-determination (the power to
 make their own decisions).    
