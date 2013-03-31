@@ -1,4 +1,4 @@
-### Changing Canadian Schools
+# Changing Canadian Schools
 #### Transscript and Translation  
 Since 5th of March 2013 I try to translate -Changing Canadian Schools- into German.  
 Changing Canadian Schools is a book from the early 90s and I read it the first time in 2011 because of [professional interest] (inclusion/Inklusion.pdf) on inclusion.
