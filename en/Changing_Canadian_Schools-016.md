@@ -1,5 +1,5 @@
 ##### Changing Canadian Schools Page 016
-***
+
 ### 
 This book has taken several years to prepare and in the course
 of that time we have been anxious to finish it. At the same time
@@ -31,13 +31,13 @@ rework their material in order to produce a balance between the
 chapters.  
 
 We hope the strategies and practical suggestions presented in
-Changing Canadian Schools will be useful to families and educators
+*Changing Canadian Schools* will be useful to families and educators
 alike. Their efforts will promote the inclusion of people with
 disabilities in all aspects of community life, and improve the
 education system for all students.  
 
-Gordon L. Porter and Diane Richler  
-August, 1991  
+*Gordon L. Porter and Diane Richler  
+August, 1991*  
 
 
 copy of the [original page](/copies-from-original/CCS016.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-017) |[whole transscript] (/pages/en/)
