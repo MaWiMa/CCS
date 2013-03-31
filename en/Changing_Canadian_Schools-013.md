@@ -1,5 +1,5 @@
 ##### Changing Canadian Schools Page 013
-***
+
 ### 
 
 In Chapter 1, we have identified three factors connected to achieving school integration:  
@@ -28,15 +28,16 @@ individuals can participate, regardless of disability. Peter Park,
 a founding member of People First of Canada, an advocacy organization
 of individuals who have been labelled mentally handicapped, sums up
 the situation:  
-I have to thank my father and mother for not putting me in
+
+*I have to thank my father and mother for not putting me in
 a segregated school back in the '50s when they were just
 starting. They said. "No, you have to go a regular school",
 and I have benefitted from it. I had regular friends, got into
 regular trouble, and all the things a person does when they are
 growing up.
 When you are in a segregated setting nobody else wants to talk to you,
-nobody wants to have (from page 14) anything to do with you except the people that you have daily contact with.
+nobody wants to have (from page 14) anything to do with you except the people that you have daily contact with.*
 
-
+### 
 copy of the [original page](/copies-from-original/CCS013.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-014) |[whole transscript] (/pages/en/)
 ---|---|---|---
