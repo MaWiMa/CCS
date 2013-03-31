@@ -2,7 +2,7 @@
 ***
 ### 
 
-# Introduction
+### Introduction
 
 An idea which was dismissed by all but a few educators just a
 decade ago is now becoming reality in an increasing number
@@ -26,6 +26,7 @@ circumstances to the point where inclusion in regular classes
 in the neighbourhood school is taken for granted.
 This book is meant to assist those who want to contribute to this effort.
 
-
-[Copy of the originalpage](/copies-from-original/CCS012.png)|[complete copy of Changing Canadian Schools](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf)|[next page](Changing_Canadian_Schools-013)|[all pages of the transscript] (/pages/en/)
+###
+copy of the [original page](/copies-from-original/CCS012.png)|[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools|[next page](Changing_Canadian_Schools-013) |[whole transscript] (/pages/en/)
 ---|---|---|---
+###
