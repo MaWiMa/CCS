@@ -1,5 +1,4 @@
 # Schule verändern
-***
 ### DOCUMENT RESUME
 |||
 ---|---
@@ -17,7 +16,7 @@ DESCRIPTCORS | Child Advocacy; Delivery Systems; *Disabilities; Educational Chan
 IDENTIFIERS | Canada
 
 
-### ZUSAMMENFASSUNG  
+### ZUSAMMENFASSUNG 
 Die 15 Papiere in dieser Sammlung präsentieren eine kanadische
 Perspektive auf die Bereitstellung von Diensten für Kinder mit Behinderungen in
 Regelklassen und -Schulen. Die Papiere sind in drei Abschnitte unterteilt:
