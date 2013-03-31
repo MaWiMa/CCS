@@ -1,5 +1,4 @@
 ##### Changing Canadian Schools Page 021
-***
 ### 
 ~~his or her nondisabled peers is not asured.~~
 With few exceptions, Canadian school boards have generally offered
@@ -16,9 +15,8 @@ disabilities.
 
 However, while education is an area of provincial jurisdiction,
 the context in which provincial education legislation operates
-underwent a dramatic shift when the Canadian Charter of Rights
-and Freedoms was entrenched in the Canadian constitution 1982.
-Several sections of the Charter have implications for policy
+underwent a dramatic shift when the Canadian Charter of Rights and Freedoms was entrenched in the Canadian constitution 1982.
+Several sections of the *Charter* have implications for policy
 and practice relevant to the education of students with mental
 and/or physical disabilities (McKay, 1984; Vickers and Endicott,
 1985). It has been suggested that the aspects of education
