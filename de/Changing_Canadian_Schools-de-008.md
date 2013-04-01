@@ -1,13 +1,10 @@
-### 008 ###
-
-Inhalt
 # Schule verändern
+### Inhalt
 
 ||||
 ---|---|---
 Vorwort	| |				      			.....i
 Einleitung | |							.....1
-
 Abschnitt Eins: | 	philosophische, juristische und historische Übersicht |  .....7
 Kapitel 1: |  Die Praxis des Förderunterrichtes ändern: Recht, Interessenvertretung und Innovation Gordon L. Porter und Diane Richler | .....9
 Kapitel 2: |  Inklusive Bildung als Sozialpolitik Diane Richler	| ....35
@@ -23,7 +20,7 @@ Kapitel 7: |  Der Wille zu lernen: Die Erfahrungen eines Selbstbestimmten im Bil
 
 ###### Schule verändern - from Changing Canadian Schools Page 001
 
-[Kopie der [Originalseite](/copies-from-original/CCS001.png)]
-[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-001)]
+[Kopie der [Originalseite](/copies-from-original/CCS008.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-008)]
 [[alle Seiten ] (/pages/de/) der Übersetzung]
-[zur [folgenden Seite](Changing_Canadian_Schools-de-002) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-009) der Übersetzung]
