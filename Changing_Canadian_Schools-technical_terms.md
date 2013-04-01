@@ -14,7 +14,7 @@ EN | DE
 *special education resource teacher* | Förderschullehrer/Förderpädagoge
 *self-advocacy* | Selbstbestimmung
 *education ministries* | Bildungsministerien
-
+*school board* | Schulamt/Schulausschuss
 .  
 .  
 ###### Changing Canadian Schools

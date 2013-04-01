@@ -32,7 +32,7 @@ the case could go to full trial. As a result, Nathalie Robichaud,
 like Luke Elwood, attended a regular class while the legal manoeuvring
 went on in the background. In June 1989, several weeks after the
 Spechial Committee of Lagislators received its mandate to review progress
-toward integration, the Robichauds were (from 25) scheduld to take
+toward integration, the Robichauds were (from 25) scheduled to take
 their case to court.
 
 .  
