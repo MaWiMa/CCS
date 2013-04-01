@@ -1,8 +1,12 @@
 # Schule verändern
 .  
 .  
+.  
 ### Abschnitt Eins
 # philosophische, juristische und historische Übersicht
+.  
+.  
+.  
 
 .  
 .  
