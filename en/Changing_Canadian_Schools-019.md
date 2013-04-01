@@ -2,7 +2,7 @@
 ~~rationalization of the need for parallel and separate systems.~~  
 During the 1980s, the process of gradual, evolutionary
 change in special education practice in Canada was subject to
-increasing challenge. In this chapter we discuss three factors  ̶ law, advocacy, and educational innovation  ̶ which, taken
+increasing challenge. In this chapter we discuss three factors  [law, advocacy, and educational innovation] which, taken
 together, have created in Canada a unique environment supportive
 of fundamental change in how students with disabilities are
 educated. These developments have resulted in the kind of
