@@ -1,9 +1,8 @@
-### 14 ###
+# Schule verändern
+> *So müsssen sie sich keine Freunde suchen.
+Sie wissen nicht wie man sich angemessen verhält.*
 
-So müsssen sie sich keine Freunde suchen.
-Sie wissen nicht wie man sich angemessen verhält.
-
-Der zweite Abschnitt, Elternvertretung und Selbstbestimmung ist ein Blick
+**Der zweite Abschnitt**, Elternvertretung und Selbstbestimmung ist ein Blick
 auf das persönliche Drama, das sich hinter Jahren rechtlicher Schritte und
 Lobbyarbeit von Eltern verbirgt, die hartnäckig gefestigte Systeme herausfordern.
 Wie bei anderen Aspekten der <lebendige Gemeinschaft Bewegung> (community living movement),
@@ -28,11 +27,21 @@ eine Masse von Bürokratie zu verstehen und zu entwirren.
 Sie setzten sich oft für Konzepte ein, die den Menschen des Bildungssytems
 noch nicht bekannt waren.
 
-Der dritte Abschnitt, Innovationen und praktische Anwendungen beschreibt
+**Der dritte Abschnitt**, Innovationen und praktische Anwendungen beschreibt
 die Früchte dieser elterlichen Anstrengungen - Inklusion in Aktion.
 Als das Bildungssystem begonnen hat die Forderungen nach Inklusion aufzunehmen,
 wurden neue Ansätze auf allen Ebenen entwickelt.
 Die Kapitel in diesem Abschnitt sind von Menschen mit erster-Hand-Erfahrungen bei
 der Umsetzung von inklusiven Programmen, durch die Entwicklung von und das Streben nach
 wichtigen Strategien für Lehrer, Schulleiter und Sonderpädagogische Berufe, geschrieben.
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 014
+
+[Kopie der [Originalseite](/copies-from-original/CCS014.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-014)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-015) der Übersetzung]
 

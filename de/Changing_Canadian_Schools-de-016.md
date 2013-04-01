@@ -1,4 +1,4 @@
-### 016 ###
+# Schule verändern
 
 Dieses Buch hat mehrere Jahre zur Vorbereitung gebraucht und im Laufe
 dieser Zeit waren wir begierg darauf es zu beenden. Gleichzeitig waren 
@@ -29,10 +29,20 @@ zum Buch, sowie für ihre Bereitschaft ihr Material zu überarbeiten, um
 ein Gleichgewicht zwischen den Kapiteln herzustellen.
 
 Wir hoffen, dass die Strategien und praktischen Anregungen in
-<kanadische Schulen verändern>, gleichermaßen für Familien und Pädagogen
+*kanadische Schulen verändern*, gleichermaßen für Familien und Pädagogen
 nützlich sein werden. Ihre Bemühungen werden die Inklusion von Menschen
 mit Behinderungen in allen Bereichen des gesellschaftlichen Lebens
 vorantreiben und das Bildungssystem für alle Schüler verbessern.
 
 Gordon L. Porter and Diane Richler
 August, 1991
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 016
+
+[Kopie der [Originalseite](/copies-from-original/CCS016.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-016)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-017) der Übersetzung]

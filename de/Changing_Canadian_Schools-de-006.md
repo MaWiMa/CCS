@@ -1,6 +1,6 @@
-### 006 ###
+# Schule verändern
 
-Das Roeher Institut
+### Das Roeher Institut
 Kanadas Nationales Institut für das Studium der öffentlichen Politik
 bezüglich der Personen mit einer geistigen Beeinträchtigung.
 
@@ -30,3 +30,13 @@ von Personen mit geistiger Behinderung.
 Für weitere Informationen über das Roeher Institute, kontaktieren Sie uns bitte unter:
 Kinsmen Buildung, York University, 4700 Keele Street,
 North York, Ontario, Kanada MSJ 1P3 (416) 661-9611
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 006
+
+[Kopie der [Originalseite](/copies-from-original/CCS006.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-006)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-007) der Übersetzung]

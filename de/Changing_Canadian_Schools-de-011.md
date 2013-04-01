@@ -1,5 +1,4 @@
-### 11 ###
-
+# Schule verändern
 Wir wissen aus vielen Studien, dass Kenntnisse des Change-Prozesses ebenfalls
 entscheidend sind (Fullan, 1991).
 Einige der wichtigsten Hindernisse für die Reform sind die Probleme
@@ -19,7 +18,7 @@ Koordination, Folgemaßnahmen Konfliktregelung und dergleichen -
 wird Führung auf allen Ebenen benötigt, einschließlich Lehrervertreter, Schulleiter,
 Beratern der Schulbehörde, Elternvertretern und provinziellen Ministerien.
 
-Die Ideen in -kanadische Schulen verändern- bieten ausreichend Einblicke
+Die Ideen in *kanadische Schulen verändern* bieten ausreichend Einblicke
 für die Bewältigung der Reform der genannten Hindernisse. Vor allem zeigt das Buch,
 dass wir nicht auf jemanden warten sollten der den ersten Schritt macht.
 Jeder muss auf notwendige Veränderung drängen.
@@ -30,3 +29,13 @@ der pädagogische Praxis ausmachen.
 
 Dekan, Fakultät für Erziehungswissenschaft, Universität von Toronto.
 Toronto: OISE Press; New York: Teachers College Press.
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 011
+
+[Kopie der [Originalseite](/copies-from-original/CCS011.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-011)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-012) der Übersetzung]

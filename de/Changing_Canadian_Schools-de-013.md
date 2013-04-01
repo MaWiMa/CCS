@@ -1,4 +1,4 @@
-### 13 ###
+# Schule verändern
 
 In Kapitel 1 haben wir drei Faktoren identifiziert, die das
 Erreichen der schulischen Integration verbinden (ermöglichen):
@@ -35,3 +35,13 @@ Sie sagten: "Nein, Du musst in eine Regelschule gehen", und ich habe davon profi
 Ich hatte normale Freunde, bekam die üblichen Schwierigkeiten, und machte all die Dinge, die man tut, wenn man heranwächst.
 Wenn du in einem separierten Umfeld bist, will niemand mit dir reden,
 will niemand irgendetwas mit dir zu tun, außer den selben Menschen mit denen du immer zu tun hast.
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 013
+
+[Kopie der [Originalseite](/copies-from-original/CCS013.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-013)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-014) der Übersetzung]

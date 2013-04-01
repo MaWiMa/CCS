@@ -1,6 +1,6 @@
-### 012 ###
+# Schule verändern
 
-Einführung
+### Einführung
 
 Eine Idee, die von fast allen Pädagogen noch vor zehn Jahren abgelehnt wurde,
 wird nun zur Realität in einer zunehmenden Zahl von Schulen in ganz Kanada.
@@ -18,3 +18,13 @@ oder dem Grad der Behinderung, funktionieren kann und wird.
 Dennoch bleibt viel zu tun, um von den gegenwärtigen Umständen zu einem Punkt zu kommen,
 wo die Aufnahme in Regelklassen der Nachbarschule eine Selbstverständlichkeit ist.
 Dieses Buch soll, denen die zu diesen Bemühungen beitragen wollen, helfen.
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 012
+
+[Kopie der [Originalseite](/copies-from-original/CCS012.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-012)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-013) der Übersetzung]

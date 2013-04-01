@@ -1,4 +1,4 @@
-### 015 ###
+# Schule verändern
 
 Diese Strategien umfassen die vielen Facetten der Vorbereitung
 und Planung von Inklusion, wie Lehrplanentwicklung und Methoden
@@ -34,3 +34,13 @@ Schulsystem zu denken, in dem die pädagogischen Bedürfnisse aller
 Schülerinnen und Schüler angemessen erfüllt werden und ich hoffe, dass
 bald das Wort "integriert" überflüssig ist. Aber wir sind nicht noch nicht
 in diesem Stadium.
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 015
+
+[Kopie der [Originalseite](/copies-from-original/CCS015.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-015)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-016) der Übersetzung]

@@ -1,6 +1,5 @@
-### 010 ###
-
-Vorwort
+# Schule verändern
+### Vorwort
 Als -an Fragen des Wandels von sozialen Reformen und Strategien- Interressierter,
 empfinde ich es als eine besondere Ehre dieses Vorwort für -Kanadische Schulen verändern- zu schreiben.
 Dies ist ein sehr gut ausbalanciertes, gründliches und praktisches Buch.
@@ -24,3 +23,13 @@ Die Förderschulreform stellt gerade alle Fragen
 zum Zustandekommen der Bildungsreform dar. 
 Die Existenz erheblicher sozialer Bedürfnisse, selbst in Kombination mit
 Rechtsvorschriften, reicht zur Reform nicht aus. ( Satzanfang zu S.11 verschoben)
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 010
+
+[Kopie der [Originalseite](/copies-from-original/CCS010.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-010)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-011) der Übersetzung]
