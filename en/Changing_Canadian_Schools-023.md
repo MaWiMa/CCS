@@ -11,7 +11,7 @@ integrated and inclusive school progams for students with disabilities.
 In the province of New Brunswick, this led to political action, and,
 as indicated above, subsequent legislafive reform. Bill 85, which addresses
 the equality and procedural issues for educational practise that ﬂow from the Charter,
-was unonimously passed by the New Brunswick legislature in 1986.  
+was unanimously passed by the New Brunswick legislature in 1986.  
 Section 45(2)1 of Bill 85 (1986) deals with placement considerations and
 is particularly significant:  
 > *A school board shall place exceptional pupils such that
