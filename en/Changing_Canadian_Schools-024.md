@@ -1,0 +1,45 @@
+# Changing Canadian Schools
+~~at the time of the withdrawal (Department of Education, Province of New Brunswick, 1988a).~~  
+
+While the law and policy just described for New Brunswick
+is clearly the most supportive of integration in Canada, it has
+not eliminated legal disputes over placement decisions. At the
+same time that teachers in New Brunswick were expressing
+grave concern about the effects of integration, one family was
+fighting the same battle for their daughter´s access to a regular
+class that the Elwoods had fought two years before in Nova Scotia. 
+In this case, a legal challenge was made to seek compliance with
+a law the parents believed was consistent with *the Charter*.
+Joe and Anne Robichaud had been unhappy for some time with their daughter 
+Natha1ie´s placement in a special class. As they saw integration
+initiated in more and more schools in New Brunswick, they were
+increasingly anxious that things should change for her as well. In
+the fall off 1987, they arranged for her to attend a regular class but,
+when things did not go well, they concluded that school officials
+were not willing to do what was necessary to improve the situation,
+and they withdrew her from school. Nathalie spent very little time
+in school during the 1987-88 school year but the Robichauds declined
+repeated suggestions from school administrators that she return to a
+segregated class. As the 1988 fall term moved on with Nathalie still
+out of school, the Robichauds reluctantly pursued a legal remedy to
+their situation.  
+
+Developments in the Robichaud case followed closely the pattern of
+the Elwood case. In December 1988, Joe and Anne Robichaud filed suit
+against the school board. An injunction was obtained in January 1989
+ordering that Nathalie be immediately placed in a regular class until
+the case could go to full trial. As a result, Nathalie Robichaud,
+like Luke Elwood, attended a regular class while the legal manoeuvring
+went on in the background. In June 1989, several weeks after the
+Spechial Committee of Lagislators received its mandate to review progress
+toward integration, the Robichauds were (from 25) scheduld to take
+their case to court.
+
+.  
+.  
+###### Changing Canadian Schools Page 024
+
+[copy of the [original page](/copies-from-original/CCS024.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-025)]
+[[whole transscript] (/pages/en/)]
