@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 We know from a lot of research that knowledge of the change process is also
 crucial (Fullan, 1991).  
 Some of the key obstacles to reform include the problems

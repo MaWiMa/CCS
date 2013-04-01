@@ -1,4 +1,4 @@
-### 
+# Changing Canadian Schools 
 ~~his or her nondisabled peers is not asured.~~
 With few exceptions, Canadian school boards have generally offered
 options that have become the standard both in this country

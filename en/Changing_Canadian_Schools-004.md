@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 Copyright © 1991, The Roeher Institute  
 All rights reserved. The use of any part of this publication reproduced,
 transmitted in any form by any means, electronic, mechanical, photocopying,

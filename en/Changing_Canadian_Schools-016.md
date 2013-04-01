@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 This book has taken several years to prepare and in the course
 of that time we have been anxious to finish it. At the same time
 we have been pleased that our contributors have had more

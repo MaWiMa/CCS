@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 In Chapter 1, we have identified three factors connected to achieving school integration:  
 - law - a legal and legislative base  
 - Advocacy - a vision clearly articulated and effectively

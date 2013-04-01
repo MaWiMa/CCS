@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 Table of Contents||P 1|
 ---|---|---
 Preface | |.....i

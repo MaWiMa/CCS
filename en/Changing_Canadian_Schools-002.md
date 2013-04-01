@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 [[/copies-from-original/CCS002.png]]
 
 .  

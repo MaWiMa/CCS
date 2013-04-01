@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 > *~~anything to do with you except the people that you have daily contact with.~~
 So you don't make friends there.
 You don't know how to conduct yourself appropriately.*  

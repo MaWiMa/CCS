@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 - The education minister should immediately give school boards the funds they need to meet the requirements of the bill.
 - More training on teaching exceptional children should be provided to teachers and ... should provide more such training
 in their education programs.

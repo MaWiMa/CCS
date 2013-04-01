@@ -1,3 +1,4 @@
+# Changing Canadian Schools
  ~~administrators and special education professionals.~~
 These strategies cover the many facets of preparation for
 and planning of inclusion, such as curriculum development

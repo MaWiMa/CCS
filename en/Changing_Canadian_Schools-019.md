@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 ~~rationalization of the need for parallel and separate systems.~~  
 During the 1980s, the process of gradual, evolutionary
 change in special education practice in Canada was subject to

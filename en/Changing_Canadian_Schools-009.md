@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 Table of Contents||P 2|
 ---|---|---
 SECTION Three: |	Innovations and Practical Applications |...105

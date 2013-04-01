@@ -1,4 +1,5 @@
-# Preface
+# Changing Canadian Schools
+### Preface
 As someone interested in issues of social reform and strategies
 for change, I feel it is a special privilege to write this preface
 for *Changing Canadian Schools.*

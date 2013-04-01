@@ -1,3 +1,4 @@
+# Changing Canadian Schools
 ### Introduction
 
 An idea which was dismissed by all but a few educators just a
