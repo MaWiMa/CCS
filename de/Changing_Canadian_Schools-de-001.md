@@ -43,6 +43,6 @@ Die Kapitel haben folgende Titel und Autoren:
 ###### Schule verändern - from Changing Canadian Schools Page 001
 
 [Kopie der [Originalseite](/copies-from-original/CCS001.png)]
-[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-???)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-001)]
 [[alle Seiten ] (/pages/de/) der Übersetzung]
 [zur [folgenden Seite](Changing_Canadian_Schools-de-002) der Übersetzung]
