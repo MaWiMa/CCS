@@ -29,6 +29,7 @@ der pädagogische Praxis ausmachen.
 
 *Dr. G. Michael Fullan  
 Dekan, Fakultät für Erziehungswissenschaft, Universität von Toronto.  
+Fullan, M. (1991) Die neue Bedeutung des Wandels in der Bildung. 
 Toronto: OISE Press; New York: Teachers College Press.*
 
 .  
