@@ -39,7 +39,8 @@ Die Kapitel haben folgende Titel und Autoren:
 "Inakzeptables Verhalten: Ein Fall von Strategien sozialer Intervention für einen Schüler mit Verhaltensauffälligkeiten" (Julie Stone and Charlotte Campbell);  
 "Auf dem Campus: Integratives Post-Sekundarschulwesen "(Melanie Panitch).  
 (80 Bezugnahmen) (DB)  
-
+.  
+.  
 ###### Schule verändern - from Changing Canadian Schools Page 001
 
 [Kopie der [Originalseite](/copies-from-original/CCS001.png)]
