@@ -15,22 +15,25 @@ ISBN 1-895070-00-7
 auch in französisch herausgegeben unter dem Titel:
 Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégration.
 
-1. Gleichstellung in der Bildung -Kanada
-2. Geistig behinderte Menschen - Bildung - Kanada
-I. Porter, Gordon L. II. Richler, Diane.
-III. G. Allan Roeher Institut
+1. Mainstreaming in education - Canada.  
+2. Mentally handicapped children - Education - Canada  
+I. Porter, Gordon L.  
+II. Richler, Diane.  
+III. G. Allan Roeher Institute    
 
-LC4634.C53 1991 371.92'806’0971 C91-094767-8
-Das Roeher Institut
-Kinsmen Building, York University,
-4700 Keele Street, North York, Ontario, Canada
-M3J 1P3
-(416) 661-9611
+LC4634.C53 1991 371.92'806’0971 C91-094767-8  
+The Roeher Institute  
+Kinsmen Building, York University,  
+4700 Keele Street, North York, Ontario, Canada  
+M3J 1P3  
+(416) 661-9611  
 
-Institutsleiter:	Marcia H. Rioux
-Redakteure:		Gordon L. Porter and Diane Richler
-Publikations Editor:	Laura Code
-Desktop Publishing:	Victor Salus
+|||
+---|---
+Institute Director:|Marcia H. Rioux
+Editors:|Gordon L. Porter and Diane Richler
+Publications Editor:|Laura Code
+Desktop Publishing:|Victor Salus
 
 .  
 .  
