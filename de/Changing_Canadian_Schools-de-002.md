@@ -1,5 +1,9 @@
 # Schule verändern
 [[/inclusion/Changing_Canadian_Schools-002.de.png]]
+
+.  
+.  
+
 ###### Schule verändern - from Changing Canadian Schools Page 002
 
 [Kopie der [Originalseite](/copies-from-original/CCS002.png)]
