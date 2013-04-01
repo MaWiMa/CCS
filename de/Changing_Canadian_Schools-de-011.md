@@ -27,8 +27,9 @@ Wir haben in diesem Buch eine Zusammenstellung der Kämpfe und Erfolge von jenen
 begonnen haben sich zu addieren und die einen wesentlichen Unterschied und eine Verbesserung
 der pädagogische Praxis ausmachen.
 
-Dekan, Fakultät für Erziehungswissenschaft, Universität von Toronto.
-Toronto: OISE Press; New York: Teachers College Press.
+*Dr. G. Michael Fullan  
+Dekan, Fakultät für Erziehungswissenschaft, Universität von Toronto.  
+Toronto: OISE Press; New York: Teachers College Press.*
 
 .  
 .  
