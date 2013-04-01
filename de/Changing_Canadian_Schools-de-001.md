@@ -1,5 +1,5 @@
 # Schule verändern
-### DOCUMENT RESUME
+### DOKUMENT ÜBERSICHT 
 |||
 ---|---
 ED 341 224 | EC 300 899
