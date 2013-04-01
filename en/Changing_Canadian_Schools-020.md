@@ -5,9 +5,12 @@ in their education programs.
 - The education minister should provide leadership by accenting the successes and positive points of integration (Committee
 reports, 1989).
 
-Continuing controversy over integration and intensive preasure from the province's teachers' union had prompted the minister of education in May 1989, to mandate this committee with the task of
-reviewing the integration process that has been under way in New Brunswick since the passage of Bill 85 in 1986. Union leaders had maintained that integration was putting New Brunswick's already
-strained education system at risk of collapse. The president of the New Brunswick Teachers’ Association claimed that "integration is turning classrooms into zoos" and creating conditions in which
+Continuing controversy over integration and intensive preasure from the province's teachers'
+union had prompted the minister of education in May 1989, to mandate this committee with the task of
+reviewing the integration process that has been under way in New Brunswick since 
+the passage of Bill 85 in 1986. Union leaders had maintained that integration was putting New Brunswick's already
+strained education system at risk of collapse. The president of the New Brunswick Teachers' Association claimed that 
+"integration is turning classrooms into zoos" and creating conditions in which
 "teachers can't teach and students can't learn" (Benteau, 1989).
 The union insisted that the "horror stories" of integration be
 made public and that the issue be included in their negotiation
@@ -33,5 +36,5 @@ his or her nondisabled peers is not asured.
 
 [copy of the [original page](/copies-from-original/CCS020.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[next page](Changing_Canadian_Schools-021)]
 [[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-021)]

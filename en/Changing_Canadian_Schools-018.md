@@ -7,12 +7,11 @@ It is somewhat ironic that the very organizations that first legitimized the edu
 make their own decisions).    
 Rioux (1988) documents how specialized and separate services result from a paradigm that labels individuals with intellectual handicaps as socially inferior. Therefore, the kind of care and treatment available to them, as well as laws, policies, and programs, have been developed solely on the basis of this label. Criteria for generic programs systematically keep out people with mental handicaps and there is a (from 19) rationalization of the need for parallel and separate systems. 
 
-
 .  
 .  
 ###### Changing Canadian Schools Page 018
 
 [copy of the [original page](/copies-from-original/CCS018.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[next page](Changing_Canadian_Schools-019)]
 [[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-019)]

@@ -13,7 +13,9 @@ with changes in beliefsystems. Capability or the degree of skill
 and know-how is a perennial central problem of change.
 This is why continuous in-service education or professional
 development is a critical strategy. Given what change requires  
--- persistens, coordination, follow-up, conﬂict resolution, and the like -- leadership at all levels is required including teacher leaders, school administrators, school board consultants, parent leaders and provincial ministries.  
+[persistens, coordination, follow-up, conflict resolution, and the like] 
+leadership at all levels is required including teacher leaders,
+school administrators, school board consultants, parent leaders and provincial ministries.  
 
 The ideas in *Changing Canadian Schools* provide ample
 insight for addressing the above obstacles to reform. Above

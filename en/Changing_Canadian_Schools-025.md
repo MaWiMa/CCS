@@ -10,7 +10,7 @@ the Robichauds, like the Elwoods, were left respensible for
 their legal expenses while taxpayeres covered the costs
 incurred by the school board and their administrators.  
 The Robichauds were forced to turn to the courts because
-New Brunawick´s francophone school boards and the
+New Brunswick's francophone school boards and the
 francophone division of the department of education have been
 perceived as taking a more traditional approach to integration.
 The *Enoncé de principe sur l’intégration scolaire*, developed by
@@ -42,6 +42,6 @@ establish clear jurisprudence in this contentious area.
 
 [copy of the [original page](/copies-from-original/CCS025.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[next page](Changing_Canadian_Schools-026)]
 [[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-026)]
 

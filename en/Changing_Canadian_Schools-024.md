@@ -6,7 +6,7 @@ is clearly the most supportive of integration in Canada, it has
 not eliminated legal disputes over placement decisions. At the
 same time that teachers in New Brunswick were expressing
 grave concern about the effects of integration, one family was
-fighting the same battle for their daughter´s access to a regular
+fighting the same battle for their daughter's access to a regular
 class that the Elwoods had fought two years before in Nova Scotia. 
 In this case, a legal challenge was made to seek compliance with
 a law the parents believed was consistent with *the Charter*.
@@ -41,5 +41,5 @@ their case to court.
 
 [copy of the [original page](/copies-from-original/CCS024.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[next page](Changing_Canadian_Schools-025)]
 [[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-025)]
