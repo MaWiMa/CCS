@@ -32,7 +32,7 @@ and financial and consulting support for selected litigation.
 CACL actively supported the development of an autonomous parent
 organization, the Integration Action Group, which now has a
 substantial membrship in southern Ontario and a number of chapters
-in other provinces. (to next page)~~By the mid~~
+in other provinces. (to next page) ~~By the mid-~~
 
 .  
 .  
