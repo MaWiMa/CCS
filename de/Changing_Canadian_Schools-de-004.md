@@ -1,5 +1,4 @@
-### 004 ###
-***
+# Schule verändern
 
 Copyright © 1991, Das Roeher Institut
 
@@ -32,3 +31,14 @@ Institutsleiter:	Marcia H. Rioux
 Redakteure:		Gordon L. Porter and Diane Richler
 Publikations Editor:	Laura Code
 Desktop Publishing:	Victor Salus
+
+.  
+.  
+
+###### Schule verändern - from Changing Canadian Schools Page 004
+
+[Kopie der [Originalseite](/copies-from-original/CCS004.png)]
+[[Abschrift der Originalseite](/en/Changing_Canadian_Schools-004)]
+[[alle Seiten ] (/pages/de/) der Übersetzung]
+[zur [folgenden Seite](Changing_Canadian_Schools-de-005) der Übersetzung]
+
