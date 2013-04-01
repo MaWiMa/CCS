@@ -6,10 +6,10 @@
 .  
 .  
 .  
-Herausgegeben von  
-*Gordon L.Porter and Diane Richler*  
-mit einem Vorwort von  
-*Dr. G.Michael Fullan*  
+*herausgegeben von*  
+Gordon L.Porter and Diane Richler  
+*mit einem Vorwort von*  
+Dr. G.Michael Fullan  
 Dekan der Fakultät der Bildungswissenschaft
 der Universität von Toronto
 
