@@ -22,7 +22,7 @@ in school during the 1987-88 school year but the Robichauds declined
 repeated suggestions from school administrators that she return to a
 segregated class. As the 1988 fall term moved on with Nathalie still
 out of school, the Robichauds reluctantly pursued a legal remedy to
-their situation.  
+their situation.
 
 Developments in the Robichaud case followed closely the pattern of
 the Elwood case. In December 1988, Joe and Anne Robichaud filed suit

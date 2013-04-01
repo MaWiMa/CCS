@@ -1,0 +1,45 @@
+# Changing Canadian Schools
+#### ADVOCACY
+Although many of the segregated schools that existed across
+Canada in the early 1980s had been started by local chapters
+of the Canadian Association for Community Living (the national
+advocacy association for persons with mental handicaps) 
+segregated schools and segregated classes no longer satisfy
+the aspirations of many families. Parent advocacy for integrated
+schooling has increased substantially in the years following
+adoption of the *Charter*, particularly by parents of children
+labelled mentally handicapped. CACL has advocated and promoted
+the right of every student to attend a regular class in a
+neighbourhood school. This policy has been formally supported
+by all off CACL's provincial and territorial afiliates (CACL, 1987).
+While integation was not a matter of priority to most local
+or provincial associations in the early 1980s, at the national
+level, The Roeher Institute, sponsored by CACL, began to support
+parents as they struggled to articulate their concerns about
+their children's education. At the community, provincial and
+nafional levels, parents found solidarity and strength by banding
+together. As parent demand grew, the (Roeher) Institute and
+CACL identified and promoted positive examples of integration
+and facilitated training for educators to work in integrated settings.
+These courses led to the establishment of university affiliated
+programs that are currently providing teachers and school
+administrators with the attitudes and skills they need to meet
+increasing parent demand for integration. Since the early 1980s,
+the (Roeher) Institute and CACL have actively promoted integration
+through conferences and seminars, publications, video productions,
+and financial and consulting support for selected litigation.  
+
+CACL actively supported the development of an autonomous parent
+organization, the Integration Action Group, which now has a
+substantial membrship in southern Ontario and a number of chapters
+in other provinces. (to next page)~~By the mid-~~
+
+.  
+.  
+
+###### Changing Canadian Schools Page 026
+
+[copy of the [original page](/copies-from-original/CCS026.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[next page](Changing_Canadian_Schools-027)]
+[[whole transscript] (/pages/en/)]
