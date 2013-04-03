@@ -25,15 +25,12 @@ of packing his lunch for school, of seeing him in a school
 play, and of him bringing home his report card. These are very
 ordinary things for most parents, but to the family of a
 [mentally handicapped] child, these are dreams that bring
-unexplained joy.  
+unexplained joy.*  
 
-And I have another very special dream for Daniel that
-is coming true right now. While at play group Daniels friend Evan
-sits with him... I hope when my son is in high school, his friends
-will say, Daniel doesn't need an attendant all day — we'll help him with his lunch —
+> *And I have another very special dream for Daniel that
+is coming true right now. While at play group Daniels friend Evan sits with him... I hope when my son is in high school, his friends will say, Daniel doesn't need an attendant all day — we'll help him with his lunch —
 we'll makesure hegets toclams—we’I1 help him toget
-on and off the bus. We'll take him to the school dances (from page 28)
-and basketball games, simply because he is our friend and we care about him. (Carson 1987)*
+on and off the bus. We'll take him to the school dances (from page 28) and basketball games, simply because he is our friend and we care about him. (Carson 1987)*
 
 .  
 .  
