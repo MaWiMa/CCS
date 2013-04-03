@@ -9,7 +9,7 @@ grave concern about the effects of integration, one family was
 fighting the same battle for their daughter's access to a regular
 class that the Elwoods had fought two years before in Nova Scotia. 
 In this case, a legal challenge was made to seek compliance with
-a law the parents believed was consistent with *the Charter*.
+a law the parents believed was consistent with the *Charter*.
 Joe and Anne Robichaud had been unhappy for some time with their daughter 
 Natha1ie´s placement in a special class. As they saw integration
 initiated in more and more schools in New Brunswick, they were
