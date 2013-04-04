@@ -10,7 +10,7 @@ Administrators from a small school district in New Brunswick illustrated this po
 The separate or Roman Catholic school boards in several provinces also have features that have made them more
 receptive to integration. First, the traditional segregated special education programs have been linked to the public school system. Therefore, the segregated schools and segregated classes so characteristic of the last several decades passed them by (Forest, 1983; Forest, 1984a). A second and equally important factor is the stress Roman Catholic school systems have placed on the importance of values and the nurturing of family, church, and community through the school (Flynn and Kowalczyk-McPhee, 1989; Hanson, 1987):  
 
-> *~~what is critical and essential in the Catholic School System [is] the sense of community that reaches out and~~ (to page 34) 
+> *~~what is critical and essential in the Catholic School System [is] the sense of community that reaches out and~~ (to page 34)* 
 
 .  
 .  
