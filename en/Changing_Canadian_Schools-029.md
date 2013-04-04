@@ -12,7 +12,7 @@ accept that they should have to travel out of their neighbourhoods, often at gre
 acknowledged that this separation from peers was one of the major concerns that led to the family´s militancy:
 
 > *What´s happened is that Luke´s been alienated from everyone around him...
-It starts first thing in the (from page 29) morning.
+It starts first thing in the (from page 29) morning.*
 
 .  
 .  
