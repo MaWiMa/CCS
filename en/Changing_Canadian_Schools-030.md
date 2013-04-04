@@ -10,7 +10,7 @@ her. I remember thinking, "Please, just one person stop and talk toher, just one
 [O]ne of the most important benefits of being included [in a regular class is] that Mandy now has friends. [Her] original
 group of [three] friends has now more than quadrupled in number. They are her classmates, the people who speak up and support
 her, her advocates at school and in the playgrounds at home... It is her classmates who come to our home to call on her to come out to play, her fiiends who invite her to parties and dances, and the kids who are anxious to see her at Brownies, the Mall, gymnastics, figure skating, the ball diamonds, and the hockey rinks. These are the kids who can´t wait to introduce me to
-their parents as "Mandy´s mom. Mandy, she´s in our class´ (Steinbach, 1991. See Chapter 6)
+their parents as "Mandy´s mom. Mandy, she´s in our class´ (Steinbach, 1991. See Chapter 6)*
 
 .  
 .  
