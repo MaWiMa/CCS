@@ -25,7 +25,7 @@ to be appropriate for exceptional students in New Brunswick schools.
 Alternatives are to be used only after every attempt has been made to make an integrated
 program work. A school board may decide that an integrated program is not practicable
 for a given student, for a given period of fime, for specific reasons; however, withdrawal
-is to occur only for compelling reasons that are considered necessary to meet the child's
+is to occur only for compelling reasons that are considered necessary to meet the child´s
 needs and on the condition that a plan to return the child to the regular class is made (from 24)
 at the time of the withdrawal (Department of Education, Province of New Brunswick, 1988a).
 

@@ -1,7 +1,7 @@
 # Changing Canadian Schools
 > *~~anything to do with you except the people that you have daily contact with.~~
-So you don't make friends there.
-You don't know how to conduct yourself appropriately.*  
+So you don´t make friends there.
+You don´t know how to conduct yourself appropriately.*  
 
 **The second section**, Parent and Self-Advocacy is a glimpse
 into the personal drama that lies behind years of legal action and
@@ -15,7 +15,7 @@ their children than had traditionally been dictated by the medical
 profession. These parents wanted alternatives to segregated
 education and they became involved in "early intervention", new
 methods of stimulating their children and discovering and building on
-their children's capacity to learn. In following through on their
+their children´s capacity to learn. In following through on their
 expectations and seeking opportunities for their sons and
 daughters, parents were thrust into leadership roles. They
 organized parents‘ groups, chaired lobbying committees and
@@ -29,7 +29,7 @@ It was often the case that they were lobbying for concepts which
 people in the education system had not yet begun to consider.  
 
 **The third section**, Innovations and Practical Applications
-describes the fruits of these parents' efforts - inclusion in action.
+describes the fruits of these parents´ efforts - inclusion in action.
 As the education system has begun to adapt to demands for
 inclusion, new approaches have evolved at all levels. The chapters 
 in this section are written by people with first-hand experience

@@ -12,8 +12,8 @@ Parents have insisted with considerable success that the
 traditional special education system change. The increasing
 demand from parents has been evident in every province and
 territory and the concerns that have created the demand have
-been consistent. Parents' demand for integrated education
-stems from a vision for their children's future which they only
+been consistent. Parents´ demand for integrated education
+stems from a vision for their children´s future which they only
 see realized in a regular class with non-disabled peers.  
 > *At a meeting for parents of special needs children, we
 were asked, "What is your dream for your chi1d?" I never
@@ -28,9 +28,9 @@ ordinary things for most parents, but to the family of a
 unexplained joy.*  
 
 > *And I have another very special dream for Daniel that
-is coming true right now. While at play group Daniels friend Evan sits with him... I hope when my son is in high school, his friends will say, Daniel doesn't need an attendant all day — we'll help him with his lunch —
-we'll makesure hegets toclams—we’I1 help him toget
-on and off the bus. We'll take him to the school dances (from page 28) and basketball games, simply because he is our friend and we care about him. (Carson 1987)*
+is coming true right now. While at play group Daniels friend Evan sits with him... I hope when my son is in high school, his friends will say, Daniel doesn´t need an attendant all day — we´ll help him with his lunch —
+we´ll makesure hegets toclams—we’I1 help him toget
+on and off the bus. We´ll take him to the school dances (from page 28) and basketball games, simply because he is our friend and we care about him. (Carson 1987)*
 
 .  
 .  

@@ -12,7 +12,7 @@ ISBN 1-895070-00-7
 
 Issued also in French under the title:  
 
-Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégration.  
+Réformer les écoles canadiennes: Perspectives sur le handicap et l´intégration.  
 
 1. Mainstreaming in education - Canada.  
 2. Mentally handicapped children - Education - Canada  
@@ -20,7 +20,7 @@ I. Porter, Gordon L.
 II. Richler, Diane.  
 III. G. Allan Roeher Institute    
 
-LC4634.C53 1991 371.92'806’0971 C91-094767-8  
+LC4634.C53 1991 371.92´806´0971 C91-094767-8  
 The Roeher Institute  
 Kinsmen Building, York University,  
 4700 Keele Street, North York, Ontario, Canada  

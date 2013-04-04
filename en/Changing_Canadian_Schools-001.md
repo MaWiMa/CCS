@@ -27,8 +27,8 @@ Chapters have the following titles and authors:
 "Inclusive Education as Social Policy" (Diane Richler);  
 "Education: A System of Social Disempowerment" (Marcia H. Rioux);  
 "Access to Equality in Education: The Power of Parents" (S. Dulcie McCallum);  
-"Principles of Change: A Parent's Perspective on the Education System" (David Jory);  
-"The Road to Inclusion: One Family's Story" (Alene Steinbach);  
+"Principles of Change: A Parent´s Perspective on the Education System" (David Jory);  
+"The Road to Inclusion: One Family´s Story" (Alene Steinbach);  
 "A Will To Learn: The Experiences of a Self-Advocate in the Education System" (Marcia Marcaccio);  
 "The Methods and Resource Teacher: A Collaborative Consultant Model" (Gordon L. Porter);  
 "Leading the Way: The Role of School Administrators in Integration" (Darlene E. Perner);  

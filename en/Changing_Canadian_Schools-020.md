@@ -5,17 +5,17 @@ in their education programs.
 - The education minister should provide leadership by accenting the successes and positive points of integration (Committee
 reports, 1989).
 
-Continuing controversy over integration and intensive preasure from the province's teachers'
+Continuing controversy over integration and intensive preasure from the province´s teachers´
 union had prompted the minister of education in May 1989, to mandate this committee with the task of
 reviewing the integration process that has been under way in New Brunswick since 
-the passage of Bill 85 in 1986. Union leaders had maintained that integration was putting New Brunswick's already
-strained education system at risk of collapse. The president of the New Brunswick Teachers' Association claimed that 
+the passage of Bill 85 in 1986. Union leaders had maintained that integration was putting New Brunswick´s already
+strained education system at risk of collapse. The president of the New Brunswick Teachers´ Association claimed that 
 "integration is turning classrooms into zoos" and creating conditions in which
-"teachers can't teach and students can't learn" (Benteau, 1989).
+"teachers can´t teach and students can´t learn" (Benteau, 1989).
 The union insisted that the "horror stories" of integration be
 made public and that the issue be included in their negotiation
 of a new collective agreement (Richardson, 1989). As a result, the
-committee's strong support for the integration process came as a
+committee´s strong support for the integration process came as a
 surprise to many and as a relief to advocates for students with
 disabilities.  
 

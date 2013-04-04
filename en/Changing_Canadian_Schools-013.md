@@ -27,7 +27,7 @@ of individuals who have been labelled mentally handicapped, sums up
 the situation:  
 
 > *I have to thank my father and mother for not putting me in
-a segregated school back in the '50s when they were just
+a segregated school back in the ´50s when they were just
 starting. They said. "No, you have to go a regular school",
 and I have benefitted from it. I had regular friends, got into
 regular trouble, and all the things a person does when they are

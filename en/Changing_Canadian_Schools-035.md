@@ -1,0 +1,23 @@
+# Changing Canadian Schools
+~~native examples of how integration could produce positive
+results for children (Bracewell and Milligan, 1984; Forest,
+1981; Forest, 1982).~~
+While such innovation has been difficult in large school systems, isolated examples have ﬂourished in virtually every province and territory, and networking among like-minded educators has helped to promote and refine the models.  
+
+School districts that have been willing to take alternative challenge and develop innovative and supportive alternatives to the old models of segregated special education have been critical to the progress made in Canada. We believe this movement will continue to grow as more and more jurisdictions break through  traditional barriers and forge an even stronger basis not only for integration, but for the education of all students. As one teacher involved in integrated school programs explains it:  
+
+> *I think the biggest thing we´ve done, other than Integration is to make teachers aware of the fact that all children are not learning at the grade level. They have to teach them at the level they´re at and have them meet with success at thatlevel. Ithink [this is ] happening a lot more than it ever happened before ... A lot of children are having their needs met [today, wheras] before [they] would have just been pushed along or ignored. (Porter, 1991. See Chapter 8)*  
+
+#### CONCLUSION
+In this chapter we have described the movement toward schools that accept and include all students in regular classrooms. We have identified factors related to law, advocacy, an educational innovation as being critical to this development. Yet it is also true that despite the positive changes made in Canada in the last decade most children with serious disabilities still spend most of their time in segregated classes with (from page 36) little opportunity to interact with their non-disabled peers.
+
+.  
+.  
+
+###### Changing Canadian Schools Page 035
+
+[copy of the [original page](/copies-from-original/CCS035.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-036)]
+

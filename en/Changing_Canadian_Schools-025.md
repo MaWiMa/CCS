@@ -1,4 +1,4 @@
-# Changing Canadian Schools
+H# Changing Canadian Schools
 ~~scheduled to take their case to court.~~ However, counsel for the
 school board approached the Robichauds about agreement on
 a settlement, and, like the Elwoods, the Robichauds were able
@@ -10,7 +10,7 @@ the Robichauds, like the Elwoods, were left respensible for
 their legal expenses while taxpayeres covered the costs
 incurred by the school board and their administrators.  
 The Robichauds were forced to turn to the courts because
-New Brunswick's francophone school boards and the
+New Brunswick´s francophone school boards and the
 francophone division of the department of education have been
 perceived as taking a more traditional approach to integration.
 The *Enoncé de principe sur l’intégration scolaire*, developed by
