@@ -14,7 +14,7 @@ Hayes. F. (1989, September 26). Remarks. *Transcript of the Eighth Meeting of th
 
 Jory, D. (1989, September 26). Remarks. *Transcript of the Eighth Meeting of the Special Committee on Social Policy Development. Fredericton, NB: Queen´s Printer, pp. 62-63.  
 
-Litt1e, D.M.(1985). A crime against childhood -uniform curriculum at a uniform rate: Mainstreaming re-examined and redefined. *Canadian Journal of Special Education,* 2(1).pp. 91-107.
+Little, D.M.(1985). A crime against childhood -uniform curriculum at a uniform rate: Mainstreaming re-examined and redefined. *Canadian Journal of Special Education,* 2(1).pp. 91-107.
 
 .  
 .  
