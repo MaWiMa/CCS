@@ -1,0 +1,22 @@
+# Changing Canadian Schools
+#### SELECTIVE DIVERSITY
+Canada is by definition a nation of diversity. The aboriginal people of this vast country represent but a fraction of the mosaic of races, cultures, religions, languages and lifestyles that is increasingly evident in Canadian cities, towns and villages. Outdated views of Canadians as descendants of white Europeans who speak either English or French have been challenged. There is formal recognition that members of the Royal Canadian Mounted Police need not be tall white men in the traditional wide-rimmed hat. They might also be men of colour in turbans, or even women. The legal protection of this new reality has been accompanied (often painfully slowly!) by a shift in attitude and public perception.  
+
+Yet, while Canada evolves into a country where diversity of cultural background is welcomed and celebrated, other distinctions, particularly disability, still set some people apart. These people continue to be met by insurmountable barriers, caused by other´s attitudes, and by legislation, and societal policies and programs. They ultimately face systematic discrimination and exclusion.  
+
+Of all disabilities, intellectual disability is the most negatively perceived, leaving persons who have a mental handicap to live with comprehensive discrimination and exclusion. *Last in the Queue* (Rioux, 1989) documents the layers of this exclusion. These layers must be systematically peeled back in order for persons who have an intellectual disability to take their place as citizens and participants in the full sense of community life.  
+
+For persons who have a mental handicap and their families, the barriers to the community are often extremely destructive. They deprive people of self-actualisation, economic independence, intimacy in relationship, mental and physical health, and the ability to chart the course of their own lives.  
+
+Recent studies indicate that there are at least 15,000 (from page 45) persons in Canada living in institutions because they have been identified as having a mental handicap (Richler, 1991).
+
+.  
+.  
+
+###### Changing Canadian Schools Page 044
+
+[copy of the [original page](/copies-from-original/CCS044.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-045)]
+

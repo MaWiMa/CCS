@@ -6,7 +6,7 @@ A similar view is expressed by Dr. Albert Murray, district superintendent of sch
 
 > *Children with special needs must not be viewed just from the perspective of their disability. They must not be simply assessed, assigned a category, and given the most specialized treatment possible. Rather, they must be viewed holistically as belonging to a valued and supportive community, which, for young people, is the peer group found in the classroom. The need is to adjust the classroom organization, instructional strategies, and curriculum to meet the challenges of the wide range of learners. This is good educational practice [that] assists all students in realizing their highest potential as individuals and as members of society. Such an approach permits schools to do what they were intended to do, [enabling] students to learn and belong, and ... teachers to facilitate the process. (Murray, 1989)*  
 
-Other examples of innovation grew out of situations in which the traditional system was ﬁrmly entrenched and the only avenue leading to integration was to start an alternative program or school. The Saturday-Get-Together, Summer-Get-Together and Thousand Cranes School are among alter- (from page 35) native examples of how integration could produce positive results for children (Bracewell and Milligan, 1984; Forest,
+Other examples of innovation grew out of situations in which the traditional system was firmly entrenched and the only avenue leading to integration was to start an alternative program or school. The Saturday-Get-Together, Summer-Get-Together and Thousand Cranes School are among alter- (from page 35) native examples of how integration could produce positive results for children (Bracewell and Milligan, 1984; Forest,
 1981; Forest, 1982).
 
 .  

@@ -1,0 +1,20 @@
+# Changing Canadian Schools
+~~"retarded" could learn.~~ Eventually, these classes and schools became a part of the public education system and a new profession of "special educators" emerged to operate them.  
+
+After the development of education progams in the 1950s and 1960s, most community service associations moved on to establish group homes and sheltered workshops. In the 1970s and 1980s, services prolierated at the local level across Canada. In addition to the establishment of education, residential and vocational programs, there were explosions in the areas of recreation, family support, and early intervetion.   
+
+The goal of most services was to support individuals with a mental handicap to live in the community rather than in instiuitions. However, while the new services were physically "in" the community, they operated as independent entities with no links to the parallel generic services for the community at large.  
+
+Although the parents´ movement can be credited with the birth of special education for students with an intellectual disability, by the 1980s it appeared their vision had outgrown their initial achievements. It had been necessary to institute an intermediate system of programs to overcome total exclusion; however, programmed childhood was leading to programmed adulthood. The special education system, which had been developed to prepare children to be part of their communities and to eliminate the need for institutionalization, was in fact preparing people for lives of isolation. They were moving into group homes, working in sheltered workshops and still being marginalized from the rest of the community. By the mid 1980s, there was a pervasive dissatisfaction with the segregated service system in the community. It was time to move onward and upward.  
+
+The national voluntary organization, begun by parents at the local level in the late 1940s, had been incorporated at the national level in 1958. It had expanded to include not only parents and other family members, but professionals working in the field, other interested citizens and, most recently, (from page 47) persons who themselves had been considered mentally handicapped.
+
+.  
+.  
+###### Changing Canadian Schools Page 046
+
+[copy of the [original page](/copies-from-original/CCS046.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transscript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-047)]
+
