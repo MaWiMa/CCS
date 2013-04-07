@@ -2,7 +2,7 @@
 
 page |status EN|status DE|
 ---|---|---
-[001](/copies-from-original/CCS001.png)| [done](/en/Changing_Canadian_Schools-001) | [done](/de/Changing_Canadian_Schools-001)
+[001](/copies-from-original/CCS001.png)| [done](/en/Changing_Canadian_Schools-001) | [done](/de/Changing_Canadian_Schools-de-001)
 002| done | done 
 003| done | done 
 004| done | done 
