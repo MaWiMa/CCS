@@ -2,7 +2,7 @@
 
 page |status EN|status DE|
 ---|---|---
-001| [done] (/pages/en/001) | 
+001| [done] (/pages/en/001) | [done](/en/Changing_Canadian_Schools-001)
 002| done | done 
 003| done | done 
 004| done | done 
