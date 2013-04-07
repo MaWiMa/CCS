@@ -12,9 +12,19 @@ EN | DE
 *individual encouragement* | individuelle Förderung
 *special education* | Förderpädagogik
 *special education resource teacher* | Förderschullehrer/Förderpädagoge
-*self-advocacy* | Selbstbestimmung
+*self-advocacy* | Eigenverantwortung (Vertretung der eigenen Rechte)
 *education ministries* | Bildungsministerien
 *school board* | Schulamt/Schulausschuss
+*citizenship* | Bürgerrecht
+*self-determination* | Selbstbestimmung
+
+
+***
+new names for the same organisation (why?)
+1. National Institute on Mental Retardation
+2. The Roeher Institute
+3. The Canadian Association for Community Living
+
 .  
 .  
 ###### Changing Canadian Schools
