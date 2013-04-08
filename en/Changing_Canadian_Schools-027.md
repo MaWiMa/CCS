@@ -39,6 +39,6 @@ on and off the bus. We´ll take him to the school dances (from page 28) and bask
 
 [copy of the [original page](/copies-from-original/CCS027.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-028)]
 

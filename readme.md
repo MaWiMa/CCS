@@ -1,5 +1,5 @@
 # Changing Canadian Schools
-### Transscript and Translation  
+### Transcript and Translation  
 Since 5th of March 2013 I try to translate *Changing Canadian Schools* into german.  
 *Changing Canadian Schools* is a book from the early 91 and I read it the first time in 2011 because of [professional interest] (inclusion/Inklusion.pdf) on inclusion.
 Until 2011 you could download the book from [www.eric.ed.gov] 
@@ -16,6 +16,6 @@ I run the wiki with [gollum](https://github.com/gollum/gollum/blob/master/README
 ###### Changing Canadian Schools
 
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]  
-[[Transscript] (/pages/en/) in englisch]  
+[[Transcript] (/pages/en/) in englisch]  
 [[Abschrift und Übersetzung] (/pages/de/) in deutsch]  
-[[Status] (/Status)] of Transscription and Translation
+[[Status] (/Status)] of Transcription and Translation

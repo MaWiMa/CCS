@@ -26,5 +26,5 @@ Forest, M. (1983). Right in our own backyard. *Mental Retardation,* 33(1), pp. 2
 
 [copy of the [original page](/copies-from-original/CCS039.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-040)]

@@ -17,6 +17,6 @@ Recent studies indicate that there are at least 15,000 (from page 45) persons in
 
 [copy of the [original page](/copies-from-original/CCS044.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-045)]
 

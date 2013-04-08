@@ -16,6 +16,6 @@ Because their children were denied entry to public schools, the first priority o
 
 [copy of the [original page](/copies-from-original/CCS045.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-046)]
 

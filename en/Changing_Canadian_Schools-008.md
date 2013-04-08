@@ -19,5 +19,5 @@ Chapter 7: | A Will to Learn: The Experiences of a Self-Advocate in the Educatio
 
 [copy of the [original page](/copies-from-original/CCS008.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-009)]

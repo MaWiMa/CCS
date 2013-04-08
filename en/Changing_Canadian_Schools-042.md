@@ -26,7 +26,7 @@ Will, M.C. (1986). Educating children with learning problems: A shared responsib
 
 [copy of the [original page](/copies-from-original/CCS042.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transscript] (/pages/en/)]
+[[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-043)]
 
 
