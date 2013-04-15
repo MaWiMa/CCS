@@ -1,5 +1,5 @@
-44
-mental handicap. Inclusion in regular educatima is a keystone
+# Changing Canadian Schools
+~~mental handicap.~~ Inclusion in regular educatima is a keystone
 ofthatsocialpolicysgendmparhcﬁularlyinordertoachievethe
 goals of citimnship and membership.
 For many individuals, the label “mental handimp” was
@@ -35,6 +35,14 @@ The citizenship of students who have a mental handicap
 is already being enhanced through the elimination of
 segregation. As a part of their edumtion, students with
 dmabili ties are learning about their rights and responsibilities
-Cruuvcmc Cmsnmu Sczuogts L - _ _ - it n _ is _g
-U4...
+.  
+.  
+###### Changing Canadian Schools Page 052
+
+[copy of the [original page](/copies-from-original/CCS052.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-053)]
+
+(END)
 
