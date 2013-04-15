@@ -1,10 +1,8 @@
-4'7
-the their role in the movement to bring about social
-chanw md achieve full inclusion.
-R 
-Bank-Mibelaon, Dr. N.E. (1967). Danish System o/'Servicesfor
-thellentally Retarded. Minda Lecture, Australia. Services for
-the Retarded in Denmark.
+# Changing Canadian Schools
+~~defining their role in the movement to bring about social changes and achieve full inclusion.~~
+#### REFERENCES 
+Bank-Mikelson, Dr. N.E. (1967). Danish System of Services for the Mentally Retarded. Minda Lecture, Australia. Services for the Retarded in Denmark.  
+
 Forest, M. (FA). (1984). Education IMQ1-ation:A collection of
 reodingson the integration of children with mental handi@
 into regular school systems. Downswiew, 0nt.: National
@@ -20,7 +18,14 @@ Schaefer, N. (1982). Does She Know She’s There? Toronto:
 Fitzhenry & Whiteside.
 Wolfensberger, W. (1972). Normalization. Downsview, Ont:
 National Institute on Mental Retardation.
-._ ._= - Cmwcma Cnmnmn Scuoots
-L’?
-In-5"‘
+
+.
+.
+###### Changing Canadian Schools Page 055
+
+[copy of the [original page](/copies-from-original/CCS055.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-056)]
+
 

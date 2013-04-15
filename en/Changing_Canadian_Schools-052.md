@@ -1,40 +1,16 @@
 # Changing Canadian Schools
-~~mental handicap.~~ Inclusion in regular educatima is a keystone
-ofthatsocialpolicysgendmparhcﬁularlyinordertoachievethe
-goals of citimnship and membership.
-For many individuals, the label “mental handimp” was
-appliw when they enterﬂ the scmol system. Once in a
-segregated school system, rnmt students were guaranteed a
-future of continued segregation. Graduation ﬁ'om the
-sepegated mhool meant entering a shelterﬁ workshop and
-often moving into a group home. Few would ever have the
-opportunity tornoveon ﬁnm a shelterﬁ workshop into ajob
-in the workforce, and people living in group homes see them as
-another institution (Park, 1991).
-Participation in the regular classroom gives students who
-have e ﬁsahility the opportunity to escape the cycle of
-segregation. They break the cycle in three ways: they acquire
-skills which make their mrticipation more meaningful; they
-develop relationships which foster true membership in the
-community; and their presence teaches other people how to
-accommodate the surrounding environment to their
-diﬁerences.
-Perhaps the most important aspect of participation in an
-integrated setting is that learning takes place in an
-environment which provides its own rewaris and measures of
-success. Parents and teachers from across Canada
-conm'stently report that students who more from segregated to
-integrated systems demonstrate improvements in
-communications sﬁlls, concentration sﬁlls and demeanour.
-Teachers report that non-disabled students are otten the
-mmt meative in helping to accommodate the needs of a peer
-who has a disability. Children are able to communicate
-without words, see wheelchairs as toys, perceive challenges as
-games.
-The citizenship of students who have a mental handicap
-is already being enhanced through the elimination of
-segregation. As a part of their edumtion, students with
-dmabili ties are learning about their rights and responsibilities
+~~mental handicap.~~ Inclusion in regular education is a keystone of that social policy agenda, particularly in order to achieve the goals of citizenship and membership.  
+
+For many individuals, the label "mental handimp" was applied when they enter the school system. Once in a segregated school system, most students were guaranteed a future of continued segregation. Graduation from the sepegated school meant entering a sheltered workshop and often moving into a group home. Few would ever have the opportunity to move on from a sheltered workshop into a job in the workforce, and people living in group homes see them as another institution (Park, 1991).  
+
+Participation in the regular classroom gives students who have a disability the opportunity to escape the cycle of segregation. They break the cycle in three ways: they acquire skills which make their participation more meaningful; they develop relationships which foster true membership in the community; and their presence teaches other people how to accommodate the surrounding environment to their differences.  
+
+Perhaps the most important aspect of participation in an integrated setting is that learning takes place in an environment which provides its own rewards and measures of success. Parents and teachers from across Canada consistently report that students who move from segregated to integrated systems demonstrate improvements in communications skills, concentration skills and demeanour.  
+
+Teachers report that non-disabled students are often the most creative in helping to accommodate the needs of a peer who has a disability. Children are able to communicate without words, see wheelchairs as toys, perceive challenges as games.  
+
+The citizenship of students who have a mental handicap is already being enhanced through the elimination of segregation. As a part of their education, students with disabilities are learning about their rights and responsibilities (from page 53) as citizens, and their non-disabled classmates are learning not to discriminate on the basis of disability.
+
 .  
 .  
 ###### Changing Canadian Schools Page 052
