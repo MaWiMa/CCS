@@ -1,5 +1,5 @@
-50
-equal foreachcbildinthe school system. The thirdpresump-
+# Changing Canadian Schools
+~~equal for each child in the school system.~~ The thirdpresump-
 wnisthattheedueationsystemisshucturedaudruninaway
 thatianwsaryfortheeontinuaﬁonofthe currentmomic
 andson'alsyst=ems.'l‘heﬁnalmyt.histbatthestructureofthe
@@ -34,6 +34,12 @@ ban excluded from the mainstream education system. While
 most of those people are now provided with some form of
 education, the quality is inconsistent. And there still emlsts an
 entire class of people who have no aceem to the regular school
-CHANGING Cnmntm Smoots My _ _
-5 7
 
+.
+.
+###### Changing Canadian Schools Page 057
+
+[copy of the [original page](/copies-from-original/CCS057.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-058)]
