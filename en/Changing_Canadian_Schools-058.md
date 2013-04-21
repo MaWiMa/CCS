@@ -1,8 +1,9 @@
-51
-system: mainly children who have been labelled mentally
-handicappd, ﬁmbled or emotionally or behaviour-ally dis-
-turbed.
+# Changing Canadian Schools
+~~system: mainly children who have been labelled mentally
+handicapped, disabled or emotionally or behaviourally disturbed.~~
 Children one scnmned out ofthe education system by being
+
+
 divided into two categorim: those who can be educated and
 thou who cannot be educated. Those who are labelled
 uneducable are than no longer considered the responsibility of
@@ -33,7 +34,15 @@ means it doesn't matter who the child is or where the child goes
 to school, what the child learns will be up to an accepted
 standard.
 Once a person has access to education, which is said to be
-available for all, it then follows that the student's personal
-_  on A Cmwcmc Cm/mun Scnoots
-55
+available for all, it then follows that the student´s personal
+
+.
+.
+###### Changing Canadian Schools Page 058 / Page Number 051
+
+[copy of the [original page](/copies-from-original/CCS058-page051.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-059)]
+-- EIN
 
