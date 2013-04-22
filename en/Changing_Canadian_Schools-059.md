@@ -1,4 +1,7 @@
-S2
+# Changing Canadian Schools
+
+Once a person has access to education, which is said to be
+available for all, it then follows that the student´s personal
 ahilityisreﬂectedinhowwellthestudentdowatschool. Iftha
 stuhnt dam wallitis assumed thathewsheshouldbe
 rewﬁdbothinschoolandintmoppmtunitimhe orshehas
@@ -35,6 +38,11 @@ spectrum of qualities will be targeted in education, and when
 students rise to thm htations, there is an illum‘on that
 people are being educated properly and that people who fail
 are legitimately failures. The structure of the process makes
-Cnmcmc Cmeanmu Scnoots _ _, _  g hr.
-51!
 
+.
+.
+###### Changing Canadian Schools Page 059 / Page Number 052
+
+[copy of the [original page](/copies-from-original/CCS058-page051.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
