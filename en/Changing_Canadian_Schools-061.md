@@ -1,4 +1,5 @@
-54
+
+In fact,
 ﬁgura show that enormous numbers of Canadians are
 illiteratedespiteh%beentoschool;thissu@tsthatthe
 systemisnotevencapableoiwhinggoalsmuchmore

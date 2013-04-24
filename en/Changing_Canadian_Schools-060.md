@@ -1,7 +1,7 @@
-53
-it diﬁcult to ask whether the narrow spectrum of intellectual
-properties targeted are the entire range cfpmperﬁes on which
-education ought to focus.
+
+~~it difficult to ask whether the narrow spectrum of intellectual
+properties targeted are the entire range properties on which
+education ought to focus.~~
 Adapﬁngtothoschool systemic anotherkeypartofthe
 educational experience. Even ifs student closely ﬁts the model
 ﬁorwhom the system hasbeen designed, there is no guarantee
@@ -33,7 +33,12 @@ progw of sodety. Education is the medium for meritocracy.
 Inequality is, according to these assumptions, not only justi-
 ﬁable, but newssary.
 These are dangerous assumptions. There is no necessity
-for the education system to operate as it now does. In fact,
-. ‘[7 A t t _ __r,___n_ Crwvomo CANADIAN Scaoots
-U U
+for the education system to operate as it now does. ~~In fact,~
+
+.
+###### Changing Canadian Schools Page 060 / Page Number 053
+
+[copy of the [original page](/copies-from-original/CCS060-page053.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
 
