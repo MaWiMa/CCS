@@ -23,5 +23,3 @@ available for all, it then follows that the student´s personal~~
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
 [[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-059)]
--- EIN
-

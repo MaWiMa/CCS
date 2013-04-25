@@ -19,6 +19,3 @@ The citizenship of students who have a mental handicap is already being enhanced
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
 [[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-053)]
-
-(END)
-
