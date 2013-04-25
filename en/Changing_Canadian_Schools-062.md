@@ -1,4 +1,6 @@
-$5
+# Changing Canadian Schools
+
+If, on the other hand, there was
 a will to create a school system in which children truly had
 equal opportunitiw, the new system would have to look very
 diﬁerent from the one now in place.
@@ -33,6 +35,13 @@ assign to intelligence a whole set of complex human capabili-
 ties that support “.... the [recognition of] the importance of
 mentality in our lives and wish to characterize it, in part so
 that we can make the divisions and distinctions among people
-_. _. Camcnvc Cannons Scnoors
-B23
+.
+.
+###### Changing Canadian Schools Page 062 / Page Number 055
+
+[copy of the [original page](/copies-from-original/CCS061-page055.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-063)]
+
 
