@@ -33,9 +33,11 @@ achieved rather than an ascribed characteristic) has made it
 possible to attach notions of merit to social order. Meritocracy
 is simply a process by which society ﬁves out its rewards to
 those who have merit.
-The critical question is: who or what is worthy of merit?
+The critical question is: who or what is worthy of merit?  
 
-.
+.  
+.  
+
 ###### Changing Canadian Schools Page 063 / Page Number 056
 
 [copy of the [original page](/copies-from-original/CCS063-page056.png)]

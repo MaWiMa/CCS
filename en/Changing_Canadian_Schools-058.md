@@ -13,10 +13,11 @@ The second myth is that education is equitable. Not only is it presumed that all
 
 Universal access to education is thought to include the notion of an equivalent and impartial quality of learning. This means it doesn´t matter who the child is or where the child goes to school, what the child learns will be up to an accepted standard.
 (moved to next page) ~~Once a person has access to education, which is said to be
-available for all, it then follows that the student´s personal~~
+available for all, it then follows that the student´s personal~~  
 
-.
-.
+.  
+.  
+
 ###### Changing Canadian Schools Page 058 / Page Number 051
 
 [copy of the [original page](/copies-from-original/CCS058-page051.png)]

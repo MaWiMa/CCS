@@ -15,10 +15,10 @@ Rioux, M. H. (1989). *Last in the Queue*. Downsview, Ont.: The G. Allan Roeher I
 
 Schaefer, N. (1982). *Does She Know She´s There? Toronto: Fitzhenry & Whiteside.  
 
-Wolfensberger, W. (1972). *Normalization*. Downsview, Ont.: National Institute on Mental Retardation.
+Wolfensberger, W. (1972). *Normalization*. Downsview, Ont.: National Institute on Mental Retardation.  
 
-.
-.
+.  
+.  
 ###### Changing Canadian Schools Page 055
 
 [copy of the [original page](/copies-from-original/CCS055.png)]

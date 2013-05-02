@@ -10,10 +10,11 @@ They will argue that integration is either unnecessary or damaging to the educat
 The first assumption is that education in Canada is universal; in other words, that everyone has access to it. Universal and free education has been held as both a right and a necessity in a democratic society. It is a right because, in Canada, we believe that people should be able to read and write and to have equal opportunity in life. It is considered necessary that education be universal because it is assumed that people learn a basic set of social values in school. Education is considered so important that it has been made compulsory.  
 
 What realities challenge the universal education myth? The reality is that there has never been a truly universal education system in Canada. Historically, many people have been excluded from the mainstream education system. While most of those people are now provided with some form of education, the quality is inconsistent. And there still exists an entire class of people who have no access to the regular school (from page 058) system: mainly children who have been labelled mentally
-handicapped, disabled or emotionally or behaviourally disturbed.
+handicapped, disabled or emotionally or behaviourally disturbed.  
 
-.
-.
+.  
+.  
+
 ###### Changing Canadian Schools Page 057 / Page Number 050
 
 [copy of the [original page](/copies-from-original/CCS057-page050.png)]

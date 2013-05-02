@@ -5,8 +5,8 @@ Furthermore, the relationships formed between the student who has a disability a
 
 Already there are many stories about individuals who have a disability who have grown up as part of their communities and are benefitting from the friendships they formed. One story involves a young doctor who was able to respond to the needs of a patient at the scene of an emergency because he had grown up on the same street as her and knew how to respond to her. Other doctors and nurses had reacted nervously to the woman (Schaefer, 1982). Another story involves a person who has been labelled mentally handicapped and who is the business partner of two former classmates, one a doctor and the other an accountant.
 
-.
-.
+.  
+.  
 ###### Changing Canadian Schools Page 053
 
 [copy of the [original page](/copies-from-original/CCS053.png)]

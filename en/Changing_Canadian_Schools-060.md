@@ -10,9 +10,12 @@ The third general assumption about the school system is that the rationale behin
 The assumption of meritocracy is that people are not equal in their talents and abilities nor are their strengths of equal importance. Meritocracy has been justified because it has been presumed that social and economic efficiency and progress are necessary. These are dependent on identifying and rewarding people whose natural gifts sustain the welfare, culture and progress of society. Education is the medium for meritocracy.
 Inequality is, according to these assumptions, not only justifiable, but necessary.  
 
-These are dangerous assumptions. There is no necessity for the education system to operate as it now does. ~~In fact,~~
+These are dangerous assumptions. There is no necessity for the education system to operate as it now does. ~~In fact,~~  
 
-.
+
+.  
+.  
+
 ###### Changing Canadian Schools Page 060 / Page Number 053
 
 [copy of the [original page](/copies-from-original/CCS060-page053.png)]

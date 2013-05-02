@@ -9,10 +9,11 @@ Curriculum is usually based on the prsumption that the child´s intellectual "ra
 
 In cultivating these intellectual properties, the purpose of the education system is to bring the "ideal" student, latent in every child, from the potential to the actual state. This is like assuming that every kernel of corn starts off with the same potential to be a perfect piece of popcorn. Of course, this is a circular argument based on the false presumption that natur distributes intellectual raw matter in an equitable manner in the first place. But, as we know, not every kernel of corn has the same potential to pop, for many reasons. Even if all kernel are subjected to the same conditions of heat, oil and distribution in the pot, they will not necessarily pop in an identical manner.  
 
-The self-fulfilling prophesy inherent in this process should not be overlooked. When it is argued that a supposedly fair spectrum of qualities will be targeted in education, and when students rise to those expectations, there is an illusion that people are being educated properly and that people who fail are legitimately failures. The structure of the process makes (from page 59) it difficult to ask whether the narrow spectrum of intellectual properties targeted are the entire range properties on which education ought to focus.
+The self-fulfilling prophesy inherent in this process should not be overlooked. When it is argued that a supposedly fair spectrum of qualities will be targeted in education, and when students rise to those expectations, there is an illusion that people are being educated properly and that people who fail are legitimately failures. The structure of the process makes (from page 59) it difficult to ask whether the narrow spectrum of intellectual properties targeted are the entire range properties on which education ought to focus.  
 
-.
-.
+.  
+.  
+
 ###### Changing Canadian Schools Page 059 / Page Number 052
 
 [copy of the [original page](/copies-from-original/CCS059-page052.png)]
