@@ -1,5 +1,6 @@
-ﬁ
-that our culmral and political aystms dictate”.
+# Changing Canadian Schools
+
+~~that our cultural and political systems dictate."~~
 The miﬂnal IQ tats. developed by Binet in 1904, had the
 expms and limited purpose “'... d‘ identifying children whose
 poorperformmoeindicstedanmdforspecialsdmtion...And
@@ -33,6 +34,13 @@ possible to attach notions of merit to social order. Meritocracy
 is simply a process by which society ﬁves out its rewards to
 those who have merit.
 The critical question is: who or what is worthy of merit?
-Cruucmc Cmmmn Smoms s _  on
-6 3
+
+.
+###### Changing Canadian Schools Page 063 / Page Number 056
+
+[copy of the [original page](/copies-from-original/CCS063-page056.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-064)]
+
 

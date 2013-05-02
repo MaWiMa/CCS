@@ -1,45 +1,21 @@
 # Changing Canadian Schools
 
-If, on the other hand, there was
-a will to create a school system in which children truly had
-equal opportunitiw, the new system would have to look very
-diﬁerent from the one now in place.
-THE REAL RESSAGE OF THE EDUCATION SYSTEM
-What then is the real message m‘ an education system which
-is dmed to value things that persons with mental handi-
-mps cannot do, and which then claim them unedumble?
-Inherent in its attitude is a presumption about the
-incamcities of persons with mental handicaps. In addition,
-thm is an implied expectation that persons with a mental
-handicap will not be in regular puuic schools or particimnts
-in the community in general. It is not surprising that the
-person with a mental handicap has problems functioning in an
-environment based on these assumptions — an environment
-created with no consider-aﬁcm of their abilitiesorparticipation.
-In the heyday of social darwinism and the eugenim move-
-ment, education hecame the basis of qualiﬁcation for entrance
-into elites, and the school system became the certifying
-agency. Science thought it had found a way to quantify and
-measure people’s intelhgence. Science seemed to provide ob-
-jective uiteria which justiﬁed selective partidpation, entitle-
-ment and rights — which, in fact, lemtimized a system of
-dismimination. A rationale was created for particular disﬁnc-
-tions and labels, which could have a medical and professional
-basis rather than a soda] basis.
-We nowknow that science is unabletocornpletely quantify
-intelligence. However, standardized testing and narrow cur-
-riculum persist in disentitling some people and restricting
-their opportunities to participate. Gould, in his classic work,
-The Mismeosure of Man (1981), claims that we continue to
-assign to intelligence a whole set of complex human capabili-
-ties that support “.... the [recognition of] the importance of
-mentality in our lives and wish to characterize it, in part so
-that we can make the divisions and distinctions among people
+If, on the other hand, there was a will to create a school system in which children truly had equal opportunities, the new system would have to look very different from the one now in place.  
+
+**THE REAL MESSAGE OF THE EDUCATION SYSTEM**  
+
+What then is the real message of an education system which is designed to value things that persons with mental handicaps cannot do, and which then claim them uneducable.  
+
+Inherent in its attitude is a presumption about theincamcities of persons with mental handicaps. In addition, there is an implied expectation that persons with a mental handicap will not be in regular public schools or participants in the community in general. It is not surprising that the person with a mental handicap has problems functioning in an environment based on these assumptions — an environment created with no consideration of their abilities or participation.  
+
+In the heyday of social darwinism and the eugenics movement, education became the basis of qualification for entrance into elites, and the school system became the certifying agency. Science thought it had found a way to quantify and measure people´s intelligence. Science seemed to provide objective criteria which justified selective participation, entitlement and rights — which, in fact, legitimized a system of dismimination. A rationale was created for particular distinctions and labels, which could have a medical and professional basis rather than a social basis.  
+
+We now know that science is unable to completely quantify intelligence. However, standardized testing and narrow curriculum persist in disentitling some people and restricting their opportunities to participate. Gould, in his classic work *The Mismeasure of Man* (1981), claims that we continue to assign to intelligence a whole set of complex human capabilities that support "... the [recognition of] the importance of mentality in our lives and wish to characterize it, in part so that we can make the divisions and distinctions among people that our cultural and political systems dictate."
 .
 .
 ###### Changing Canadian Schools Page 062 / Page Number 055
 
-[copy of the [original page](/copies-from-original/CCS061-page055.png)]
+[copy of the [original page](/copies-from-original/CCS062-page055.png)]
 [[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
 [[whole transcript] (/pages/en/)]
 [[next page](Changing_Canadian_Schools-063)]
