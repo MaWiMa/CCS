@@ -42,7 +42,7 @@ page |status EN|status DE|
 [038](/copies-from-original/CCS038-page029.png)|[work in progress](/en/Changing_Canadian_Schools-038)|[missing](/de/Changing_Canadian_Schools-de-038)
 [039](/copies-from-original/CCS039-page030.png)|[work in progress](/en/Changing_Canadian_Schools-039)|[missing](/de/Changing_Canadian_Schools-de-039)
 [040](/copies-from-original/CCS040-page031.png)|[work in progress](/en/Changing_Canadian_Schools-040)|[missing](/de/Changing_Canadian_Schools-de-040)
-[041](/copies-from-original/CCS041-page034.png)|[work in progress](/en/Changing_Canadian_Schools-041)|[missing](/de/Changing_Canadian_Schools-de-041)
+[041](/copies-from-original/CCS041-page032.png)|[work in progress](/en/Changing_Canadian_Schools-041)|[missing](/de/Changing_Canadian_Schools-de-041)
 [042](/copies-from-original/CCS042-page033.png)|[work in progress](/en/Changing_Canadian_Schools-042)|[missing](/de/Changing_Canadian_Schools-de-042)
 [043](/copies-from-original/CCS043-page034.png)|[work in progress](/en/Changing_Canadian_Schools-043)|[missing](/de/Changing_Canadian_Schools-de-043)
 [044](/copies-from-original/CCS044-page035.png)|[work in progress](/en/Changing_Canadian_Schools-044)|[missing](/de/Changing_Canadian_Schools-de-044)
