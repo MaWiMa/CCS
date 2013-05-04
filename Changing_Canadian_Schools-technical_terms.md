@@ -20,9 +20,9 @@ EN | DE
 
 
 ***
-new names for the same organisation (why?)
-1. National Institute on Mental Retardation
-2. The Roeher Institute
+new names for the same organisation (why?)  
+1. National Institute on Mental Retardation  
+2. The Roeher Institute  
 3. The Canadian Association for Community Living
 
 .  
