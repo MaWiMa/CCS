@@ -1,4 +1,5 @@
-$7
+# Changing Canadian Schools
+
 Merit eliminatm the need for mmsures that enable or ensure
 equality bwause it is based on an echowled@ent and
 acceptance of the “aristocracy ofmerit”. That means there me
@@ -32,7 +33,15 @@ tence in others. At its simplest level, the sciences are much
 mom mlevant than the arts within the formal school system.
 At a more complex level, the individual achievement of a
 person with a mental handicap in accomplishing mrtain skills
-is often viewed as irrelevant. This is because of a persisting
-_, _, “ ... T _  Cmwcmc Cmmuu SCHOOLS
-fill
+is often viewed as irrelevant. (moved to next page)~~This is because of a persisting~~
 
+
+.  
+.  
+
+###### Changing Canadian Schools Page 064 / Page Number 057
+
+[copy of the [original page](/copies-from-original/CCS064-page057.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-065)]

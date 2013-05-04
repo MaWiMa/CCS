@@ -1,4 +1,6 @@
-58
+# Changing Canadian Schools
+
+This is because of a persisting
 utilitarian philosophy which assumm the greatest good for the
 peatest number cfpwple is achieved when educam-s target
 students with the maximum potential for contributing to the
@@ -33,6 +35,14 @@ And educators will have to be open minded and innwative in
 teaching and addressing students. The oontribuﬁon that
 people with a mental handicap make to the edumtion system will
 have tohemrtofthe reconstruction oftheeducation system.
-Cwovcmo Camomu Scnoors  _ _  L .- A
-6 5
+
+.  
+.  
+
+###### Changing Canadian Schools Page 065 / Page Number 058
+
+[copy of the [original page](/copies-from-original/CCS065-page058.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-066)]
 
