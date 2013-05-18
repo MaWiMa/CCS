@@ -2,11 +2,11 @@
 
 It is time to get rid of the myths and start fresh on creating an inclusive education that provides all children with a real learning environment.  
 
-**REFERENCES**  
+####REFERENCES 
 
-Gould, S.J. (1981). The Mismeasure of Man. New York: W.W. Norton.  
+Gould, S.J. (1981). *The Mismeasure of Man.* New York: W.W. Norton.  
 
-Livington, John F. (1979). Fair Game? Inequality and Affirmative Action. San Francisco: W.H. Freeman and Company.  
+Livington, John F. (1979). *Fair Game? Inequality and Affirmative Action.* San Francisco: W.H. Freeman and Company.  
 
 .  
 .  
