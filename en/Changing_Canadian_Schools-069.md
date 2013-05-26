@@ -1,5 +1,5 @@
 63
-promote inferior status, worth and position. De facto segrega-
+~~promote inferior status, worth and position.~~ De facto segrega-
 tion appealed natural and proper because of the numerous
 examples oflegally sanctioned state-approved discrimination.
 SEGREGATION AND THE EDUCATION ACT
