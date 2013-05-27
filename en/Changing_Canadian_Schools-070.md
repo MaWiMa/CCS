@@ -1,5 +1,6 @@
-64
-constituﬁmal protections in Canada.
+# Changing Canadian Schools
+
+~~constitutional protections in Canada.~~
 The ﬁrst Charter challmge was the Elwood v. Halifax
 County-BedlbniDi.w'ictScItoolBoardcaseinNovaScotia.
 The mse was  by the child’s parents, who began by
@@ -34,6 +35,15 @@ More recently, education statutes have bun amendw to
 speciﬁcally exclude reference to diﬂhrential treatment but
 they do not provide any explicit obligation to fully include all
 children in regular classrooms. In other words, education
-Cmwcavc Cmmmu Smoors g _ _ ea
-7U
 
+.
+.
+
+###### Changing Canadian Schools Page 070 / Page Number 064
+
+[copy of the [original page](/copies-from-original/CCS070-page064.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-071)]
+
+                                                                                  47,0-1       Ende
