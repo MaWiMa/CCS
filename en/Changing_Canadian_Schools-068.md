@@ -10,9 +10,8 @@ Examples of laws which create *de jure* segregation are: laws that prohibit peop
 Examples of *de facto* segregation include the practice of warehousing people in institutions, of training or rehabilitating them in sheltered workshops, and of provifing housing in group homes. These are practices that exclude and implicitly
 (from next page) promote inferior status, worth and position.
 
-
-.
-.
+.  
+.  
 
 ###### Changing Canadian Schools Page 068 / Page Number 062
 
