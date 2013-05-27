@@ -1,40 +1,15 @@
 # Changing Canadian Schools
 
-~~constitutional protections in Canada.~~
-The ﬁrst Charter challmge was the Elwood v. Halifax
-County-BedlbniDi.w'ictScItoolBoardcaseinNovaScotia.
-The mse was  by the child’s parents, who began by
-obtammg‘ ' a.oiaiunctron' was’ ttheschoolboard. 'l‘heiniunc-
-tionwohimtedschoolboardoﬁcialsfrorn transfer-ringtwr
-child, Luke,t'romhisgurboodachoolwhereMbadbeen
-ragisteredandplacedinaregularclasamomwiththebelpof
-tbepr'inclpaL‘1‘heschoolboanlbadtoldtheparentsitintended
-toreturnhirn tothe segregated class ﬁorcbildmn with @bili-
-ﬁes located in another school.
-The parents claimed that their child had the constitutional
-right to the equal beneﬁt both before and under the education
-law andtho ri@t nottob-e  winston thebasis
-of a mental ﬁsability under s. 15 of the Charter. The school
-board countered on the basis that the edumtion act gave the
-boardthepowertomakeallplamntdecisionsﬁchoolboard
-o&als strongly resisted acknowledging that the practice of
-placing all children with disabiliﬁes together in a self-com
-tained classroom could constitute unlawful discriminaﬁon.
-During the yearafterthe injunction thspartimexchanged
-evidence in preparation for the trial. Shortly before the trial
-was to begin, a settlement agreement was proposed on hhalf
-of Luke. The agreement detailed a model situation for Luke in
-bis neighbourhood school in a regular classroom. The case was
-settled on the basis of this proposed agreement in favour of the
-child. Because all cases involving an infant claimant which are
-settled prior to trial must be approved by the court, the Elwood
-v. Halifax County-Bedford District School Board agreement is
-incorporated into the ﬁnal court order.
-Amendments Pave the Way to Integration
-More recently, education statutes have bun amendw to
-speciﬁcally exclude reference to diﬂhrential treatment but
-they do not provide any explicit obligation to fully include all
-children in regular classrooms. In other words, education
+~~constitutional protections in Canada.~~  
+
+The first *Charter* challange was the *Elwood v. Halifax County-Bedford District School Board* case in NovaScotia. The case was initiated by the child's parents, who began by obtaining an injunction against the school board. The injunction prohibited school board officials from transferring their child, Luke, from his neighbourhood school where he had been registered and placed in a regular classroom with the help of the principal. The school board had told the parents it intended to return him to the segregated class for children with disabilities located in another school.  
+
+The parents claimed that their child had the constitutional right to the equal benefit both before and under the education law and the right not to be discriminated against on the basis of a mental disability under s. 15 of the *Charter*. The school board countered on the basis that the education act gave the board the power to make all placement decisions. School board officials strongly resisted acknowledging that the practice of placing all children with disabilities together in a self-contained classroom could constitute unlawful discrimination.  
+
+During the year after the injunction the parties exchanged evidence in preparation for the trial. Shortly before the trial was to begin, a settlement agreement was proposed on behalf of Luke. The agreement detailed a model situation for Luke in bis neighbourhood school in a regular classroom. The case was settled on the basis of this proposed agreement in favour of the child. Because all cases involving an infant claimant which are settled prior to trial must be approved by the court, the *Elwood v. Halifax County-Bedford District School Board* agreement is incorporated into the final court order.  
+
+**Amendments Pave the Way to Integration**
+More recently, education statutes have been amended to specifically exclude reference to differential treatment but they do not provide any explicit obligation to fully include all children in regular classrooms. (moved to nxt page) ~~In other words, education~~
 
 .
 .
