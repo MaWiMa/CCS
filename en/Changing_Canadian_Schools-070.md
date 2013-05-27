@@ -8,7 +8,7 @@ The parents claimed that their child had the constitutional right to the equal b
 
 During the year after the injunction the parties exchanged evidence in preparation for the trial. Shortly before the trial was to begin, a settlement agreement was proposed on behalf of Luke. The agreement detailed a model situation for Luke in bis neighbourhood school in a regular classroom. The case was settled on the basis of this proposed agreement in favour of the child. Because all cases involving an infant claimant which are settled prior to trial must be approved by the court, the *Elwood v. Halifax County-Bedford District School Board* agreement is incorporated into the final court order.  
 
-**Amendments Pave the Way to Integration**
+**Amendments Pave the Way to Integration**  
 More recently, education statutes have been amended to specifically exclude reference to differential treatment but they do not provide any explicit obligation to fully include all children in regular classrooms. (moved to nxt page) ~~In other words, education~~
 
 .
