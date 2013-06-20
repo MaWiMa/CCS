@@ -1,13 +1,7 @@
+# Changing Canadian Schools
 
-'I‘hemsewasappealMtotheCourtofAppeslwhichhe1dthat
-thelomrcourtjudge hadmisappliedthetmtforgrantingan
- While theCmu'td'Appealovertumedthelower
-courtrulinginmlationtotherdiefsoughtitordﬂthatthe
-iniunctionwastommaininplaceuntiltheendoftheschool
-year.Priortothebeginningofthenertschoolterm,thematter
-was settled in favour of the child. A settlement agmment
-which required that Nathalie be integrated was approved by
-courtorder.
+The casecwascappealed to the Court of Appeal which held that the lower courtjudge had misapplied the test for granting an injunction. While the Court Appeal overturned the lower court ruling in relation to the relief sought, it ordered that the injunction was to remain in place until the end of the school year. Prior to the beginning of the next school term,the matter was settled in favour of the child. A settlement agreement which required that Nathalie be integrated was approved by court order.  
+
 Prooi.nciallTerri-torial Responsibility
 The Supreme Court of Canada has not had the opportunity to
 rule on the question of whether there is a constitutional right
@@ -34,3 +28,13 @@ provincial or territu. ial government. The case was settledjust
 prior to trial when the attorney general advised counsel for the
 
 
+
+.
+.
+
+###### Changing Canadian Schools Page 072 / Page Number 066
+
+[copy of the [original page](/copies-from-original/CCS072-page066.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-073)]
