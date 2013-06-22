@@ -1,6 +1,6 @@
-6'7
-school board that the government intendw to amend its
-statement of mm It changed its position to support the
+# Changing Canadian Schools
+
+~~school board that the government intended to amend its statement of defence.~~ It changed its position to support the
 child’sclaimthatshehada1ighttobeinteg'rated. Thisis
 thought to he the ﬁrst ﬁme in the country when mi attorney
 @eral clearlycame out in favourof the ﬁsadvantapd person
@@ -32,6 +32,15 @@ in a semrate school in the religion of their choice. The
 arrangement made between the boards dictating that all
 “special nwds” children would he educated at one site was
 done for administrative convenience.
-_,:__n_ ﬁ_  g _ _ i Clwvcmc CANADIAN Scnoots
-73
+
+
+.
+.
+
+###### Changing Canadian Schools Page 073 / Page Number 067
+
+[copy of the [original page](/copies-from-original/CCS073-page067.png)]
+[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
+[[whole transcript] (/pages/en/)]
+[[next page](Changing_Canadian_Schools-074)]
 
