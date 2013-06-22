@@ -1,37 +1,14 @@
 # Changing Canadian Schools
 
-~~school board that the government intended to amend its statement of defence.~~ It changed its position to support the
-child’sclaimthatshehada1ighttobeinteg'rated. Thisis
-thought to he the ﬁrst ﬁme in the country when mi attorney
-@eral clearlycame out in favourof the ﬁsadvantapd person
-in a Charter challenge.
-CLARE UNDE HUMAN RIGHTS LEGISIATION
-lnadditiontoclaimstoequality undertheﬂhwrand
-provincial or territorial edumtion legmlaﬁon, some peome
-have made complaints under human rights. Two factors bring
-education under the domain of human rights: 1) despite
-conﬂicting legal judpents. schools have been held to be a
-public service or facility under human rights legislation; 2) in
-all provinces and territories, mental and physical disability
-are prohibited pounds for discrimination. Anti-dism'imina-
-tiou laws mu addrm policy and practice of people and organi-
-zations within both the public and private secwrs.
-The basis of a complaint is that it is discriminatory to
-segregate children because they have a mental disability in
-self-contained, “special” schools or claurooms, as this denies
-them amen to a public facility or service (the school) that is
-customarily available to the public it serves (children).
-The ﬁmt human rights complaint involving a child with a
-mental handicap that went to a hearing, was initiated on the
-basis of religous discrimination. The Catholic school board in
-the county ofl.-snark, Leeds and Grenville in Ontario required
-all children with mental handicaps to attend one class oper-
-ated by a secular school board. This meant that Catholic
-children with a mental handicap wuld not nemive instruction
-in a semrate school in the religion of their choice. The
-arrangement made between the boards dictating that all
-“special nwds” children would he educated at one site was
-done for administrative convenience.
+~~school board that the government intended to amend its statement of defence.~~
+It changed its position to support the child's claim that she had a right to be integrated. This is thought to be the first time in the country when an attorney general clearly came out in favour of the disadvantaged person in a *Charter* challenge.  
+
+####CLAIMS UNDER HUMAN RIGHTS LEGISLATION
+In addition to claims to equality under the *Charter* and provincial or territorial education legislation, some people have made complaints under human rights. Two factors bring education under the domain of human rights: 1) despite conflicting legal judgements, schools have been held to be a public service or facility under human rights legislation; 2) in all provinces and territories, mental and physical disability are prohibited grounds for discrimination. Anti-discrimination laws can address policy and practice of people and organizations within both the public and private sectors.  
+
+The basis of a complaint is that it is discriminatory to segregate children because they have a mental disability in self-contained, "special" schools or classrooms, as this denies them access to a public facility or service (the school) that is customarily available to the public it serves (children).  
+
+The first human rights complaint involving a child with a mental handicap that went to a hearing, was initiated on the basis of religious discrimination. The Catholic school board in the county of Lanark, Leeds and Grenville in Ontario required all children with mental handicaps to attend one class operated by a secular school board. This meant that Catholic children with a mental handicap could not receive instruction in a separate school in the religion of their choice. The arrangement made between the boards dictating that all "special needs" children would he educated at one site was done for administrative convenience.
 
 
 .
