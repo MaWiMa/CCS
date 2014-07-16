@@ -30,6 +30,10 @@ nextPageNumber = 1
 puts "Die letzte Seite ist erreicht, die nächste Seite ist Seite 1!"
 end 
 backPageNumber = thisPageNumber-1
+if backPageNumber < 1
+backPageNumber = 329
+puts "Die erste Seite ist erreicht, die vorherige Seite ist Seite 329!"
+end 
 
 nextPage = thesePageNames + "%03d" % nextPageNumber.to_s
 backPage = thesePageNames + "%03d" % backPageNumber.to_s
