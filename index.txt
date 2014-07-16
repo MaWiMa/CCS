@@ -1,0 +1,12 @@
+:ext-relative: {outfilesuffix}
+== Changing Canadian Schools
+=== homepage for webusers 
+For details look at the readme here: 
+link:readme{ext-relative}[Changing Canadian Schools Transcript and Translation]
+
+
+link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
+link:/en/[transcript in englisch] +
+link:/de/[Übersetzung der Abschrift in deutsch] +
+[.lead]
+Changing Canadian Schools
