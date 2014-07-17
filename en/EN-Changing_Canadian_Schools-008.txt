@@ -1,4 +1,4 @@
-//:ext-relative: {outfilesuffix}
+:ext-relative: {outfilesuffix}
 === Table of Contents
 .Table of Contents (Part1)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
@@ -16,18 +16,3 @@
 |Chapter 6: | The Road to Inclusion:  One Family´s Story  Alene Steinbeck |89
 |Chapter 7: | A Will to Learn: The Experiences of a Self-Advocate in the Education System Marcia Marcaccio |101
 |===
-
-{ext-relative}
-{docfile}{ext-relative}
- +
-{docdir} +
-{asciidoctor-version} +
-link:index{ext-relative}[home] +
-[forward]
-[back]
-link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
-link:/en/[transcript in englisch] +
-link:/de/[Übersetzung der Abschrift in deutsch] +
-
-[.lead]
-Changing Canadian Schools Page 008
