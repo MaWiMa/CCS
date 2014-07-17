@@ -42,9 +42,8 @@ f = File.open(new, "a")
     f.write "[.lead] \n"
     f.write flip.thisPage+" \n"
 f.close
-
-#Asciidoctor.render_file new, :in_place => true, :safe => 'unsafe'
-#Asciidoctor.render_file new, :to_dir => '_site/en/', :safe => 'unsafe'
+# HTML output
 Asciidoctor.render_file new, :to_dir => '_site/'+flip.lang.downcase, :safe => 'unsafe'
-Asciidoctor.render_file org, :to_dir => '_tmp/', :backend => 'docbook',:safe => 'unsafe'
+# DOCBOOK output
+#Asciidoctor.render_file org, :to_dir => '_tmp/', :backend => 'docbook',:safe => 'unsafe'
 
