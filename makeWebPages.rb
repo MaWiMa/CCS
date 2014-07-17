@@ -35,7 +35,7 @@ FileUtils.cp(org,new)
 
 f = File.open(new, "a")
     f.write " \n"
-    f.write "link:index{ext-relative}[home] + \n"
+    f.write "link:/index{ext-relative}[home] + \n"
     f.write "link:/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
     f.write "link:/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
     f.write "link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] + \n"
@@ -46,4 +46,5 @@ f.close
 #Asciidoctor.render_file new, :in_place => true, :safe => 'unsafe'
 #Asciidoctor.render_file new, :to_dir => '_site/en/', :safe => 'unsafe'
 Asciidoctor.render_file new, :to_dir => '_site/'+flip.lang.downcase, :safe => 'unsafe'
+Asciidoctor.render_file org, :to_dir => '_tmp/', :backend => 'docbook',:safe => 'unsafe'
 
