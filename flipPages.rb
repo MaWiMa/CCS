@@ -7,9 +7,10 @@ attr_accessor :lang, :page, :thesePageNames, :thisPage, :nextPageNumber, :backPa
  @lang = l
  @page = p
  @thesePageNames = "-Changing_Canadian_Schools-"
- @thisPage = @lang + @thesePageNames + "%03d" % @page
+ @thisPageNumber = @page.to_i
  @nextPageNumber = @page.to_i+1
  @backPageNumber = @page.to_i-1
+ @thisPage = @lang + @thesePageNames + "%03d" % @thisPageNumber.to_s
  @nextPage = @lang + @thesePageNames + "%03d" % @nextPageNumber.to_s
  @backPage = @lang + @thesePageNames + "%03d" % @backPageNumber.to_s
  end

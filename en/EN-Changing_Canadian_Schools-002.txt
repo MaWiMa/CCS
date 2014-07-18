@@ -1,0 +1,2 @@
+:ext-relative: {outfilesuffix}
+image::/copies-from-original/CCS002.png[the Cover of Changing Canadian Schools]
