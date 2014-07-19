@@ -1,0 +1,37 @@
+:ext-relative: {outfilesuffix}
+== Technical Terms
+
+[cols="1,1", options "header"]
+|===
+|EN | DE
+|*challenging behavior* | Verhaltensauffälligkeiten,
+|*beyond behavior* | Inakzeptables Verhalten
+|*eating disorder* | Essstörung
+|*mental disorder* | psychische Störung
+|*mental therapy* | Verhaltenstherapie
+|*behavior disorder* | Verhaltensstörung
+|*emotional and behavioral* disorders (EBD) | Emotionale- und Verhaltenstörungen (EVS)
+|*individual encouragement* | individuelle Förderung
+|*special education* | Förderpädagogik
+|*special education resource teacher* | Förderschullehrer/Förderpädagoge
+|*self-advocacy* | Eigenverantwortung (Vertretung der eigenen Rechte)
+|*education ministries* | Bildungsministerien
+|*school board* | Schulamt/Schulausschuss
+|*citizenship* | Bürgerrecht
+|*self-determination* | Selbstbestimmung
+|===
+
+***
+new names for the same organisation (why?) +
+1. National Institute on Mental Retardation +
+2. The Roeher Institute +
+3. The Canadian Association for Community Living +
+
+
+link:index{ext-relative}[home] +
+link:readme{ext-relative}[readme] +
+link:/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
+link:/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
+link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
+
+Changing Canadian Schools

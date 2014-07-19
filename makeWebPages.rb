@@ -83,7 +83,7 @@ footer = case flip.lang
     f.write "link:/index{ext-relative}[home] + \n"
     f.write "link:/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
     f.write "link:/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/copies-from-original/CCS"+"%03d" % flip.page+".png[	copy from original page] + \n"
+    f.write "link:/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page] + \n"
     f.write " \n"
     f.write flip.thisPage+" \n"
  f.close
