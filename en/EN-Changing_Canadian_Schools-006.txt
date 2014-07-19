@@ -1,4 +1,5 @@
-### The Roeher Institute
+:ext-relative: {outfilesuffix}
+=== The Roeher Institute
 Canadas National Institute for the Study of Public Policy
 Affecting Persons with an Intellectual Impairment.
 
@@ -31,13 +32,3 @@ on behalf of persons with an intellectual impairment.
 For more information about The Roeher Institute, please contact us at:
 Kinsmen Buildung, York University, 4700 Keele Street,
 North York, Ontario, Canada MSJ 1P3 (416) 661-9611
-
-
-.  
-.  
-###### Changing Canadian Schools Page 006
-
-[copy of the [original page](/copies-from-original/CCS006.png)]
-[[complete copy](/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf) of Changing Canadian Schools]
-[[whole transcript] (/pages/en/)]
-[[next page](Changing_Canadian_Schools-007)]

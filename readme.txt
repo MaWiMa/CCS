@@ -10,16 +10,18 @@ In the same year I did a short comparsion on special education in Canada and Ger
 
 My goal is to look with more than two eyes on Inclusion, by going back a lot of years.
 I would like to translate with many, because my translation is surely faulty and if your interested in working together with people on this theme, we can discuss what school-educations highs and lows are.
-Changing Canadian Schools was written in french and english. We have a special discussion, just like an open competition in comparsion of empty statements. Examples Inclusion, Integration, Assimilation, Separation.
-My Opinion, equal how you call the things you do. +
-- 1. Whats your goal
-- 2. How do you behave to get tings done
- 
-...
+Changing Canadian Schools was written in french and english. We have a special discussion, just like an open competition in comparsion of empty statements. Examples Inclusion, Integration, Assimilation, Separation, Segregation.
+We compare the words Integration and Inclusion, for what? In french Inclusion is Integration, as far as I know native french speakers do not use the word inclusion.
+In germany Inclusion was first translated into Integration, later it was redefined as Inclusion, backwards.
+Inclusion is a horrible word, but it is not just a word., it is a movement, an attitude.
+How do you act the things you do. +
+1. Whats your goal +
+2. How do you behave to reach this goal +
+
 
 *Changing Canadian Schools* is a book from 1991 and I read it the first time in 2011 because of link:/inclusion/Inklusion.pdf[professional interest] on inclusion.
 You can download the book from this site: http://eric.ed.gov/?id=ED341224 under this link http://files.eric.ed.gov/fulltext/ED341224.pdf[ED341224.pdf]. If the link is dead now, take link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[my copy], trust me, it is the same.
-I split this copy into each page to go through translation side by side. For the copies I use only the front and back-cover of my book, the rest is from the source obove. If pages are numbered, they are signed out too, white pages are left out.
+I split this copy into each page to go through translation side by side. For the copies I use only the front and back-cover of my book, the rest is from the source above. If pages are numbered, they are signed out too, white pages are left out.
 
 I guess now you can only buy it used, if you want your own hardcover, on April the 17th in 2013 I received mine.
 
