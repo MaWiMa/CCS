@@ -1,4 +1,72 @@
 :ext-relative: {outfilesuffix}
+=== Source
+You get the source from
+https://github.com/MaWiMa/CCS
+
+The structure should be selfexplaining, if not write me an email.
+
+
+[source]
+ puts "At this time there are only english [EN] and german [DE] versions." 
+ puts "if you like to start a translation into other languages, you are welcome."
+ puts "If you are comfortable with git and github you could"
+ puts ""
+ puts "fork the repository on https://github.com/MaWiMa/CCS and send a pull request"
+ puts "like it is described on https://help.github.com/articles/fork-a-repo."
+ puts ""
+ puts "If you do not know what this github thing is, no problem,"
+ puts "just write me an email, we find a solution your comfortable with."
+ puts "WilliV109@gMail.com"
+ puts ""
+ puts "Norbert Reschke"
+
+
+[source]
+If you clone/fork and like to get things done, you have to make following dirs relative to your basedir
+
+ |--_tmp 
+ |--_site
+
+then create a symlink from 
+
+ |--inclusion
+ |--copies-from-original
+
+to
+
+ |--_site
+  |--inclusion
+  |--copies-from-original
+ 
+=== Programs
+You want to edit, but things like ruby, git and asciidoctor must be aliens?
+Then you only need an emaileditor.
+Write the first email with following subject: Changing Canadian Schools
+Tell me your name and if I am allowed to publish your email-adress
+
+Take a look at the source-files which end with the .txt extension.
+Correct the exiting files and maybe do new-ones.
+Just write the filename to the subject of your email in following form: +
+Notation: <Language><Page>
+Example:  EN001
+
+
+like vim, gedit, textmate, notepad
+and 
+
+
+You like do do everything?
+You need ruby, asciidoctor, a browser for testing
+To make HTML-Pages in basedir just do
+
+asciidoctor -D _site/ readme.txt (for example)
+
+to make the first Page of the English Version just do
+
+./makeWebPages.rb en 1
+
+
+
 === Transcript and Translation  
 
 Since 5th of March 2013 I try to transcript and translate *Changing Canadian Schools* into german.
