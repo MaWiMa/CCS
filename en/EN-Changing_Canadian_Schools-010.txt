@@ -1,6 +1,6 @@
 :ext-relative: {outfilesuffix}
 [preface]
-=== Preface
+== Preface
 As someone interested in issues of social reform and strategies
 for change, I feel it is a special privilege to write this preface
 for *Changing Canadian Schools.*
@@ -24,4 +24,5 @@ account of the state-of-the-art of special education reform.
 Special education reform represents just about all the issues
 involved in bringing about educational reform. The existence
 of significant social needs even when combined with
-legislation is not sufficient to achieve reform. ~~We know from a~~ -> page 11
+legislation is not sufficient to achieve reform.
+//We know from a -> page 11

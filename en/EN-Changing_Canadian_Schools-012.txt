@@ -1,5 +1,5 @@
 :ext-relative: {outfilesuffix}
-=== Introduction
+== Introduction
 
 An idea which was dismissed by all but a few educators just a decade ago is now becoming reality in an increasing number
 of schools across Canada. Students who have a disability are being educated alongside their non-disabled peers.

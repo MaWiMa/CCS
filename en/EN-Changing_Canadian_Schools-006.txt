@@ -1,5 +1,5 @@
 :ext-relative: {outfilesuffix}
-=== The Roeher Institute
+== The Roeher Institute
 Canadas National Institute for the Study of Public Policy
 Affecting Persons with an Intellectual Impairment.
 

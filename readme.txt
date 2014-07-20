@@ -1,4 +1,5 @@
 :ext-relative: {outfilesuffix}
+:source-highlighter: pygments
 === Source
 You get the source from
 https://github.com/MaWiMa/CCS
@@ -6,7 +7,8 @@ https://github.com/MaWiMa/CCS
 The structure should be selfexplaining, if not write me an email.
 
 
-[source]
+[source, ruby]
+----
  puts "At this time there are only english [EN] and german [DE] versions." 
  puts "if you like to start a translation into other languages, you are welcome."
  puts "If you are comfortable with git and github you could"
@@ -19,9 +21,10 @@ The structure should be selfexplaining, if not write me an email.
  puts "WilliV109@gMail.com"
  puts ""
  puts "Norbert Reschke"
-
+----
 
 [source]
+----
 If you clone/fork and like to get things done, you have to make following dirs relative to your basedir
 
  |--_tmp 
@@ -37,7 +40,8 @@ to
  |--_site
   |--inclusion
   |--copies-from-original
- 
+----
+
 === Programs
 You want to edit, but things like ruby, git and asciidoctor must be aliens?
 Then you only need an emaileditor.
@@ -57,14 +61,19 @@ and
 
 You like do do everything?
 You need ruby, asciidoctor, a browser for testing
-To make HTML-Pages in basedir just do
+To make HTML-Pages in basedir,for example, just do
 
-asciidoctor -D _site/ readme.txt (for example)
+[source,bash]
+----
+asciidoctor -D _site/ readme.txt
+----
 
 to make the first Page of the English Version just do
 
+[source,bash]
+----
 ./makeWebPages.rb en 1
-
+----
 
 
 === Transcript and Translation  

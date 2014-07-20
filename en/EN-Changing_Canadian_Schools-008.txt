@@ -1,6 +1,5 @@
 :ext-relative: {outfilesuffix}
-=== Table of Contents
-.Table of Contents (Part1)
+=== Table of Contents (Part1)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
 [cols="2,5,>1"]
 |===

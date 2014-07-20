@@ -1,6 +1,7 @@
 :ext-relative: {outfilesuffix}
-== Changing Canadian Schools
-=== Perspectives on Disability and Inclusion
+= Changing Canadian Schools
+
+== Perspectives on Disability and Inclusion
 
 
 

@@ -4,20 +4,20 @@ require_relative 'flipPages'
 require 'fileutils'
 require 'asciidoctor'
 
-unless ARGV.length < 3
- puts "Please do not enter more than two parameter!"
- puts "Bitte geben Sie nicht mehr als zwei Parameter an!"
- puts "Notation: <Dateiname> <Language> <Page>"
+unless ARGV.length < 4
+ puts "Please do not enter more than three parameter, third parameter is optional!"
+ puts "Bitte geben Sie nicht mehr als drei Parameter an, der dritte Parameter ist optional!"
+ puts "Notation: <filename> <language> <first Page> <last Page>"
  puts "Example: #{__FILE__} EN 329"
  exit
 end
 
-i = ARGV[0].upcase.to_s         # 1. Parameter
-a = ARGV[1].to_f                # 2. Parameter
+i = ARGV[0].upcase.to_s         # 1. Parameter language
+a = ARGV[1].to_i                # 2. Parameter first page
+b = ARGV[2].to_i                # 3. Parameter last page
 
-
-if (i.length != 2 or a == 0)    # i hat mehr oder weniger als beide Werte 0, z.B. keine Parameterangabe
- puts "Bitte geben Sie zwei Parameter wie folgt an!" 
+if (i.length != 2 or a == 0)    # i hat mehr oder weniger als zwei Buchstaben, a ist 0, z.B. keine Parameterangabe
+ puts "Bitte geben Sie mindestens zwei Parameter wie folgt an!" 
  puts "Please enter two parameter as follows!"
  puts "Notation: <Dateiname> <Sprache> <Seite>"
  puts "Beispiel: #{__FILE__} DE 12"
@@ -42,8 +42,13 @@ until i == "EN" || i== "DE"
  exit 
 end
 
+if b == 0
+ b = a
+end 
 
-flip = Flip.new(i,a)
+for m in a..b
+ puts "Language = #{i}, Page = #{m}"
+ flip = Flip.new(i,m)
 
 # CCS hat 329 Seiten, die HTML-Seiten sollen durchlaufen
 # we need the next four lines only if a == 0 is not used (look for -> i.length != 2 or a == 0)
@@ -73,6 +78,8 @@ flip = Flip.new(i,a)
 #FileUtils.ln_s('../CCSdocres.txt', '_tmp/CCSdocres.txt') # this must be done better
 org = flip.lang.downcase+"/"+flip.thisPage+".txt"
 new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
+
+puts "got  : .... #{org}"
 FileUtils.cp(org,new)
 
 footer = case flip.lang
@@ -100,9 +107,12 @@ footer = case flip.lang
  f.close
 # other Language 
 end
+puts "made : .. #{new}"
 
 # HTML output
 Asciidoctor.render_file new, :to_dir => '_site/'+flip.lang.downcase, :safe => 'unsafe'
+puts "made : . _site/#{flip.thisPage}.html"
+
 # DOCBOOK output
 #Asciidoctor.render_file org, :to_dir => '_tmp/', :backend => 'docbook',:safe => 'unsafe'
-
+end
