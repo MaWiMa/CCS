@@ -50,20 +50,22 @@ Tell me your name and if I am allowed to publish your email-adress
 
 Take a look at the source-files which end with the .txt extension.
 Correct the exiting files and maybe do new-ones.
-Just write the filename to the subject of your email in following form: +
-Notation: <Language><Page>
-Example:  EN001
-
-
-like vim, gedit, textmate, notepad
-and 
-
-
-You like do do everything?
-You need ruby, asciidoctor, a browser for testing
-To make HTML-Pages in basedir,for example, just do
+Just write the filename to the subject of your email in following form:
 
 [source,bash]
+----
+Notation: <Language><Page>
+Example:  EN001
+----
+
+You like do do everything?
+//http://asciidoctor.org/docs/user-manual/
+You need an *editor* like vim, gedit, textmate, notepad.
+
+You need *ruby, asciidoctor* and a *browser* for testing
+To make HTML-Pages in basedir,for example, just do
+
+[source]
 ----
 asciidoctor -D _site/ readme.txt
 ----
@@ -74,6 +76,22 @@ to make the first Page of the English Version just do
 ----
 ./makeWebPages.rb en 1
 ----
+
+to make Page two to onehundretfiftyone of the English Version just do
+
+[source]
+----
+./makeWebPages.rb en 2 151
+----
+
+To take a look at the website you build, go into your DIR *_site* open a terminal and run
+
+[source]
+----
+ruby -run -e httpd . -p 8000
+----
+
+open your browser and look at *http://localhost:8000*
 
 
 === Transcript and Translation  

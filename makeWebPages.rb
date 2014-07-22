@@ -78,9 +78,19 @@ for m in a..b
 #FileUtils.ln_s('../CCSdocres.txt', '_tmp/CCSdocres.txt') # this must be done better
 org = flip.lang.downcase+"/"+flip.thisPage+".txt"
 new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
+puts "got   : .... #{org}"
 
-puts "got  : .... #{org}"
-FileUtils.cp(org,new)
+# make first line of header to get the right extension
+File.write(new,":ext-relative: {outfilesuffix}\n")
+puts "make  : .. #{new} part1"
+#file = File.read(org)
+ f = File.open(new, "a")
+    f.write File.read(org)
+ f.close
+puts "append: .... #{org} to part1"
+
+
+#FileUtils.cp(org,new)
 
 footer = case flip.lang
 # EN
@@ -107,11 +117,11 @@ footer = case flip.lang
  f.close
 # other Language 
 end
-puts "made : .. #{new}"
+puts "made  : .. #{new}"
 
 # HTML output
 Asciidoctor.render_file new, :to_dir => '_site/'+flip.lang.downcase, :safe => 'unsafe'
-puts "made : . _site/#{flip.thisPage}.html"
+puts "made  : . _site/#{flip.thisPage}.html"
 
 # DOCBOOK output
 #Asciidoctor.render_file org, :to_dir => '_tmp/', :backend => 'docbook',:safe => 'unsafe'

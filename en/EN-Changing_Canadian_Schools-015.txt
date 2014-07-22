@@ -1,4 +1,3 @@
-:ext-relative: {outfilesuffix}
 // administrators and special education professionals. <- page 14
 These strategies cover the many facets of preparation for
 and planning of inclusion, such as curriculum development

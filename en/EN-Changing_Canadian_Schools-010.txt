@@ -1,4 +1,3 @@
-:ext-relative: {outfilesuffix}
 [preface]
 == Preface
 As someone interested in issues of social reform and strategies

@@ -1,4 +1,3 @@
-:ext-relative: {outfilesuffix}
 === Table of Contents (Part1)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
 [cols="2,5,>1"]
@@ -6,7 +5,7 @@
 |Preface ||i
 |Introduction ||1
 |SECTION ONE: |	Philosophical, Legal and Historical Overview |7
-|Chapter 1: | Changing Special Education Practice: Law, Advocacy and Innovation Gordon L. Porter and Diane Richler|9
+|Chapter 1: | link:/en/EN-Changing_Canadian_Schools-018{outfilesuffix}[Changing Special Education Practice: Law, Advocacy and Innovation Gordon L. Porter and Diane Richler]|9
 |Chapter 2: |Inclusive Education as Social Policy Diane Richler|35
 |Chapter 3: |Education: A System of Social Disempowerment Marcia H. Rioux|49
 |Chapter 4: |Access to Equality in Education: The Power of Parents S. Dulcie McCaIlum|61

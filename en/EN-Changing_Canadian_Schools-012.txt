@@ -1,4 +1,3 @@
-:ext-relative: {outfilesuffix}
 == Introduction
 
 An idea which was dismissed by all but a few educators just a decade ago is now becoming reality in an increasing number
