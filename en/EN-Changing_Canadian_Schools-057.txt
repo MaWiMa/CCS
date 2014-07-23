@@ -12,7 +12,7 @@ challenges the educational system by attempting to integrate children with menta
 these teachers and administrators. It is important to understand their position based on these assumptions and to decide the
 soundness of this position.  
 
-**The Myth of Universality in Education**
+==== The Myth of Universality in Education
 The first assumption is that education in Canada is universal; in other words, that everyone has access to it. Universal and
 free education has been held as both a right and a necessity in a democratic society. It is a right because, in Canada, we
 believe that people should be able to read and write and to have equal opportunity in life. It is considered necessary that
