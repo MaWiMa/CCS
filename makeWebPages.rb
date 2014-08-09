@@ -97,10 +97,10 @@ footer = case flip.lang
  when "EN" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "link:/index{ext-relative}[home] + \n"
-    f.write "link:/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
-    f.write "link:/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page] + \n"
+    f.write "link:/CCS/index{ext-relative}[home] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
+    f.write "link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page] + \n"
     f.write " \n"
     f.write flip.thisPage+" \n"
  f.close
@@ -108,10 +108,10 @@ footer = case flip.lang
  when "DE" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "link:/index{ext-relative}[home] + \n"
-    f.write "link:/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
-    f.write "link:/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/en/EN"+flip.thesePageNames+"%03d" %flip.page+"{ext-relative}[the original version] + \n"
+    f.write "link:/CCS/index{ext-relative}[home] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
+    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[the original version] + \n"
     f.write " \n"
     f.write flip.thisPage+" \n"
  f.close

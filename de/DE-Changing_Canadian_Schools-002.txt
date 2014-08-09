@@ -1,2 +1,0 @@
-:ext-relative: {outfilesuffix}
-image::/copies-from-original/CCS002.mini.png[the Cover of Changing Canadian Schools, link="/copies-from-original/CCS002.png"]

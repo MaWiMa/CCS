@@ -28,10 +28,10 @@ new names for the same organisation (why?) +
 3. The Canadian Association for Community Living +
 
 
-link:index{ext-relative}[home] +
-link:readme{ext-relative}[readme] +
-link:/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
-link:/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
-link:/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
+link:/CCS/index{ext-relative}[home] +
+link:/CCS/readme{ext-relative}[readme] +
+link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
+link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
+link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
 
 Changing Canadian Schools
