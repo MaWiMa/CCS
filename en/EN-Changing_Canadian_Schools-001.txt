@@ -1,10 +1,12 @@
+
 [resume]
-DOCUMENT RESUME
+=== DOCUMENT RESUME
+
 //this must be done better
 include::../CCSdocres.txt[]
 
 [abstract]
-ABSTRACT  
+=== ABSTRACT  
 The 15 papers in this collection present a Canadian
 perspective on providing services to children with disabilities in
 regular classes and schools. The papers are grouped into three

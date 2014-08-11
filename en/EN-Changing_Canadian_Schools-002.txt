@@ -1,1 +1,1 @@
-image::/copies-from-original/CCS002.mini.png[the Cover of Changing Canadian Schools, link="/copies-from-original/CCS002.png"]
+image::/CCS/copies-from-original/CCS002.mini.png[the Cover of Changing Canadian Schools, link="/CCS/copies-from-original/CCS002.png"]

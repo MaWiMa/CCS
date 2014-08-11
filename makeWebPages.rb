@@ -109,9 +109,9 @@ footer = case flip.lang
  f = File.open(new, "a")
     f.write " \n"
     f.write "link:/CCS/index{ext-relative}[home] + \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[the original version] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[weiter] + \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[zurück] + \n"
+    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[die Buchseite des Originals] + \n"
     f.write " \n"
     f.write flip.thisPage+" \n"
  f.close
@@ -120,7 +120,8 @@ end
 puts "made  : .. #{new}"
 
 # HTML output
-Asciidoctor.render_file new, :to_dir => '_site/'+flip.lang.downcase, :safe => 'unsafe'
+Asciidoctor.render_file new, :to_dir => '_site/CCS/'+flip.lang.downcase, :safe => 'unsafe', :attributes => 'linkcss stylesdir=/CCS stylesheet=adoc.css' 
+#, :attributes => 'stylesdir=/CCS/',  :attributes => 'stylesheet=adoc.css'
 puts "made  : . _site/#{flip.thisPage}.html"
 
 # DOCBOOK output
