@@ -47,7 +47,7 @@ textarea { overflow: auto; vertical-align: top; }
 table { border-collapse: collapse; border-spacing: 0; }
 *, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 html, body { font-size: 100%; }
-body { background: white;  padding: 0; margin: 0; font-family: 'Alegreya', serif;  font-weight: 300;  position: relative; cursor: auto; }
+body { background: white;  padding: 0; margin: 0; margin-bottom: 10em;  font-family: 'Alegreya', serif;  font-weight: 300;  position: relative; cursor: auto; }
 a:hover { cursor: pointer; }            x
 a:focus { outline: none; }
 img, object, embed { max-width: 100%; height: auto; }
@@ -360,4 +360,4 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 .conum:after { content: attr(data-value); }
 .conum:not([data-value]):empty { display: none; }
 .literalblock > .content > pre, .listingblock > .content > pre { -webkit-border-radius: 0; border-radius: 0; }
-.userinput1 { position:fixed; bottom:10%; background-color: white; width: 100%;}
+.userinput1 { position:fixed; bottom:1em; background-color: #f7f7f7; width:100%}

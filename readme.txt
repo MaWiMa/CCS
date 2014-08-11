@@ -156,15 +156,12 @@ Now, after a time I did nothing on this stuff, I decided not to do it through wi
 Everything should be done from now on with asciidoc(tor), with a static website for online-readers, and later pdfs or epubs for
 those who like ebooks and print out papers.
 
-
-link:/CCS/index{ext-relative}[home] +
+[userinput1]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/CCSsta{ext-relative}[Status] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
-link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
+link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#
 
 WilliV109@gMail.com +
-Norbert Reschke +
-
-Changing Canadian Schools
+Norbert Reschke

@@ -10,7 +10,7 @@
 |*mental disorder* | psychische Störung
 |*mental therapy* | Verhaltenstherapie
 |*behavior disorder* | Verhaltensstörung
-|*emotional and behavioral* disorders (EBD) | Emotionale- und Verhaltenstörungen (EVS)
+|*emotional and behavioral disorders* (EBD) | Emotionale- und Verhaltenstörungen (EVS)
 |*individual encouragement* | individuelle Förderung
 |*special education* | Förderpädagogik
 |*special education resource teacher* | Förderschullehrer/Förderpädagoge
@@ -21,17 +21,15 @@
 |*self-determination* | Selbstbestimmung
 |===
 
+remark +
 ***
 new names for the same organisation (why?) +
 1. National Institute on Mental Retardation +
 2. The Roeher Institute +
 3. The Canadian Association for Community Living +
 
-
-link:/CCS/index{ext-relative}[home] +
+[userinput1]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/readme{ext-relative}[readme] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
-link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
-
-Changing Canadian Schools
+link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#

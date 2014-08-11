@@ -4,8 +4,8 @@
 [cols="1,2,2", options="header"]
 |===
 |page |status EN|status DE
-|link:copies-from-original/CCS001.png[001]|link:en/EN-Changing_Canadian_Schools-001{outfilesuffix}[in progress]|link:/de/DE-Changing_Canadian_Schools-001{outfilesuffix}[in progress]
-|link:copies-from-original/CCS002.png[002]|link:en/EN-Changing_Canadian_Schools-002{outfilesuffix}[done]|link:/de/DE-Changing_Canadian_Schools-002{outfilesuffix}[done]
+|link:copies-from-original/CCS001.png[001]|link:en/EN-Changing_Canadian_Schools-001{outfilesuffix}[in progress]|link:/de/DE-Changing_Canadian_Schools-001{outfilesuffix}[missing]
+|link:copies-from-original/CCS002.png[002]|link:en/EN-Changing_Canadian_Schools-002{outfilesuffix}[done]|link:/de/DE-Changing_Canadian_Schools-002{outfilesuffix}[missing]
 |link:copies-from-original/CCS003.png[003]|link:en/EN-Changing_Canadian_Schools-003{outfilesuffix}[in progress]|link:/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[missing]
 |link:copies-from-original/CCS004.png[004]|link:en/EN-Changing_Canadian_Schools-004{outfilesuffix}[in progress]|link:/de/DE-Changing_Canadian_Schools-004{outfilesuffix}[missing]
 |link:copies-from-original/CCS005.png[005]|link:en/EN-Changing_Canadian_Schools-005{outfilesuffix}[in progress]|link:/de/DE-Changing_Canadian_Schools-005{outfilesuffix}[missing]
@@ -335,10 +335,7 @@
 |link:copies-from-original/CCS329.png[329]|link:en/EN-Changing_Canadian_Schools-329{outfilesuffix}[missing]|link:/de/DE-Changing_Canadian_Schools-329{outfilesuffix}[missing]
 
 |===
-
-link:/CCS/index{ext-relative}[home] +
+[userinput1]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
-link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools] +
-
-Changing Canadian Schools
+link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#

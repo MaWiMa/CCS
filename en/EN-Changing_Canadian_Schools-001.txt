@@ -1,4 +1,3 @@
-
 [resume]
 === DOCUMENT RESUME
 
