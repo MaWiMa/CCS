@@ -335,7 +335,7 @@
 |link:copies-from-original/CCS329.png[329]|link:en/EN-Changing_Canadian_Schools-329{outfilesuffix}[missing]|link:/de/DE-Changing_Canadian_Schools-329{outfilesuffix}[missing]
 
 |===
-[userinput1]#link:/CCS/index{ext-relative}[home] +
+[userinput3]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
 link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#

@@ -181,7 +181,7 @@ p a > code:hover { color: #561309; }
 #content #toc a { text-decoration: none; }
 #content #toctitle { font-weight: bold; font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 1em; padding-left: 0.125em; }
 #footer { position:fixed; bottom:0%;  max-width: 100%; background-color: #222222; }
-#footer-text { color: #dddddd; font-size: 0.65em; line-height: 1.44; }
+#footer-text { color: #dddddd; font-size: 0.8em; text-align:center; }
 .sect1 { padding-bottom: 1.25em; }
 .sect1 + .sect1 { border-top: 3px double #ebebeb; }
 #content h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, #toctitle > a.anchor, .sidebarblock > .content > .title > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor { position: absolute; width: 1em; margin-left: -1em; display: block; text-decoration: none; visibility: hidden; text-align: center; font-weight: normal; }
@@ -360,4 +360,6 @@ span.icon > [class^="icon-"], span.icon > [class*=" icon-"] { cursor: default; }
 .conum:after { content: attr(data-value); }
 .conum:not([data-value]):empty { display: none; }
 .literalblock > .content > pre, .listingblock > .content > pre { -webkit-border-radius: 0; border-radius: 0; }
-.userinput1 { position:fixed; bottom:1em; background-color: #f7f7f7; width:100%}
+.userinput3 { position:fixed; bottom:1.2em; left: 0%; color: #ffffff;background-color: white; width:100%; text-align:center; }
+.userinput2 { position:fixed; bottom:2.4em; left: 0%; color: #e4e4e4;background-color: #e4e4e4; width:100%; text-align:center;}
+.userinput1 { position:fixed; bottom:0.8em; left: 0%; color: #ffffff;background-color: #222222; width:100%; text-align:center; }

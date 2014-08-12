@@ -57,22 +57,23 @@ Document tree
 |-- copies-from-original
 |-- de
 |-- en
+|-- inclusion
+|-- images
 |-- _site
 |   `-- CCS
 |       |-- adoc.css -> ../../adoc.css
 |       |-- copies-from-original -> ../../copies-from-original
 |       |-- de
 |       |-- en
-|       |-- favicon.ico -> ../images/favicon.ico 
 |       |-- inclusion -> ../../inclusion
+|       |-- images    -> ../../images
 |-- _tmp
+|
 |-- CCSdocres.txt
 |-- CCSsta.txt
 |-- CCStecter.txt
 |-- adoc.css
 |-- flipPages.rb
-|-- images
-|-- inclusion
 |-- index.txt
 |-- makeWebPages.rb
 `-- readme.txt
@@ -81,14 +82,15 @@ Document tree
 
 todo manually, only if you want to buld your on website for testing
 ----
-_site                    # website directory, has to be createad manually
-_site/adoc.css           # symlink to adoc.css in root directory 
-CCS/copies-from-original # symlink to copies from original directory
-CCS/de                   # directory has to be createad manually
-CCS/en                   # directory has to be createad manually
-CCS/favicon.ico          # symlink to get less error messages, not necessary
-CCS/inclusion            # symlink to inclusion directory
-_tmp                     # temporary files directory, has to be createad manually
+
+_site                          # website dir, to be createad manually
+_site/CCS/copies-from-original # symlink to copies from original dir
+_site/CCS/de                   # dir has to be createad manually
+_site/CCS/en                   # dir has to be createad manually
+_site/CCS/images               # symlink to images dir
+_site/CCS/inclusion            # symlink to inclusion directory
+_site/adoc.css                 # symlink to adoc.css in root dir 
+_tmp                           # dir has to be createad manually
 
 ----
 
@@ -129,7 +131,11 @@ To take a look at the website you build, go into your DIR *_site* open a termina
 ruby -run -e httpd . -p 8000
 ----
 
+If your terminal shows something like this +
+image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -e httpd . -p 8000] +
+
 open your browser and look for your website at *http://localhost:8000/CCS*
+
 
 
 === Transcript and Translation, why?  
@@ -156,7 +162,7 @@ Now, after a time I did nothing on this stuff, I decided not to do it through wi
 Everything should be done from now on with asciidoc(tor), with a static website for online-readers, and later pdfs or epubs for
 those who like ebooks and print out papers.
 
-[userinput1]#link:/CCS/index{ext-relative}[home] +
+[userinput3]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/CCSsta{ext-relative}[Status] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +

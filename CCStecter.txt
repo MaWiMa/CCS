@@ -28,7 +28,7 @@ new names for the same organisation (why?) +
 2. The Roeher Institute +
 3. The Canadian Association for Community Living +
 
-[userinput1]#link:/CCS/index{ext-relative}[home] +
+[userinput3]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/readme{ext-relative}[readme] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +

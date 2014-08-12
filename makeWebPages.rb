@@ -97,23 +97,21 @@ footer = case flip.lang
  when "EN" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "link:/CCS/index{ext-relative}[home] + \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] + \n"
+    f.write "[userinput2]#link:/CCS/index{ext-relative}[home] . . . . . . . . . . . \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] . . . . . . . . . . . \n"
     f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page] + \n"
-    f.write " \n"
-    f.write flip.thisPage+" \n"
+    f.write "link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page]# \n"
+    f.write "[userinput1]#"+flip.thisPage+"# \n"
  f.close
 # DE
  when "DE" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "link:/CCS/index{ext-relative}[home] + \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[weiter] + \n"
+    f.write "[userinput2]#link:/CCS/index{ext-relative}[home] . . . . . . . . . . . \n"
+    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[weiter] . . . . . . . . . . . \n"
     f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[zurück] + \n"
-    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[die Buchseite des Originals] + \n"
-    f.write " \n"
-    f.write flip.thisPage+" \n"
+    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[die Buchseite des Originals]# \n"
+    f.write "[userinput1]#"+flip.thisPage+"# \n"
  f.close
 # other Language 
 end
@@ -121,7 +119,9 @@ puts "made  : .. #{new}"
 
 # HTML output
 Asciidoctor.render_file new, :to_dir => '_site/CCS/'+flip.lang.downcase, :safe => 'unsafe', :attributes => 'linkcss stylesdir=/CCS stylesheet=adoc.css' 
-#, :attributes => 'stylesdir=/CCS/',  :attributes => 'stylesheet=adoc.css'
+#to take original asciidoctor.css just use following line instead the one obove
+#Asciidoctor.render_file new, :to_dir => '_site/CCS/'+flip.lang.downcase, :safe => 'unsafe', :attributes => 'linkcss' 
+
 puts "made  : . _site/#{flip.thisPage}.html"
 
 # DOCBOOK output
