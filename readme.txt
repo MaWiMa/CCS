@@ -163,8 +163,8 @@ Everything should be done from now on with asciidoc(tor), with a static website 
 those who like ebooks and print out papers.
 
 [userinput3]#link:/CCS/index{ext-relative}[home] +
-link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/CCSsta{ext-relative}[Status] +
+link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
 link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#

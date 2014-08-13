@@ -10,7 +10,7 @@
 |Chapter 3: |link:/CCS/en/EN-Changing_Canadian_Schools-056{outfilesuffix}[Education: A System of Social Disempowerment Marcia H. Rioux]|49
 |Chapter 4: |link:/CCS/en/EN-Changing_Canadian_Schools-067{outfilesuffix}[Access to Equality in Education: The Power of Parents S. Dulcie McCaIlum]|61
 |SECTION TWO:|	Parent and Self-Advocacy |73
-|Chapter 5: |link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[Principles of Change: A Parent´s Perspective on the Education System David Jory] |75
-|Chapter 6: | The Road to Inclusion:  One Family´s Story  Alene Steinbeck |89
+|Chapter 5: |link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[Principles of Change: A Parent's Perspective on the Education System David Jory] |75
+|Chapter 6: |link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[The Road to Inclusion:  One Family's Story Alene Steinbeck] |89
 |Chapter 7: | A Will to Learn: The Experiences of a Self-Advocate in the Education System Marcia Marcaccio |101
 |===

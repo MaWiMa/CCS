@@ -212,16 +212,14 @@ table.pyhltable td.code{padding-left:.75em;padding-right:0}
 pre.pygments .lineno,table.pyhltable td:not(.code){color:#999;padding-left:0;padding-right:.5em;border-right:1px solid #ddddd8}
 pre.pygments .lineno{display:inline-block;margin-right:.25em}
 table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
-.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock{margin:0 1em 1.25em 1.0em;display:table}
 .quoteblock>.title{margin-left:-1.5em;margin-bottom:.75em}
-.quoteblock blockquote,.quoteblock blockquote p{color:#777777;line-height:1.33;font-style:italic;text-align:left}
+.quoteblock blockquote,.quoteblock blockquote p{position:relative;color:#777777;line-height:1.33;font-style:italic;font-weight:bold;text-align:left}
 .quoteblock blockquote{margin:0;padding:0;border:0}
 .quoteblock blockquote:before{content:"\201c";float:left;font-size:2em;font-weight:normal;line-height:.6em;margin-left:-.6em;color:#999999}
-/*
-.quoteblock blockquote:after{content:"\201d";float:right;font-size:2em;font-weight:normal;line-height:.6em;color:#999999}
-*/
-.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
-.quoteblock .attribution{margin-top:.5em;margin-right:.5ex;text-align:right}
+.quoteblock blockquote:after{position:relative; top:-0.3em;content:"\201d";float:right;font-size:2em;font-weight:normal;line-height:0em;margin-right:-.4em;color:#999999}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0;}
+.quoteblock .attribution{margin-top:0.5em;margin-right:.5ex;text-align:right}
 .quoteblock .quoteblock{margin-left:0;margin-right:0;padding:.5em 0;border-left:3px solid rgba(0,0,0,.6)}
 .quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
 .quoteblock .quoteblock blockquote:before{display:none}

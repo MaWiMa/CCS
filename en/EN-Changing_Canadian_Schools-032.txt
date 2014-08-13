@@ -1,5 +1,5 @@
-// that organizationally we´ve got to have them together. -> page 31
-> *If there´s a sense of education being integral and being for everybody, then those services have to be in the one department. (Porter, 1990)*  
+// that organizationally we've got to have them together. If there's a sense of education being integral and being for everybody,
+// then those services have to be in the one department.-> page 31
 
 It is now recognized that learning problems are contextual. They exist within the context of the classroom where the curriculum
 design and the instructional strategies employed by the teacher influence the degree to which exceptional students can be
@@ -18,4 +18,4 @@ Canada are moving toward more integrated approaches to special education.
 One of the compelling features of the school districts that have moved toward an integrated approach on a systemic basis is what
 Sage (1989) has described as the relatively "primitive" level of development of their special services when they began to
 incorporate integration policy and practice. The term "primitive" is not used in a negative sense, but rather to
-draw attention to the districts´ relatively late development of special education programs.
+draw attention to the districts' relatively late development of special education programs.
