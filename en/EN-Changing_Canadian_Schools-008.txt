@@ -12,5 +12,5 @@
 |SECTION TWO:|	Parent and Self-Advocacy |73
 |Chapter 5: |link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[Principles of Change: A Parent's Perspective on the Education System David Jory] |75
 |Chapter 6: |link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[The Road to Inclusion:  One Family's Story Alene Steinbeck] |89
-|Chapter 7: | A Will to Learn: The Experiences of a Self-Advocate in the Education System Marcia Marcaccio |101
+|Chapter 7: |link:/CCS/en/EN-Changing_Canadian_Schools-105{outfilesuffix}[A Will to Learn: The Experiences of a Self-Advocate in the Education System Marcia Marcaccio]|101
 |===
