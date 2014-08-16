@@ -24,4 +24,4 @@ from me, or who were labelled mentally handicapped, or who used a wheelchair.
 I didn't have the opportunity to feel natural or confident around people
 who were different from myself. My entire generation lacked this experience,
 which led many of us to believe that people with differences did not belong
-in our community; they belonged somewhere else, some place "special".
+in our community; they belonged somewhere else, some place "`special`".
