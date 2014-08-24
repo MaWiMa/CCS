@@ -19,6 +19,7 @@
 |*school board* | Schulamt/Schulausschuss
 |*citizenship* | Bürgerrecht
 |*self-determination* | Selbstbestimmung
+|*staff room* | Lehrerzimmer
 |===
 
 remark +
