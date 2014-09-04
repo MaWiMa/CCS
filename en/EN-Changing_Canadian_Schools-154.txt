@@ -11,7 +11,7 @@ monitoring, and professional development.
 
 [upperalpha]
 . *_Collaboration with school and district staff, parents, students, and outside agencies:_*
-
+[arabic]
 .. Provide support for personnel involved in meeting student needs. 
 .. Develop and evaluate individual programs.
 .. Handle student referrals.
@@ -19,9 +19,8 @@ monitoring, and professional development.
 .. Organize problem-solving teams to handle challenging situations.
 .. Obtain needed information/strategies for working with students with very challenging needs.
 
-[upperalpha]
-. *_Liaison with school and district staff, parents, and outside agencies:
-
+. *_Liaison with school and district staff, parents, and outside agencies:_*
+[arabic]
 .. Coordinate case conferences.
 .. Coordinate the transfer of student information during periods of transition.
 (i.e., grade to grade, school to school).
