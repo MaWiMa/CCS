@@ -1,0 +1,18 @@
+[upperalpha, start=4]
+. *_Monitoring:_*
+[arabic]
+
+.. Implement strategies agreed upon through case conferences, consultations, or problem-solving sessions.
+.. Monitor the effectiveness of individual programs.
+.. Monitor the coordination of support personnel involved in individual cases.
+.. Monitor the need for and use of resource room materials. 
+.. Monitor teacher assistant timetables and student schedules.
+.. Montitor the school proccess for identifying and meeting the needs for "`at-risk`" students.
+
+. *_Professional Development:_*
+
+.. Attend professionel conferences, workshops, and in-service training sessions within and outside the district.
+.. Promote personal growth by conducting or participating in the presentation of school and district professional development sessions.
+.. Set personal goals.
+.. Keep informed on current issues of relevance to the role.
+.. Participate in research projects within the system.

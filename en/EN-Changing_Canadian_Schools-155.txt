@@ -26,6 +26,6 @@ compelling reasons necessary to meet student's instructional needs.
 
 //. *_Monitoring:_*
 
-//.. Implement strategim agreed upon through case conferences, consultations, or problem-solving sessions.
-//.. Monitor the eﬂhctivenms of individual programs.
-//.. Monitor the coordination of support personnel involvedin individual cases. -> page 156
+//.. Implement strategies agreed upon through case conferences, consultations, or problem-solving sessions.
+//.. Monitor the effectiveness of individual programs.
+//.. Monitor the coordination of support personnel involved in individual cases.

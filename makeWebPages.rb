@@ -97,21 +97,19 @@ footer = case flip.lang
  when "EN" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "[userinput2]#link:/CCS/index{ext-relative}[home] . . . . . . . . . . . \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward] . . . . . . . . . . . \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back] + \n"
-    f.write "link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from original page]# \n"
-    f.write "[userinput1]#"+flip.thisPage+"# \n"
+    f.write "[userinput2-l]#link:/CCS/index{ext-relative}[home]# \n"
+    f.write "[userinput2-c]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward]# \n"
+    f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back]# \n"
+    f.write "[userinput1]#link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png["+flip.thisPage+"]# \n"
  f.close
 # DE
  when "DE" then 
  f = File.open(new, "a")
     f.write " \n"
-    f.write "[userinput2]#link:/CCS/index{ext-relative}[home] . . . . . . . . . . . \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[weiter] . . . . . . . . . . . \n"
-    f.write "link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[zurück] + \n"
-    f.write "link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[die Buchseite des Originals]# \n"
-    f.write "[userinput1]#"+flip.thisPage+"# \n"
+    f.write "[userinput2-l]#link:/CCS/index{ext-relative}[home]# \n"
+    f.write "[userinput2-c]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward]# \n"
+    f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back]# \n"
+    f.write "[userinput1]#link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[diese Seite als Auszug des Originals]# \n"
  f.close
 # other Language 
 end
