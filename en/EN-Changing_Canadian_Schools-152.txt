@@ -1,5 +1,3 @@
-==== TIME-USE SURVEY +
-A5: Other Activities
+==== TIME-USE SURVEY A5
 
-to be done +
-pie-chart A5
+image:/CCS/images/CCS152.svg[A5: Other Activities, align="center"]

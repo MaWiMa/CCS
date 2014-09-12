@@ -29,6 +29,10 @@ new names for the same organisation (why?) +
 2. The Roeher Institute +
 3. The Canadian Association for Community Living +
 
+Pie Chart A2 is 100,1%
+Pie Chart A3 is 100,1%
+
+
 [userinput3]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/readme{ext-relative}[readme] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +

@@ -1,7 +1,3 @@
-==== Time-Use Survey +
-A4: Teacher Support
+==== TIME-USE SURVEY A4
 
-to be done +
-pie-chart A4 
-
-Combined M&R Teachers
+image:/CCS/images/CCS151.svg[A4: Teacher Support, align="center"]

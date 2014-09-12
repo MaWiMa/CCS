@@ -1,7 +1,3 @@
-==== TIME-USE SURVEY +
-A2: Collaboration
+==== TIME-USE SURVEY A2
 
-to be done +
-pie-chart A2 
-
-Combined M&R Teachers
+image:/CCS/images/CCS149.svg[A2: Collaboration, align="center"]
