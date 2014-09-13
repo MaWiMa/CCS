@@ -2,8 +2,12 @@
 
 == Changing Canadian Schools
 === homepage for webusers 
-For details look at the readme here: 
+Please take a look at the readme here: +
 link:readme{ext-relative}[Changing Canadian Schools Transcript and Translation]
+
+For details look at the background-page here: +
+link:CCSbacgro{ext-relative}[Background and Questions]
+
 
 [userinput3]#link:/CCS/CCSsta{ext-relative}[Status] +
 link:/CCS/CCStecter{ext-relative}[Technical Terms] +

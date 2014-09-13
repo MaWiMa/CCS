@@ -1,0 +1,70 @@
+:ext-relative: {outfilesuffix}
+
+== background and questions
+
+=== Original Book
+*Changing Canadian Schools* is a book from 1991 and I read it the first time in 2011 because of
+link:/CCS/inclusion/Inklusion.pdf[professional interest] on inclusion.
+I was searching for experienced people and changing canadian schools seems to be sampled experience on inclusion from the view
+of students, their parents and teachers. I want to look at former times and than look what happened till that time.
+For short -- I felt the urge for learning more about the progress of inclusion.
+
+You can download the book from this site:
+http://eric.ed.gov/?id=ED341224 under this link http://files.eric.ed.gov/fulltext/ED341224.pdf[ED341224.pdf].
+If the link is dead now, take link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[my copy],
+trust me, it is the same copy. I guess the book can only be bought used now.
+I got my own used hardcover on April the 17th in 2013.
+
+To go through translation side by side, I split the copy into each page. I use only the front and back-cover of
+my own book, the rest is from the source above.
+White pages are left out, the pages are numbered like the copies are counted, not like the real bookpages.
+Look at one page and you will recognize what is meant.
+
+
+=== Transcript and Translation, why?
+
+Now, to me, inclusion describes the ratified right to education for all. People are taught within the same general types of schools
+in one study group. The diversity of individuals builds the basis, to the development of the skills of all.
+
+Since 5th of March 2013 I try to transcript and translate *Changing Canadian Schools* into german.
+I like to be a part of a socialgroup, so I start and hope a view or more will join. +
+
+In former times I was an expert in special education, the german way, and in 2011 I changed my attitudes.
+My attitude changed as I wrote a short comparsion on special education in Canada and Germany.
+Since 1994 I should know about inclusion, because of the Salamanca Conference; I did not like most other germans did not too.
+I recognized, special education, the way we do in germany -- till now -- is not the right way to help pupils be part of real life.
+
+I believe inclusion is a good way to teach and learn,  in germany it seems to be down before it is really started (not because it has
+a horrible name, like a desease. I often hear teachers and parents talk about inclusive children or inclusive classes;
+using this term this way is marginalization again). 
+Maybe this happens because it is done top-down. It seems as if things get done better, when learners and their parents
+want a change and renew structures in education.
+
+My goal is to look with more than two eyes on inclusion, by going back a lot of years in an other country.
+I would like to translate with many, not only because my translation is surely faulty and if your
+interested in working together with people on this,
+we maybe also can discuss what education should do.
+
+Changing Canadian Schools was written in french and english. We have a special discussion in germany --
+just like an open competition in comparsion of empty statements -- we compare the words integration and inclusion, for what?
+In french inclusion is integration, as far as I know native french speakers do not use the word inclusion.
+In germany inclusion was first translated into integration, later it was redefined as inclusion,
+really backwards (Salamanca Declaration, german translation 2006 and 2010).
+
+
+
+
+=== Questions
+
+new names for the same organisation (why?)
+
+. National Institute on Mental Retardation 
+. The Roeher Institute
+. The Canadian Association for Community Living
+
+
+Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[A2] is 100,1% +
+Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-150{outfilesuffix}[A3] is 100,1% +
+
+[userinput3]#link:/CCS/index{ext-relative}[home] +
+link:/CCS/readme{ext-relative}[readme]#
