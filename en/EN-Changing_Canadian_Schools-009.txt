@@ -6,7 +6,7 @@
 |Chapter 8:  |link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[The Methods and Resource Teacher A Collaborative Consultant Model _Gordon L. Porter_]|107
 |Chapter 9:  |link:/CCS/en/EN-Changing_Canadian_Schools-158{outfilesuffix}[Leading the Way The Role of School Administrators in Integration	_Darlene E. Perner_]|155
 |Chapter 10: |link:/CCS/en/EN-Changing_Canadian_Schools-175{outfilesuffix}[The Role of the classroom Teacher _Margaret Murray_] |173
-|Chapter 11: | Implementing Multi-Level Instruction Strategies for Classroom Teachers _Jean Collicott_ |191
+|Chapter 11: |link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[Implementing Multi-Level Instruction Strategies for Classroom Teachers _Jean Collicott_] |191
 |Chapter 12: | link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[Problem Solving Teams A Thirty-Minute Peer-Helping Model _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_] |219
 |Chapter 13: | Student to Student Curriculum and the Development of Peer Relationships _Julie Stone and Charlotte Campbell_ |239
 |Chapter 14: | Beyond Behaviour	A Case of Social Intervention Strategies for a Student with Challenging Behaviours _Brian Kelly and Jeff den Otter_ |257
