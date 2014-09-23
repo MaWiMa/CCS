@@ -1,0 +1,21 @@
+=== Bloom's Taxonomy
+
+//http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
+[cols="1,1,1,1"]
+|===
+|Areas    |Definition|Key Verbs|Classroom Products
+|Knowledge|knowing and remembering facts|match, recognize, list, describe, name, define, show, record, select, identify|report, map, worksheet, chart
+
+|Comprehension|understanding|explain, locate, inquire, demonstrate, discover|diagram, model, game, picture, teach a lesson, dioramas, time line
+
+|Application|doing, making use of what is known|model, apply, code, collect, organize, construct, report, experiment, sketch, paint, draw, group, put in order|survey, diary, mobile, scapbook, photographs, stichery, cartoon, model, illustration, sculpture, learning centre, construction
+
+|Analysis|explaining what is known|categorize, take apart, analyze, separate, dissect, compare, contrast|graph, survey, report, time line, family tree, commercial, fact file, questionnaire
+
+|Synthesis|putting together the known into something new|add to, create, imagine, combine, suppose, predict, role-play, change, hypothesize, what if?, design, invent, infer, improve, adapt, compose|story, poem, play, song, pantomime, news article, invention, radio show, dance, mural, comic strip
+
+|Evaluation|judging the outcome|justify, debate, solve, recommend, judge, criticize, prove, dispute|editorial, survey, self-evaluation, letter, conclusion, recommendation, court trial
+
+|===
+
+(Gearhart, Welshahn, & Gearhart, 1988)
