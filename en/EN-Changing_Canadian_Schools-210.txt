@@ -28,7 +28,7 @@ concept as it was covered. They ranged from the concrete to the abstract
 in ideas and from the knowledge level to the evaluation level of
 Bloom's Taxonomy.
 
-==== METHOD OF OF EVALUATION:
+==== METHOD OF EVALUATION:
 
 Individual assignments were used as the major evaluation. Main concepts
 were tested in a written form where possible. Adaptations were made for

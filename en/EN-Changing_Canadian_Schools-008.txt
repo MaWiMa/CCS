@@ -5,12 +5,25 @@
 |Preface ||i
 |Introduction ||1
 |SECTION ONE: |	Philosophical, Legal and Historical Overview |7
-|Chapter 1: |link:/CCS/en/EN-Changing_Canadian_Schools-018{outfilesuffix}[Changing Special Education Practice: Law, Advocacy and Innovation _Gordon L. Porter and Diane Richler_]|9
-|Chapter 2: |link:/CCS/en/EN-Changing_Canadian_Schools-043{outfilesuffix}[Inclusive Education as Social Policy _Diane Richler_]|35
-|Chapter 3: |link:/CCS/en/EN-Changing_Canadian_Schools-056{outfilesuffix}[Education: A System of Social Disempowerment _Marcia H. Rioux_]|49
-|Chapter 4: |link:/CCS/en/EN-Changing_Canadian_Schools-067{outfilesuffix}[Access to Equality in Education: The Power of Parents _S. Dulcie McCaIlum_]|61
+|Chapter 1: |link:/CCS/en/EN-Changing_Canadian_Schools-018{outfilesuffix}[Changing Special Education Practice: +
+                                                                          Law, Advocacy and Innovation +
+                                                                          _Gordon L. Porter and Diane Richler_]|9
+|Chapter 2: |link:/CCS/en/EN-Changing_Canadian_Schools-043{outfilesuffix}[Inclusive Education as Social Policy +
+                                                                          _Diane Richler_]|35
+|Chapter 3: |link:/CCS/en/EN-Changing_Canadian_Schools-056{outfilesuffix}[Education: +
+                                                                          A System of Social Disempowerment +
+                                                                          _Marcia H. Rioux_]|49
+|Chapter 4: |link:/CCS/en/EN-Changing_Canadian_Schools-067{outfilesuffix}[Access to Equality in Education: +
+                                                                          The Power of Parents +
+                                                                          _S. Dulcie McCaIlum_]|61
 |SECTION TWO:|	Parent and Self-Advocacy |73
-|Chapter 5: |link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[Principles of Change: A Parent's Perspective on the Education System _David Jory_] |75
-|Chapter 6: |link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[The Road to Inclusion:  One Family's Story _Alene Steinbeck_] |89
-|Chapter 7: |link:/CCS/en/EN-Changing_Canadian_Schools-105{outfilesuffix}[A Will to Learn: The Experiences of a Self-Advocate in the Education System _Marcia Marcaccio_]|101
+|Chapter 5: |link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[Principles of Change: +
+                                                                          A Parent's Perspective on the Education System +
+                                                                          _David Jory_] |75
+|Chapter 6: |link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[The Road to Inclusion: +
+                                                                          One Family's Story +
+                                                                          _Alene Steinbeck_] |89
+|Chapter 7: |link:/CCS/en/EN-Changing_Canadian_Schools-105{outfilesuffix}[A Will to Learn: +
+                                                                          The Experiences of a Self-Advocate in the Education System +
+                                                                          _Marcia Marcaccio_]|101
 |===

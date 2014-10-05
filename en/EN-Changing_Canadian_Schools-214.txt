@@ -1,0 +1,37 @@
+She felt that she belonged and was a part of the class. (Larry Harley, 1989)
+
+*Lesson:* Language Arts +
+*Topic:* Learning New Words +
+*Grade:* 2
+
+Each student in the class wrote a paragraph about himself or herself
+using a list of new words. The student with special needs had a paragraph
+prepared that was based on her life. From it, a list of important new words
+was developed and she was given exercises to learn the words.
+
+_Mary_ +
+Mary is a girl. She is in Grade 2. Her teacher's name is Mrs. James. Mary
+has black hair and blue eyes. She is a very pretty girl. Mary rides on a
+bus every day. She lives in a new house. Mary has two sisters and one
+brother. Their names are Amy, Elizabeth, and Tommy. She has many friends
+at school. One friend is Beth. Another friend is Larry.
+
+_Read these words:_ +
+
+[cols="6*"]
+|===
+|friends |eyes   |girl |grade |name   |rides
+|pretty  |brother|house|hair  |sisters|
+|===
+
+_Complete the sentences:_ +
+Mary is a ___________. +
+She is in ___________ 2. +
+Her teacher's ___________ is Mrs. James. +
+Mary has black ___________ and blue ___________. +
+She is a very he ___________ girl. +
+Mary ___________ on a school bus. +
+She lives in a new ___________. +
+Mary has two ___________. +
+She has one ___________. +
+Mary has many ___________ at school.
