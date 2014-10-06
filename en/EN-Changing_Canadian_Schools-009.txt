@@ -17,18 +17,15 @@
 |Chapter 12: |link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[Problem Solving Teams: +
                                                                            A Thirty-Minute Peer-Helping Model +
                                                                            _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_] |219
-|Chapter 13: | 
-                                                                           Student to Student: +
+|Chapter 13: |link:/CCS/en/EN-Changing_Canadian_Schools-239{outfilesuffix}[Student to Student: +
                                                                            Curriculum and the Development of Peer Relationships +
-                                                                           _Julie Stone and Charlotte Campbell_ |239
-|Chapter 14: |
-                                                                           Beyond Behaviour: +
+                                                                           _Julie Stone and Charlotte Campbell_ ]|239
+|Chapter 14: |link:/CCS/en/EN-Changing_Canadian_Schools-257{outfilesuffix}[Beyond Behaviour: +
                                                                            A Case of Social Intervention Strategies for a Student with Challenging Behaviours +
-                                                                           _Brian Kelly and Jeff den Otter_ |257
-|Chapter 15: | 
-                                                                           On Campus: +
+                                                                           _Brian Kelly and Jeff den Otter_ ]|257
+|Chapter 15: |link:/CCS/en/EN-Changing_Canadian_Schools-280{outfilesuffix}[On Campus: +
                                                                            Integrated Post-Secondary Education +
-                                                                           _Melanie Panitch_ |281
+                                                                           _Melanie Panitch_]|281
 ||The Roeher Institute Information Services	Annotated Bibliography on Integrated Education |295
 ||Editors and Contributors |329
 |===
