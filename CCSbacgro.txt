@@ -52,6 +52,17 @@ In germany inclusion was first translated into integration, belatedly it was red
 This is the truth (Salamanca Declaration, german translation 2006 and 2010).
 I think it does not matter how you call what you do, but it does matter what you do. 
 
+=== static website
+
+First I tried to do the work in a wiki with https://github.com/gollum/gollum/blob/master/README.md[gollum] at home,
+it is really lovely and simple to work with that software.
+Now, after a time I did nothing on this stuff, I decided not to do it through wiki.
+I thought it has do be done through wiki, to be fast. After I realized that even the transcript gets done real slow,
+I changed to static webpages.
+Everything should be done from now on with asciidoc(tor), with a static website for online-readers, and later pdfs or epubs for
+those who like ebooks and print out papers.
+Look at the https://github.com/MaWiMa/CCS/commits/master[commit-history] to look how this grows.
+
 === Questions
 
 new names for the same organisation (why?)
@@ -61,8 +72,8 @@ new names for the same organisation (why?)
 . The Canadian Association for Community Living
 
 
-Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[A2] is 100,1% +
-Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-150{outfilesuffix}[A3] is 100,1% +
+Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[A2] is 100.1% +
+Pie Chart link:/CCS/en/EN-Changing_Canadian_Schools-150{outfilesuffix}[A3] is 100.1% +
 
 [userinput3]#link:/CCS/index{ext-relative}[home] +
 link:/CCS/readme{ext-relative}[readme]#
