@@ -4,23 +4,43 @@
 [cols="1,1", options "header"]
 |===
 |EN | DE
-|*challenging behavior* | Verhaltensauffälligkeiten,
-|*beyond behavior* | Inakzeptables Verhalten
-|*eating disorder* | Essstörung
-|*mental disorder* | psychische Störung
-|*mental therapy* | Verhaltenstherapie
-|*behavior disorder* | Verhaltensstörung
-|*emotional and behavioral disorders* (EBD) | Emotionale- und Verhaltenstörungen (EVS)
-|*individual encouragement* | individuelle Förderung
-|*special education* | Förderpädagogik
-|*special education resource teacher* | Förderschullehrer/Förderpädagoge
-|*self-advocacy* | Eigenverantwortung (Vertretung der eigenen Rechte)
-|*education ministries* | Bildungsministerien
-|*school board* | Schulamt/Schulausschuss
-|*citizenship* | Bürgerrecht
-|*self-determination* | Selbstbestimmung
-|*staff room* | Lehrerzimmer
-|*staff meeting* | Lehrerkonferenz
+
+|*behavior disorder*						| Verhaltensstörung
+|*beyond behavior*							| Inakzeptables Verhalten
+
+|*challenging behavior*						| Verhaltensauffälligkeiten,
+|*citizenship*								| Bürgerrecht
+
+|*eating disorder*							| Essstörung
+|*education ministries*						| Bildungsministerien
+|*emotional and behavioral disorders* (EBD)	| Emotionale- und Verhaltenstörungen (EVS)
+|*facilitator*								| Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
+|*fellow teacher*							| Tutor
+|*guidance counsellor*						| Beratungslehrer
+|*individual encouragement*					| individuelle Förderung
+
+|*mental disorder*							| psychische Störung
+|*mental therapy*							| Verhaltenstherapie
+|*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in incluiven Anforderungen
+											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
+|*principal*								| Schulleiterin/Schulleiter
+|*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
+											  http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
+|*self-advocacy*							| Eigenverantwortung (Vertretung der eigenen Rechte)
+|*self-determination*						| Selbstbestimmung
+|*school board*								| Schulamt/Schulausschuss
+
+|*skills*									| Fertigkeiten /CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
+											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
+|*special education*						| Förderpädagogik
+|*special education resource teacher*		| Förderschullehrer/Förderpädagoge
+|*special needs*							| besondere Bedürfnisse 
+                                              http://www.european-agency.org/country-information/germany/national-overview/special-needs-education-within-the-education-system[(nähere Erläuterung)]
+|*staff room*								| Lehrerzimmer
+|*staff meeting*							| Lehrerkonferenz
+
+|*teacher fellow*							| Kollege
+
 |===
 
 

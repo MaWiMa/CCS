@@ -1,16 +1,37 @@
 :ext-relative: {outfilesuffix}
 
 == Changing Canadian Schools
+
 === homepage for webusers 
-Please take a look at the readme here: +
+
+
+Start link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[here
+to read the transcript in englisch], or take a look at the 
+link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[german translation].
+
+You may also like to know how far the transcription or the translation
+is done. In this case look at the link:/CCS/CCSsta{ext-relative}[Status Page].
+
+Your welcome to take a look at the readme here: +
 link:readme{ext-relative}[Changing Canadian Schools Transcript and Translation]
 
-For details look at the background-page here: +
-link:CCSbacgro{ext-relative}[Background and Questions]
+If you like to do something else than reading with these pages; you should
+know the link:/CCS/license{ext-relative}[license].
+
+https://github.com/MaWiMa/CCS[Here] you find the
+https://github.com/MaWiMa/CCS[source] of this 
+https://mawima.github.io/CCS/[website] you are reading now.
 
 
-[userinput3]#link:/CCS/CCSsta{ext-relative}[Status] +
+
+
+
+
+
+
+[userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
+link:/CCS/CCSsta{ext-relative}[Status] +
+link:CCSbacgro{ext-relative}[Background and Questions] +
 link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
-link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch] +
-link:/CCS/copies-from-original/BestCopy_Changing_Canadian_Schools_Perspectives_on_Disability_and_Inclusion.pdf[copy of Changing Canadian Schools]#
+link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch]#

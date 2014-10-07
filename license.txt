@@ -1,0 +1,43 @@
+:ext-relative: {outfilesuffix}
+
+== Lizenz
+
+=== Die Rechte des/am Originals, Changing Canadian Schools, bleiben unberührt.
+
+Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift, Übersetzung
+oder Korrektur leisten, besitzen das Recht Ihren Beitrag an einem andern
+Ort zu Ihren eigenen Bedingungen zu verwenden. Sie erklären sich jedoch
+bereit, Ihren Beitrag _hier_ unter der _unten aufgeführten Lizenz_ zu
+veröffentlichen. 
+
+Der Begriff _This work_, der Creative Commons License bezieht sich _hier_ auf
+
+. die Skripte zur Datenverarbeitung und
+
+. die Texte zur link:/CCS/inclusion/Inklusion.pdf[Inklusion] und
+
+. zur link:/CCS/inclusion/Sonderpaedagogische_Foerderung.pdf[sonderpädagogischen Förderung] und 
+ 
+. die Abschrift des Originals und
+
+. die Übersetzungen des Originals und
+
+. die neu erstellten Bilder
+
+Mit _hier_ sind folgende Ursprungsorte zusammengefasst:
+
+[arabic,start=7]
+. https://github.com/MaWiMa/CCS +
+
+. https://mawima.github.io/CCS/
+
+
+_This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
+
+
+Norbert Reschke
+
+
+
+[userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
+link:/CCS/index{ext-relative}[home]#
