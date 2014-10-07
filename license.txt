@@ -1,43 +1,38 @@
 :ext-relative: {outfilesuffix}
 
-== Lizenz
+== License/Lizenz
 
-=== Die Rechte des/am Originals, Changing Canadian Schools, bleiben unberührt.
+. Title of _This work_ (Titel _des Werkes_) is (ist) Transcript and Translation of Changing Canadian Schools.
 
-Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift, Übersetzung
-oder Korrektur leisten, besitzen das Recht Ihren Beitrag an einem andern
-Ort zu Ihren eigenen Bedingungen zu verwenden. Sie erklären sich jedoch
-bereit, Ihren Beitrag _hier_ unter der _unten aufgeführten Lizenz_ zu
-veröffentlichen. 
+. Attribution Name is (Name oder Bezeichnung des Rechteinhabers des Werkes ist) Norbert Reschke (MaWiMa)
 
-Der Begriff _This work_, der Creative Commons License bezieht sich _hier_ auf
+. First Attribution Uniform Resource Locator (URL) (here called source) is https://github.com/MaWiMa/CCS
+.. Second Attribution URL (here called website) is https://mawima.github.io/CCS/
+... If first or second Attribution URL are changed, this has to be announced
+in this licence and will not hurt any rights of this licence.  
 
-. die Skripte zur Datenverarbeitung und
+. _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
 
-. die Texte zur link:/CCS/inclusion/Inklusion.pdf[Inklusion] und
+. Die Rechte am Original des Buches Changing Canadian Schools bleiben unberührt.
 
-. zur link:/CCS/inclusion/Sonderpaedagogische_Foerderung.pdf[sonderpädagogischen Förderung] und 
- 
-. die Abschrift des Originals und
+. Natürliche Personen können _Beiträge_ (_contribution_) zur Abschrift
+und zur Übersetzung leisten.
 
-. die Übersetzungen des Originals und
+. Der Rechteinhaber des Werkes kann _Beiträge_ annehmen,
 
-. die neu erstellten Bilder
+.. in diesem Fall hat die natürliche Person, die einen _Beitrag_ leistet,
+das Recht als Autor dieses Beitrages genannt zu werden.
 
-Mit _hier_ sind folgende Ursprungsorte zusammengefasst:
+.. Sollte die natürliche Person, die einen _Beitrag_ leistet widersprechen
+namentlich genannt zu werden, so muss der Rechteinhaber des Werkes davon
+absehen den Autor des _Beitrages_ zu benennen.
 
-[arabic,start=7]
-. https://github.com/MaWiMa/CCS +
+.. Die kleinste Einheit (smallest unit) eines _Beitrages_ ist eine Seite (one page).
 
-. https://mawima.github.io/CCS/
-
-
-_This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
-
-
-Norbert Reschke
-
-
+... Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift oder zur
+Übersetzung geleistet haben, besitzen das Recht ihren gleichen _Beitrag_ an
+einem anderen Ort zu anderen Bedingungen zu veröffentlichen.
 
 [userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
 link:/CCS/index{ext-relative}[home]#
