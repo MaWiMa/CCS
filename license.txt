@@ -2,6 +2,9 @@
 
 == License/Lizenz
 
+. _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
+
 . Title of _This work_ (Titel _des Werkes_) is (ist) Transcript and Translation of Changing Canadian Schools.
 
 . Attribution Name is (Name oder Bezeichnung des Rechteinhabers des Werkes ist) Norbert Reschke (MaWiMa)
@@ -10,9 +13,6 @@
 .. Second Attribution URL (here called website) is https://mawima.github.io/CCS/
 ... If first or second Attribution URL are changed, this has to be announced
 in this licence and will not hurt any rights of this licence.  
-
-. _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
 
 . Die Rechte am Original des Buches Changing Canadian Schools bleiben unberührt.
 
@@ -28,11 +28,11 @@ das Recht als Autor dieses Beitrages genannt zu werden.
 namentlich genannt zu werden, so muss der Rechteinhaber des Werkes davon
 absehen den Autor des _Beitrages_ zu benennen.
 
-.. Die kleinste Einheit (smallest unit) eines _Beitrages_ ist eine Seite (one page).
+... Die kleinste Einheit (smallest unit) eines _Beitrages_ ist eine Seite (one page).
 
 ... Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift oder zur
-Übersetzung geleistet haben, besitzen das Recht ihren gleichen _Beitrag_ an
-einem anderen Ort zu anderen Bedingungen zu veröffentlichen.
+Übersetzung leisten, besitzen das Recht ihren gleichen _Beitrag_ an
+einem anderen Ort, in anderer Form oder zu anderen Bedingungen zu veröffentlichen.
 
 [userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
 link:/CCS/index{ext-relative}[home]#
