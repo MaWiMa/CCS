@@ -2,37 +2,39 @@
 
 == License/Lizenz
 
-. _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
+. _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode[
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License].
 
-. Title of _This work_ (Titel _des Werkes_) is (ist) Transcript and Translation of Changing Canadian Schools.
+. *_Title_* of _This work_ (Titel _des Werkes_) is (ist) *Transcript and Translation of Changing Canadian Schools*.
 
-. Attribution Name is (Name oder Bezeichnung des Rechteinhabers des Werkes ist) Norbert Reschke (MaWiMa)
+. *_Attribution Name_* is (Name oder Bezeichnung des Rechteinhabers des Werkes ist) mailto:Norbert.Reschke@gMail.com[*MaWiMa*]
 
-. First Attribution Uniform Resource Locator (URL) (here called source) is https://github.com/MaWiMa/CCS
-.. Second Attribution URL (here called website) is https://mawima.github.io/CCS/
-... If first or second Attribution URL are changed, this has to be announced
-in this licence and will not hurt any rights of this licence.  
+. *_First Attribution Uniform Resource Locator_* (here called source) is *https://github.com/MaWiMa/CCS*
+.. *_Second Attribution Uniform Resource Locator_* (here called website) is *https://mawima.github.io/CCS/*
+... If first or second Attribution Uniform Resource Locator are changed,
+this has to be announced in this licence and will not hurt any rights of
+this licence.  
 
-. Die Rechte am Original des Buches Changing Canadian Schools bleiben unberührt.
+. Der Rechteinhaber des Werkes kann _Beiträge_ annehmen.
 
-. Natürliche Personen können _Beiträge_ (_contribution_) zur Abschrift
+.. Natürliche Personen können _Beiträge_ (_contribution_) zur Abschrift
 und zur Übersetzung leisten.
 
-. Der Rechteinhaber des Werkes kann _Beiträge_ annehmen,
-
-.. in diesem Fall hat die natürliche Person, die einen _Beitrag_ leistet,
+... In diesem Fall hat die natürliche Person, die einen _Beitrag_ leistet,
 das Recht als Autor dieses Beitrages genannt zu werden.
 
-.. Sollte die natürliche Person, die einen _Beitrag_ leistet widersprechen
+... Sollte die natürliche Person, die einen _Beitrag_ leistet, widersprechen
 namentlich genannt zu werden, so muss der Rechteinhaber des Werkes davon
 absehen den Autor des _Beitrages_ zu benennen.
 
-... Die kleinste Einheit (smallest unit) eines _Beitrages_ ist eine Seite (one page).
+.... Die kleinste Einheit (smallest unit) eines _Beitrages_ ist eine Seite (one page).
 
-... Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift oder zur
-Übersetzung leisten, besitzen das Recht ihren gleichen _Beitrag_ an
-einem anderen Ort, in anderer Form oder zu anderen Bedingungen zu veröffentlichen.
+.... Alle natürlichen Personen, die einen _Beitrag_ zur Abschrift oder zur
+Übersetzung leisten, besitzen das Recht ihren gleichen _Beitrag_ zu anderen
+Bedingungen zu veröffentlichen.
+
+. Die Rechte am *_Original_* des Buches *Changing Canadian Schools* bleiben unberührt.
+
 
 [userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
 link:/CCS/index{ext-relative}[home]#

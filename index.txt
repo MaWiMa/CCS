@@ -18,9 +18,9 @@ link:readme{ext-relative}[Changing Canadian Schools Transcript and Translation]
 If you like to do something else than reading with these pages; you should
 know the link:/CCS/license{ext-relative}[license].
 
-https://github.com/MaWiMa/CCS[Here] you find the
-https://github.com/MaWiMa/CCS[source] of this 
-https://mawima.github.io/CCS/[website] you are reading now.
+https://github.com/MaWiMa/CCS[Here] you will find the
+https://github.com/MaWiMa/CCS[source] of the 
+https://mawima.github.io/CCS/[website you are reading now].
 
 
 
