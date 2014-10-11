@@ -1,21 +1,17 @@
-== Changing Canadian Schools, Schule verändern
+= Kanadische Schulen verändern
 
-== This work is not done yet
+== Betrachtung von Behinderung und Einbeziehung
 
-You are welcome to work with me. 
+_herausgegeben von_ +  
+Gordon L.Porter and Diane Richler
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
-
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+_mit einem Vorwort von_ +
+Dr. G.Michael Fullan +
+Dekan der Fakultät der Bildungswissenschaft +
+der Universität von Toronto +
 
 
-
+Das Roeher Institut
 
 
 

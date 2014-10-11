@@ -1,6 +1,6 @@
 == The Roeher Institute
-Canadas National Institute for the Study of Public Policy
-Affecting Persons with an Intellectual Impairment.
+*Canada's National Institute for the Study of Public Policy
+Affecting Persons with an Intellectual Impairment.*
 
 The Roeher Institute has two major goals:
 
@@ -29,5 +29,6 @@ Community Living, a voluntary organization bringing together over
 on behalf of persons with an intellectual impairment.
 
 For more information about The Roeher Institute, please contact us at:
+
 Kinsmen Buildung, York University, 4700 Keele Street,
 North York, Ontario, Canada MSJ 1P3 (416) 661-9611

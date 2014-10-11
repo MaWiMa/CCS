@@ -26,6 +26,7 @@
 |Chapter 15: |link:/CCS/en/EN-Changing_Canadian_Schools-280{outfilesuffix}[On Campus: +
                                                                            Integrated Post-Secondary Education +
                                                                            _Melanie Panitch_]|281
-||The Roeher Institute Information Services	Annotated Bibliography on Integrated Education |295
-||Editors and Contributors |329
+|            |The Roeher Institute Information Services	Annotated +
+              Bibliography on Integrated Education |295
+|            |Editors and Contributors |329
 |===

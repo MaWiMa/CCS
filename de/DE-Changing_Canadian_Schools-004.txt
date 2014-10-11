@@ -1,21 +1,44 @@
-== Changing Canadian Schools, Schule verändern
+Copyright © 1991, Das Roeher Institut
 
-== This work is not done yet
+Alle Rechte vorbehalten. Die Verwendung von irgendeinem Teil dieser Veröffentlichung
+reproduziert, in jeglicher Form mit irgendeinem elektronischen, mechanischen,
+fotokopierenden, aufzeichnenden oder anderweitigen Verfahren oder die Speicherung
+in einem Datenabfragesystem, ohne vorherige Zustimmung des Herausgebers ist
+eine Verletzung des Urheberrechts.
 
-You are welcome to work with me. 
+*Kanadische Kurztitelaufnahme in der Veröffentlichung von Daten*
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+Changing Canadian schools: perspectives on disabilityand inclusion
 
-== Diese Arbeit ist noch nicht getan
+Beinhaltet bibliographische Referenzen. +
+ISBN 1-895070-00-7
 
-Ich lade Sie ein mit mir zu arbeiten.
+auch in französisch herausgegeben unter dem Titel:
 
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégration.
 
+. Mainstreaming in education - Canada.  
+. Mentally handicapped children - Education - Canada  
 
+["upperroman", start=1]
+. Porter, Gordon L.
+. Richler, Diane.
+. G. Allan Roeher Institute
 
+LC4634.C53 1991 371.92'806'0971 C91-094767-8 +
+The Roeher Institute +
+Kinsmen Building, York University, +
+4700 Keele Street, North York, Ontario, Canada +
+M3J 1P3 +
+(416) 661-9611 +
+  
+[cols="1,1,"]
+|===
+|Institute Director:|Marcia H. Rioux
+|Editors:|Gordon L. Porter and Diane Richler
+|Publications Editor:|Laura Code
+|Desktop Publishing:|Victor Salus
+|===
 
 
 
