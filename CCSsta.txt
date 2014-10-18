@@ -261,7 +261,7 @@
 |link:copies-from-original/CCS252.png[252]|link:/CCS/en/EN-Changing_Canadian_Schools-252{outfilesuffix}[in progress]|link:/CCS/de/DE-Changing_Canadian_Schools-252{outfilesuffix}[missing]
 |link:copies-from-original/CCS253.png[253]|link:/CCS/en/EN-Changing_Canadian_Schools-253{outfilesuffix}[in progress]|link:/CCS/de/DE-Changing_Canadian_Schools-253{outfilesuffix}[missing]
 |link:copies-from-original/CCS254.png[254]|link:/CCS/en/EN-Changing_Canadian_Schools-254{outfilesuffix}[in progress]|link:/CCS/de/DE-Changing_Canadian_Schools-254{outfilesuffix}[missing]
-|link:copies-from-original/CCS255.png[255]|[lastEN]link:/CCS/en/EN-Changing_Canadian_Schools-255{outfilesuffix}[in progress]|link:/CCS/de/DE-Changing_Canadian_Schools-255{outfilesuffix}[missing]
+|link:copies-from-original/CCS255.png[255]|[[lastEN]]link:/CCS/en/EN-Changing_Canadian_Schools-255{outfilesuffix}[in progress]|link:/CCS/de/DE-Changing_Canadian_Schools-255{outfilesuffix}[missing]
 |link:copies-from-original/CCS256.png[256]|link:/CCS/en/EN-Changing_Canadian_Schools-256{outfilesuffix}[missing]|link:/CCS/de/DE-Changing_Canadian_Schools-256{outfilesuffix}[missing]
 |link:copies-from-original/CCS257.png[257]|link:/CCS/en/EN-Changing_Canadian_Schools-257{outfilesuffix}[missing]|link:/CCS/de/DE-Changing_Canadian_Schools-257{outfilesuffix}[missing]
 |link:copies-from-original/CCS258.png[258]|link:/CCS/en/EN-Changing_Canadian_Schools-258{outfilesuffix}[missing]|link:/CCS/de/DE-Changing_Canadian_Schools-258{outfilesuffix}[missing]
