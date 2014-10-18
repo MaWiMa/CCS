@@ -1,20 +1,31 @@
-== Changing Canadian Schools, Schule verändern
+[preface]
+== Vorwort
+Als ein, an Fragen des Wandels von sozialen Reformen und Strategien,
+interressierter, empfinde ich es als eine besondere Ehre dieses Vorwort
+für _Kanadische Schulen verändern_ zu schreiben.
 
-== This work is not done yet
+Dies ist ein sehr gut ausbalanciertes, gründliches und praktisches Buch.
+Dessen Kapitel enthalten eine klare Analyse aller, am Wandel
+der sonderpädagogischen Praxis beteiligten, Rollen.
+Es bietet Perspektiven und Erkenntnisse aus der Sicht der Eltern,
+der Administratoren, der Klassenlehrer, der Förderschullehrer,
+der Berater und des Schulvorstandes und anderer.
+Persönliche Geschichten und Fallstudien machen die Lektüre interessant,
+ergreifend und reichhaltig. Größer angelegte Analysen und Synthesen zu
+Recht, Politikgestaltung und politischen Inhalten werden dargelegt.
 
-You are welcome to work with me. 
+Das Buch enthält viele Ideen für Strategien und praktische Vorschläge für
+den Erfolg. Es kombiniert Interessenvertretung mit Einsicht, und zeigt,
+dass beides, Wille (Ausdauer) und Können (gute Strategien), benötigt
+werden um erfolgreich zu sein. Es gibt kein anderes Buch, dieser Art in
+Kanada, welches eine solche zeitnahe und umfassende Fülle des Status Quo
+der Förderbildungsreform bietet.
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
-
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
+Die Förderschulreform stellt gerade alle Fragen zum Zustandekommen der
+Bildungsreform dar. 
+Die Existenz erheblicher sozialer Bedürfnisse, selbst in Kombination mit
+Rechtsvorschriften, reicht zur Reform nicht aus.
+//(nächster Satzanfang zu S.11 verschoben)
 
 
 
