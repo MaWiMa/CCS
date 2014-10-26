@@ -78,7 +78,7 @@ It is described on https://help.github.com/articles/fork-a-repo.
 `-- readme.txt
 
 ----
-todo manually, only if you want to build your on website for testing
+todo manually, only if you want to build your own website for testing
 ----
 
 _site                          # website dir, to be createad manually
