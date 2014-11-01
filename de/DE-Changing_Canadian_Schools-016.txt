@@ -1,19 +1,39 @@
-== Changing Canadian Schools, Schule verändern
+Dieses Buch hat mehrere Jahre der Vorbereitung gebraucht und im Laufe
+dieser Zeit waren wir begierig darauf es zu beenden. Gleichzeitig waren 
+wir zufrieden, dass unsere Autoren mehr Zeit zur Aktualisierung ihres 
+Materials der fortlaufenden Beteiligung an integrativen
+Bildungsinitiativen gehabt haben. Die meisten Mitwirkenden sind aus
+New Brunswick und die Gründe dafür solten erwähnt werden.
+Erstens, weil einer der Redakteure aus New Brunswick ist, war die
+persönliche Kenntnis, der in diesem Gebiet arbeitenden Menschen, ein
+Faktor. Zweitens, die  Erfahrung mit integrativer Ausbildung als Ergebnis
+der gesetzgeberischen und politischen Initiativen ist einzigartig in der
+Provinz, Pädagogen und Eltern machten umfangreiche Erfahrungen, die sie
+in diesem Buch geteilt haben.
 
-== This work is not done yet
+Ein besonderer Dank gebührt Dr. G. Michael Fullan, Dekan der Fakultät für
+Erziehungswissenschaft, Universität von Toronto, für seine Gunst das
+Vorwort zu diesem Buch zu verfassen. Seine Worte der Unterstützung für
+die vorgebrachten Ansätze sind ermutigende Verstärkung der mit dem Kampf
+für Inklusion beschäftigten Menschen. Seine Worte sind erst recht mächtig,
+da er international als Führungskraft mit Verständnis für pädagogische
+Veränderungen anerkannt ist.
 
-You are welcome to work with me. 
+Ein herzliches Dankeschön geht an Laura Code, Publikationen Editor des
+Roeher Instituts für ihre fröhliche, aber anhaltende Eingabeaufforderung
+und Motivation, ohne die das Buch nie abgeschlossen worden wäre. Alle
+Mitwirkenden verdienen Anerkennung sowohl für ihre wertvolle Ergänzungen
+zum Buch, sowie für ihre Bereitschaft ihr Material zu überarbeiten, um
+ein Gleichgewicht zwischen den Kapiteln herzustellen.
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+Wir hoffen, dass die Strategien und praktischen Anregungen in
+_kanadische Schulen verändern_, gleichermaßen für Familien und Pädagogen
+nützlich sein werden. Ihre Bemühungen werden die Inklusion von Menschen
+mit Behinderungen in allen Bereichen des gesellschaftlichen Lebens
+vorantreiben und das Bildungssystem für alle Schüler verbessern.
 
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
+_Gordon L. Porter and Diane Richler_ +
+_August, 1991_
 
 
 

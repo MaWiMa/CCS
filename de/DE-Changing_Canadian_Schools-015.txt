@@ -1,21 +1,39 @@
-== Changing Canadian Schools, Schule verändern
+Diese Strategien umfassen die vielen Facetten der Vorbereitung und
+Planung von Inklusion, wie Lehrplanentwicklung und Methoden der
+Problemlösung.
 
-== This work is not done yet
+Der Leser wird feststellen, dass die Autoren der einzelnen
+Kapitel viele verschiedene Begriffe verwendet haben, um die Zielgruppe
+der Schüler des inklusiven Modells zu beschreiben -- von "`Schüler mit
+einer geistigen Behinderung`" über "`Schüler mit besonderen Bedürfnissen`",
+bis zu "`Ausnahmeschüler`".
+Diese unterschiedlichen Begriffe spiegeln, tatsächlich die fortwährende
+Mühe um die richtige Sprache wider. In einem so vielfältigen Land, wie
+Kanada, haben die Menschen widersprüchliche Ansichten; was in der einen
+Gegend anerkannte Terminologie ist, kann in der nächsten als rückständig
+und rückwärtsgewandt angesehen sein.
+Mit den reflektierten Erfahrungen vieler Menschen zur Integration,
+wird auch der Stand der Evolution der Sprache und die Meinungsvielfalt
+widergespiegelt.
 
-You are welcome to work with me. 
+Des Weiteren erwähnen viele der Mitwirkenden am Buch ihre Vorfreude auf
+den Zeitpunkt, zu dem das Wort "`Integration`" nicht mehr nötig ist, weil
+dieses Konzept Teil der Lebenswirklichkeit geworden ist.
+Diese Ansicht wird von Menschen geteilt die sich für Inklusion einsetzen
+und sich auf den Tag freuen an dem die verschiedenen "`Marken`", mit
+denen Menschen über ihre Unterschiede identifiziert wurden, nicht
+mehr erforderlich sind. David Jory, der Vater eines, als geistig
+Behinderten markierten, jungen Mannes (siehe Kapitel 5) schreibt:
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
-
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
-
-
-
-
+[quote]
+____
+Nach all den Jahren, möchte ich das Wort "`Integration`" nicht mehr
+benutzen. Die Verwendung des Wortes ist jedoch notwendig, da unsere
+Schulsysteme, über eine so lange Zeit, systematisch Schüler mit einer
+geistigen Behinderung diskriminiert haben. In diesem Bezug ist
+"`Integration`" lediglich der Prozess der Korrektur. Ich ziehe es vor an
+ein integratives Schulsystem zu denken, in dem die pädagogischen
+Bedürfnisse aller Schülerinnen und Schüler angemessen erfüllt werden und
+ich hoffe, dass bald das Wort "`integriert`" überflüssig ist. Aber wir
+sind nicht noch nicht in diesem Stadium.
+____

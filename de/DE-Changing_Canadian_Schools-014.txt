@@ -1,20 +1,41 @@
-== Changing Canadian Schools, Schule verändern
+*Der zweite Abschnitt*, Elternvertretung und Selbstbestimmung ist ein
+Blick auf das persönliche Drama, das sich hinter den Jahren rechtlicher
+Schritte und Lobbyarbeit von Eltern verbirgt, die hartnäckig gefestigte
+Systeme herausfordern.
+Wie bei anderen Aspekten der *Bewegung der lebendigen Gemeinschaft*
+(community living movement),
+waren Eltern Hauptakteure von Bemühungen die Schulen für, üblicherweise
+von regulären Klassen, ausgeschlossene Kinder zu öffnen.
+In den Siebzigern und Achtzigern des zwanzigsten Jahrhunderts, begannen
+die Eltern von Kindern mit einem geistigem Handicap höhere Erwartungen an
+das Leben ihrer Kinder zu entwickeln, als die traditionell von medizinischen
+Berufsgruppen vorgegebenen.
+Diese Eltern wollten Alternativen zur ausgegrenzten Bildung und sie
+engagierten sich in "`early intervention`" (z.B. http://www.earlyintervention.net),
+neuen Methoden der Förderung ihrer Kinder und entdecken und bauen auf die
+Fähigkeit ihre Kinder zu lernen. Mit der Durchführung ihrer Erwartungen
+und der Suche nach Möglichkeiten für ihre Töchter und Söhne, kamen die
+Eltern zwangläufig in eine Führungsrolle. Sie organisierten Elterngruppen,
+führten Vorsitz in Ausschüssen für Lobbyarbeit und traten Schulbehörden
+und Bildungsministerien entgegen.
 
-== This work is not done yet
+Die persönlichen Sichtweisen der Mitwirkenden demonstrieren nicht nur
+deren Mut und Überzeugung in diesen herausfordernden Rollen.
+Sie zeigen auch das Ausmaß ihrer Einbindung in die Politik und die
+Komplexität der Bildungssysteme, auf welche Widerstände sie stießen und
+wie sie daran arbeiteten, eine Masse von Bürokratie zu verstehen und zu
+entwirren.
+Sie setzten sich oft für Konzepte ein, die den Menschen des Bildungssytems
+noch nicht bekannt waren.
 
-You are welcome to work with me. 
-
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
-
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
+*Der dritte Abschnitt*, Innovationen und praktische Anwendungen beschreibt
+die Früchte dieser elterlichen Anstrengungen -- Inklusion in Aktion.
+Als das Bildungssystem begonnen hat die Forderungen nach Inklusion aufzunehmen,
+wurden neue Ansätze auf allen Ebenen entwickelt.
+Die Kapitel in diesem Abschnitt sind von Menschen mit erster-Hand-Erfahrungen
+bei der Umsetzung von inklusiven Programmen, durch die Entwicklung von
+und das Streben nach wichtigen Strategien für Lehrer, Schulleiter und
+Sonderpädagogische Berufe, geschrieben.
 
 
 
