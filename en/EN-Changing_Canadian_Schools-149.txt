@@ -1,3 +1,5 @@
+[%hardbreaks]
 ==== TIME-USE SURVEY A2
 
-image:/CCS/images/CCS149.svg[A2: Collaboration, align="center"]
+image::CCS149.svg[A2: Collaboration, align="center"]
+

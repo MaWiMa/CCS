@@ -1,3 +1,4 @@
+[%hardbreaks]
 == Chapter 11
 
 === Implementing Multi-Level Instruction: Strategies for Classroom Teachers

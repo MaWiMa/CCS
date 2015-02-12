@@ -1,7 +1,6 @@
 [upperalpha, start=4]
 . *_Monitoring:_*
 [arabic]
-
 .. Implement strategies agreed upon through case conferences, consultations, or problem-solving sessions.
 .. Monitor the effectiveness of individual programs.
 .. Monitor the coordination of support personnel involved in individual cases.
@@ -16,3 +15,5 @@
 .. Set personal goals.
 .. Keep informed on current issues of relevance to the role.
 .. Participate in research projects within the system.
+
+<<<

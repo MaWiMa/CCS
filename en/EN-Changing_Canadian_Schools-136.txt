@@ -1,6 +1,4 @@
 //you don't get somebody ready for something. <-- page 135
-[quote]
-____
 You have to start the person where they are. For example, getting a student
 ready for Grade 5 math is ridiculous. [The teacher] should be thinking,
 "`What is it that I want these kids to learn and how can I bring them to
@@ -11,7 +9,6 @@ of mathematics.
 ____
 
 ==== THE CHALLENGES AND REWARDS
-
 The job of an M&R teacher is challenging in many ways. first and foremost,
 M&R teachers feel they never have enough time to do everything that needs
 to be done. Program planning, materials preparation and completing the paperwork

@@ -1,3 +1,4 @@
+[%hardbreaks]
 ==== Assessments off exceptional Students
 Our five simple principles also call into question the assessment
 procedures on which special education feeds. The people doing assessments
@@ -15,7 +16,7 @@ in detail what a pupil will or will not be able to learn are dangerous.
 They, and the rejection which follows them, have a devastating effect on
 the self-esteem of the pupil. Segregators do not seem to understand or care.
 
-Assessments associated with "placements" are almost invariably designed
+Assessments associated with "`placements`" are almost invariably designed
 to find out what the child cannot do, rather than what he can do.
 Assessments are almost invariably used against the child. Since the only
 acceptable placement is in the regular classroom, predictive assessments

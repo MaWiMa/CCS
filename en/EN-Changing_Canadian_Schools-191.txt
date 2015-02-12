@@ -1,16 +1,15 @@
+[%hardbreaks]
 ==== CONCLUSION
-
 My goal has been to show the simplicity of integration. In fact, so much
 of what has been described here is already accomplished well by teachers
 every day in clasrooms everywhere.
 
 Any teacher who believes it is his or her professional responsibility to
-accept and teach all children will ﬁnd a way to make integration work. Any
+accept and teach all children will find a way to make integration work. Any
 teacher who believes it is his or her personal responsibility to uphold
 the value of all children will do so.
 
 ==== REFERENCES
-
 Bloom, Benjamin S. (Ed.). (1969). _Taxonomy of Educational Objectives: The
 classification of educational goals_. New York:
 David McKay Company Inc.

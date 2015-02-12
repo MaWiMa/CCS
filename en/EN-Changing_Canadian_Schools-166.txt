@@ -1,4 +1,5 @@
-*_Provide Time for Visitations and Observations_* +
+[%hardbreaks]
+===== Provide Time for Visitations and Observations
 Most educators felt that the school administrators should facilitate staff
 visits to observe classes of teachers who have experience in integrating
 exceptional students. The educators also indicated that it was important
@@ -23,7 +24,7 @@ the possibilities for integration in their school. Upon their return, the
 information gleaned from their visitation helped the principal and the teachers to
 initiate the integration process for their two students.
 
-*_Provide Scheduled Preparation Time_* +
+===== Provide Scheduled Preparation Time
 The methods and resource and classroom teachers were supportive of principals
 who planned for and scheduled additional preparation time for them. This was
 done in a variety of ways. For example, one principal developed an extensive

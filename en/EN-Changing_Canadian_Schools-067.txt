@@ -1,6 +1,8 @@
+[%hardbreaks]
 == Chapter 4
 
 === Access to Equality in Education: The Power of Parents
+
 _by S. Dulcie McCallum_
 
 Equality is new, not old. Until recently, there was no law or constitution in Canada that ensured equality.
@@ -13,3 +15,4 @@ the equality rights provision was delayed three years after patriation of the co
 at all levels the opportunity to amend existing legislation to meet the constitutional equality imperative. All jurisdictions
 now include protection in human rights legislation for people with mental handicaps but it was not until 1990 that the last
 province made the necessary amendment.
+[%hardbreaks]

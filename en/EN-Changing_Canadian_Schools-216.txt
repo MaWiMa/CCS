@@ -14,7 +14,6 @@ technique could be used for teaching other concepts, such as perimeter,
 area and volume. (Lois Wright, Joan Sheen, 1989)
 
 ==== SAMPLE LESSON THREE _ADAPTING LESSONS FOR STUDENTS WITH DISABILITIES_
-
 A group of methods and resource teachers compiled a list of suggestions
 for including students with disabilities -- both those with verbal skills
 and those without verbal skills. They are suggestions geared to various

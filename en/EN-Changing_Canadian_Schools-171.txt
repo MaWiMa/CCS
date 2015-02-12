@@ -1,4 +1,4 @@
-*_Support the Methods and Resource Teacher_* +
+===== Support the Methods and Resource Teacher
 As stated previously, both the regular class and methods and resource teachers
 need support from the school administrators in implementing integration.
 Initially, the methods and resource teacher may have to assist the regular
@@ -15,7 +15,7 @@ however, "`Even though I rely on my methods and resource teacher to provide
 leadership in integrating our exceptional students, I feel it is my responsibility
 to keep in close contact with her so that I can provide the necessary support.`"
 
-*_Assign Teacher Assistants_* +
+===== Assign Teacher Assistants
 At the outset of many integration programs, teacher assistants were often
 assigned to individual exceptional students. As a result, the teacher assistants
 often took on "`ownership`" of the exceptional students who were assigned

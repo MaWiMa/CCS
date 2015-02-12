@@ -5,6 +5,8 @@
 |===
 |EN | DE
 
+|*adaptive learning environments model*     | http://files.eric.ed.gov/fulltext/ED243913.pdf[Indivdiuelle Förderung]
+
 |*behavior disorder*						| Verhaltensstörung
 |*beyond behavior*							| Inakzeptables Verhalten
 
@@ -26,10 +28,11 @@
 |*principal*								| Schulleiterin/Schulleiter
 |*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
 											  http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
+
 |*self-advocacy*							| Eigenverantwortung (Vertretung der eigenen Rechte)
 |*self-determination*						| Selbstbestimmung
-|*school board*								| Schulamt/Schulausschuss
-
+|*school board*								| Schulamt, Schulausschuss
+|*remedial education*                       | Remedialer Unterricht
 |*skills*									| Fertigkeiten /CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
 |*special education*						| Förderpädagogik

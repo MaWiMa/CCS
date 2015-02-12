@@ -1,5 +1,5 @@
-attending high school can find it particularly difficult to have a focus
-for the day at school. <-- page 114
+//attending high school can find it particularly difficult to have a focus
+//for the day at school. <-- page 114
 The methods and resource teacher sees that the student's schedule is well
 planned and realistic and that the student's progress is monitored carefully.
 
@@ -8,9 +8,10 @@ closely with the guidance counsellor and administrative personnel. They
 also coordinate community work programs; they find the sites and provide
 training, supervision and monitoring of community placement.
 
+===== Practical Aspects
+
 [quote]
 ____
-*_Practical Aspects_* +
 I find I have to get an overall picture of the student. It takes a lot of
 time and you have to look at that student in many different areas to get
 a true picture of what the problem could be, diagnose where the problem is.

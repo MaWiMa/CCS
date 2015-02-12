@@ -13,8 +13,8 @@ over the next several years. We conclude our review of these
 three factors with a brief discussion of the crucial role an
 integrated educational program plays in preparing a student
 with disabilities for life as an adult in the community.  
-
-==== LAW  
+[%hardbreaks]
+==== LAW
 The Special Committee on Social Policy Development of the New
 Brunswick Legislature issued its Report on the Review of School
 Integration on October 31, 1989. The report was issued following
@@ -22,10 +22,11 @@ five weeks of public hearings into school integrafion, during which
 the twelve-member committee visited sixtythree schools and heard
 more than two hundred fifty briefs presented by parents, members,
 administrators, school boards, and other citizens.
-The report’s recommendations in summary include the following:  
+The report's recommendations in summary include the following:  
 
 - The province should confirm its commitment to Bill 85,
 which mandated the integration of special needs children
 into the regular school system.
-- The education minister should clear up differences over interpretation and
-implementation of the act and issue "clear directives to all school boards."
+- The education minister should clear up differences over
+interpretation and implementation of the act and issue "`clear directives
+to all school boards.`"

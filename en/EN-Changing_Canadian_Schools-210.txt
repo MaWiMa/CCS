@@ -1,5 +1,5 @@
-==== SAMPLE LESSON ONE THE NOVEL OR SHORT STORY
-
+[%hardbreaks]
+==== SAMPLE LESSON ONE _THE NOVEL OR SHORT STORY_
 Language arts lends itself to the format for multi-level instruction, as
 the following unit plan for teaching a novel or short story illustrates.
 
@@ -13,7 +13,6 @@ conflict +
 theme
 
 ==== METHOD OF PRESENTATION:
-
 One suggestion for teaching these concepts was through the use of a movie
 (e.g., The Outsiders by S.S. Hinton). This would be effective for all
 students and particularly for two groups -- visual learners, and children
@@ -29,7 +28,6 @@ in ideas and from the knowledge level to the evaluation level of
 Bloom's Taxonomy.
 
 ==== METHOD OF EVALUATION:
-
 Individual assignments were used as the major evaluation. Main concepts
 were tested in a written form where possible. Adaptations were made for
 students who had limited writing skills.

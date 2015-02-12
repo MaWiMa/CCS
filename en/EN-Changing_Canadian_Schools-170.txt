@@ -5,7 +5,7 @@ planning integrated programs for students with severe disabilities. School
 administrators have also found the McGill Action Planning System useful
 in helping resolve conflicts between parents and teachers.
 
-*_Increase Parent/Community Communications_* +
+===== Increase Parent/Community Communications
 The teachers and principals questioned said that school administrators should
 be responsible for informing parents and the community about the school's
 integration philosophy and policy. In some districts, brochures were developed
@@ -30,3 +30,4 @@ understanding of integration and the school's philosophy and practices.
 The school administrator, by acting immediately on a rumour, alleviated
 a potentially harmful situation and cleaned up misunderstandings about
 integration.
+[%hardbreaks]

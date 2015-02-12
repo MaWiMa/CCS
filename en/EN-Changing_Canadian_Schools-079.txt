@@ -1,6 +1,8 @@
+[%hardbreaks]
 == Chapter 5
 
-=== Principles of Change: A Parent’s Perspective on the Education System
+=== Principles of Change: A Parent's Perspective on the Education System
+
 _by David Jory_
 
 In his last year at school, Grade 12, our son, John, who has Down Syndrome, was fully integrated for the first time into regular
@@ -8,7 +10,7 @@ classrooms. He spent only two hours a week outside the regular class when he pra
 He also attended job sites under a work-study program. Parents should note that it is important to have a definition of
 integration which permits and encourages things like work-study programs; some definitions I have heard would prevent them if
 taken literally. In fact, John had a better time in Grade 12 than did his older sister or younger brother. This was not an
-accident; it came about in part because of a great deal of learning on our -- his parents' -- part and on the part of some
+accident; it came about in part because of a great deal of learning on our -- his parents`' -- part and on the part of some
 teachers and administrators, to whom we pay tribute. What we learned made us seriously question much of the ideology and many
 of the theories upon which the special education system is based.
 

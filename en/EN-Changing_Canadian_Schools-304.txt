@@ -1,7 +1,6 @@
-*_2. INNOVATIONS AND PRACTICAL APPLICATIONS_*
+==== 2. INNOVATIONS AND PRACTICAL APPLICATIONS
 
-*_2.1 Administrative Issues_*
-
+===== 2.1 Administrative Issues
 *Biklen, Douglas, and Steven J. Taylor. (1985). School district
 administrators: Leadership strategies. In Biklen Douglas (Ed.). _Achieving
 the Complete School: Strategies for effective mainstreaming_. New York:

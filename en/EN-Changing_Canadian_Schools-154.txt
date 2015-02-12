@@ -1,13 +1,13 @@
+[%hardbreaks]
 ==== JOB DESCRIPTION FOR METHODS AND RESOURCE TEACHER
 
-==== GENERAL
-
+===== GENERAL
 Methods and recource teachers consult and collaborate with teachers, parents,
 and other personnel and/or agencies to assure student success in learning.
 Their job responsibilities include collaboration, liaison, program development,
 monitoring, and professional development.
 
-==== SPECIFIC RESPONSIBILITIES IN EACH AREA
+===== SPECIFIC RESPONSIBILITIES IN EACH AREA
 
 [upperalpha]
 . *_Collaboration with school and district staff, parents, students, and outside agencies:_*

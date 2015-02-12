@@ -1,3 +1,4 @@
+[%hardbreaks]
 == Chapter 14
 
 === Beyond Behaviour: A Case of Social Intervention Strategies for a
@@ -18,7 +19,6 @@ strategies can improve the relationships and the lives of all children
 with special needs.
 
 ==== SUE
-
 This is the story of Sue, a young girl with special needs who had been
 attending her neighbourhood school for four years. Even in a school
 district with a five-year history of inclusion, Sue was considered an

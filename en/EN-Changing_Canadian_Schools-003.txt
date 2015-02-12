@@ -1,9 +1,7 @@
+[discrete] 
 = Changing Canadian Schools
-
+[discrete] 
 == Perspectives on Disability and Inclusion
-
-
-
 
 _edited by_ +
 Gordon L.Porter and Diane Richler

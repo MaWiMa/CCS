@@ -19,5 +19,11 @@ teachers as the instructors of special nude children. In their new capacity
 as M&R teachers, they spend a majority of their time consulting with and
 helping teachers rather than replacing them.
 
+<<<
+
+[%hardbreaks]
 ==== Time-Use Survey A1
-image:/CCS/images/CCS148.svg[A1: Major Activities of Methods and Resource Teachers, align="center"]
+
+image::CCS148.svg[A1: Major Activities of Methods and Resource Teachers, align="center"]
+
+<<<

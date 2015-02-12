@@ -1,4 +1,5 @@
-==== Teamwork with Teacher's Aides
+[%hardbreaks]
+===== Teamwork with Teacher's Aides
 Teacher's aides play an important part in the integration of students with
 disabilities. The M&R teacher sets priorities and allocates the teacher's
 aide's time, and also sees that the classroom teacher takes responsibility
@@ -28,7 +29,7 @@ for the teacher: "`It helps a lot, having a teacher's aide, because then
 you're not there all by yourself. At least you have somebody else there
 who knows how hard you're working.`"
 
-==== Teamwork with Parents
+===== Teamwork with Parents
 M&R teachers view parents in much the same way they do regular class teachers.
 They recognize that parents are critical to students`' success in school,
 so they must cooperate with and involve parents. However, like teachers,

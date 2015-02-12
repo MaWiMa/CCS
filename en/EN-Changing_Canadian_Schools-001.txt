@@ -1,10 +1,8 @@
-[resume]
 === DOCUMENT RESUME
 
 //this must be done better
 include::../CCSdocres.txt[]
 
-[abstract]
 === ABSTRACT  
 The 15 papers in this collection present a Canadian
 perspective on providing services to children with disabilities in

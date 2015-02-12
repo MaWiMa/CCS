@@ -1,3 +1,4 @@
+[%hardbreaks]
 ==== Human Rights Complaint Mechanism Fail to Respond
 The number of complaints to human rights commissions has grown in recent years with little increase in their funding.
 The resulting backlog means there are many unresolved complaints of educational discrimination. The tragedy of the situation is 
@@ -7,8 +8,8 @@ schools as interim measures while a complaint is being processed.
 
 It is impossible to calculate the long-term damages to children who have been denied the academic and social benefits of regular
 classes and who have been ostracized in front of their communities. Two glaring examples of this unacceptable situation are the
-*Becky Till v. North York School Board* case, a complaint to the Ontario Human Rights Commission, and the
-*Zebrowski v. School Trustees* case, a complaint to the Manitoba Human Rights Commission.  
+_Becky Till v. North York School Board_ case, a complaint to the Ontario Human Rights Commission, and the
+_Zebrowski v. School Trustees_ case, a complaint to the Manitoba Human Rights Commission.  
 
 Even where a complaint is investigated, idiosyncrasies of the different human rights commission offices sometimes impede justice.
 In a recent decision following an investigation, the P.E.I. Human Rights Commission alluded to discrimination but did not appoint

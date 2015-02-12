@@ -1,7 +1,7 @@
 //know how you can handle all those children plus make provisions for a
 //special needs student? <-- page 117
 
-==== Personal Qualities
+===== Personal Qualities
 What qualities should an M&R teacher have? The overriding opinion is that
 a person developing educational programs for students with special needs
 in regular classrooms must be optimistic and have a positive approach,

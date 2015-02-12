@@ -7,7 +7,6 @@ demonstrate their understanding of the concept being taught;
 * evaluating students based on their individual differences.
 
 ==== THE FOUR-STEP PROCESS IN DEVELOPING A LESSON
-
 In order to develop a lesson that meets these objectives,
 teachers may use the following four-step process as a guide:
 
@@ -21,7 +20,6 @@ partial participation);
 of skill and accepting a variety of evaluation procedures).
 
 ==== STEP ONE: IDENTIFICATION OF UNDERLYING CONCEPTS
-
 The first step is to identify the underlying concepts to be taught within
 a unit or a particular lesson. It is important to understand that underlying
 concepts are not merely the objectives established for a particular course.

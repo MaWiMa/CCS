@@ -1,6 +1,7 @@
+[%hardbreaks]
 ==== PARENTS, PARTNERS
 Many segregotionists within school systems cannot accept our principle
-that "the expert on a pupil is usually the parent". In fact,the way a
+that "`the expert on a pupil is usually the parent`". In fact,the way a
 person in the education system responds to that principle is often a good
 indication of that person's openness to integration. Many good teachers
 and administrators welcome the participation of parents, and other support
@@ -14,7 +15,7 @@ pupils, _requires_ parent-teacher-administrator cooperation.
 We find these fears are based on emotion rather than fact, and there is
 plenty of experience to show that the fears are generally unfounded. One
 of the most heart-warming aspects of our efforts over the years was seeing
-some teachers who were afraid of "integration" become its strongest
+some teachers who were afraid of "`integration`" become its strongest
 advocates once they tried it.
 
 We feel teachers and administrators have developed their fears through

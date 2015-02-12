@@ -7,7 +7,7 @@ the integration process.
 //==== Recommendations for school administrators
 ==== RECOMMANDATIONS FOR SCHOOL ADMINISTRATORS
 
-*_Make a Commitment_* +
+===== Make a Commitment
 Because the principal is seen as the leader of the school, it is imperative
 that the commitment to integration be reflected in the school administrator's
 behaviour. Principals who were interviewed about integration by the California
@@ -19,7 +19,7 @@ are the ones with school administrators who have a commitment to integration.
 One group of teachers stated, "`The success of integration in these schools
 is based on school administrators who planned, promoted, implemented and rewarded.`"
 
-*_Overcome Fears and Prejudices_* +
+===== Overcome Fears and Prejudices
 For some school administrators, making a commitment to integration meant
 overcoming fears and prejudices, and changing attitudes about students who
 have special needs.

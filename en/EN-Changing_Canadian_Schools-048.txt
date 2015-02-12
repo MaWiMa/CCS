@@ -1,7 +1,8 @@
+[%hardbreaks]
 ==== A NEW SOCIAL AGENDA
 Education in the regular school system is one of the fundamental elements upon which participation in the community is built.
 Advocates tor individuals with a mental handicap first began to promote the idea of integrated education in the early 1970s,
-and the first attempts at "planned integration" began at that time. However, the people calling for inclusion of all students
+and the first attempts at "`planned integration`" began at that time. However, the people calling for inclusion of all students
 in the regular school system were few and far between. Examples of successes were even more scarce, and little effort was made
 within establishd forums to seriously address the issue.  
 
@@ -19,4 +20,4 @@ Within the advocacy movement of and for persons who have a mental handicap, the 
 helped mobilized efforts to include all students with mental handicaps in regular education. The analysis which produced that
 plan was greatly influenced by the principle of normalization, which gained recognition in the 1970s and 1980s. Originally
 conceptualized by Bank-Mikelson and Nirje in Scandinavia in the late 1960s and expanded by Wolfensberger in North
-America in the 197Os, the principle challenged the traditional segregation of persons with a mental handicap.
+America in the 1970s, the principle challenged the traditional segregation of persons with a mental handicap.

@@ -1,3 +1,4 @@
+[%hardbreaks]
 ==== STEP FOUR: METHOD OF EVALUATION
 The fourth step in the process, the method of evaluation, is very closely
 linked to the method of student performance and involves the same three
@@ -20,7 +21,6 @@ The main point to remember is that, in multi-level instruction evaluation
 is based on the individual level of skill of the students.
 
 ==== SUMMARY
-
 In multi-level instruction: a concept is determined; a variety of methods
 of presentation are employed to meet all learning styles; choices are
 given in assignments to allow all students to participate; and evaluation

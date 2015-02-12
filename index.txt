@@ -4,10 +4,19 @@
 
 === homepage for webusers 
 
+. This is a website with an transcription of Changing_Canadian_Schools.
+. This will be a site were you can find translations of the englich version.
 
-Start link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[here
-to read the transcript in englisch], or take a look at the 
-link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[german translation].
+You can take a look on the transcript as separate html-pages at
+https://mawima.github.io/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}
+If you want to get everything on one page, you will find this at
+https://mawima.github.io/CCS/en/EN.html
+
+The transcript in PDF-Format is available from
+https://github.com/MaWiMa/CCS/tree/master/inclusion/EN.pdf
+
+The german translation just started. Take a look at the pages 
+link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[here].
 
 You may also like to know how far the transcription or the translation
 is done. In this case look at the link:/CCS/CCSsta{ext-relative}[Status Page].
@@ -35,3 +44,11 @@ link:CCSbacgro{ext-relative}[Background and Questions] +
 link:/CCS/CCStecter{ext-relative}[Technical Terms] +
 link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
 link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch]#
+
+
+
+
+
+
+
+

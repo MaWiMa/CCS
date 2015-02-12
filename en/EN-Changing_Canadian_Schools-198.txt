@@ -1,3 +1,4 @@
+[%hardbreaks]
 === Bloom's Taxonomy
 
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size

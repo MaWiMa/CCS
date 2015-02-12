@@ -1,3 +1,4 @@
+[%hardbreaks]
 == Chapter 12
 
 === Problem Solving Teams: A Thirty-Minute Peer-Helping Model
@@ -5,7 +6,6 @@
 _by Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_
 
 ==== PROBLEM-SOLVING STRATEGIES FOR TEACHERS
-
 Schools which successfully include all students must employ a range of
 strategies and techniques so teachers can gain the support they need.
 The teacher-helping-teacher problem solving strategy has proven to be an

@@ -1,7 +1,6 @@
-*_1. PHILOSOPHICAL, LEGAL AND HISTORICAL OVERVIEW_*
+==== 1. PHILOSOPHICAL, LEGAL AND HISTORICAL OVERVIEW
 
-*_1.1 Principles and Philosophy_* 
-
+===== 1.1 Principles and Philosophy
 *Biklen, Douglas. (1985). Integration in school and society. In Biklen,
 Douglas (Ed). _Achieving the Complete School: Strategies for effective
 mainstreaming._ New York: Teachers`' College Press, Columbia University,

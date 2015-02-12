@@ -1,7 +1,10 @@
-= Chapter 2
+[%hardbreaks]
+== Chapter 2
 
-== Inclusive Education as Social Policy
+=== Inclusive Education as Social Policy
+
 _by Diane Richler_
+
 The pressure to provide education for children with mental handicaps began a half century ago when concerned parents banded
 together because they wanted their children with mental handicaps to remain at home, to be educated in the community and to be
 kept out of institutions. From the creation of special educational classes for a few children grew a vision of inclusion for
