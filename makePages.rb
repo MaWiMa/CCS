@@ -196,6 +196,10 @@ f = File.open("_tmp/"+i+".txt", "a")
 f.write("// pdf-part begins\n")
 f.write("//:toc: \n")
 f.write("Changes in Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
+f.write("\n")
+f.write("<<< \n")
+f.write("\n")
+
 
  if b < a
   b = a
