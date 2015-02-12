@@ -1,21 +1,29 @@
-== Changing Canadian Schools, Schule verändern
+// Autor Zoë Dahmen
+[%hardbreaks]
+== Kapitel 3
 
-== This work is not done yet
+=== Bildung: Ein System sozialer Selbstentmachtung
 
-You are welcome to work with me. 
+_von Marcia H. Rioux_
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+==== Annahmen über Bildung: Aufdeckung eines Mythos
 
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
-
-
-
-
+Wenn sich Mythen in einer Maskerade der Realität verstecken, wird es
+schwierig Tatsachen von Erfindungen zu unterscheiden. Viele Menschen
+wissen nicht was sie glauben sollen und was nicht. Darüber hinaus wird es
+geradezu unmöglich eine ernsthafte Analyse des Problems vorzunehmen.
+In dieser Position befinden wir uns, wenn wir einen näheren Blick auf das
+Problem der gemeinschaftlichen Erziehung von Kindern mit mentaler
+Behinderung werfen. Wir wurden dazu gebracht an sogenannte "`Wahrheiten`"
+über Erziehung in Kanada zu glauben. Weil eben diese als Tatsache
+präsentiert wurden. Sie wurden oft benutzt um ernsthafte Diskussionen oder
+auch Argumente zur Integration in unser allgemeines Schulsystem zu
+verschleiern und in Verruf zu bringen. Der Trugschluss dieser "`Tatsachen`"
+muss aufgedeckt werden, indem eine klare und überzeugende Position zur
+gemeinsamen Erziehung bezogen wird.
+ 
+Populäre Debatten über Integration von Kinder mit mentaler Behinderung in das
+Schulsystem werden häufig innerhalb eines Rahmens von vier Mythen geführt.
+Der Erste ist, dass Bildung frei ist, dass diese Bildung für jedes kanadische
+Kind ohne Einschränkung zugänglich ist. Der Zweite ist, dass das vorhandene
+Bildungssystem unparteiisch und gleich für jedes Kind im Schulsystem ist.
