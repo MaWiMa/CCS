@@ -156,7 +156,6 @@ f = File.open("_tmp/"+i+".txt", "a")
  f.write ":lang: "+i.downcase+"\n"
  f.write(":nofooter: \n")
  f.write(":toc: \n")
-#f.write(":includedir: ./en\n")
 
   b = 329
   a = 1
@@ -166,7 +165,7 @@ f = File.open("_tmp/"+i+".txt", "a")
    next if m == 2
    next if m == 8
    next if m == 9
-     puts "Page "+"%03d" % m
+  puts "Page "+"%03d" % m
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
  for m in a..b
@@ -218,6 +217,7 @@ f.write("\n")
    next if m == 8
    next if m == 9
   puts "Page "+"%03d" % m
+ 
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
 f.write("// pdf-part ends\n")
