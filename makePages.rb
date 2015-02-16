@@ -159,12 +159,21 @@ f = File.open("_tmp/"+i+".txt", "a")
 #f.write(":includedir: ./en\n")
 
   b = 329
-  a = 10
+  a = 1
+
  
+ for m in a..b
+   next if m == 2
+   next if m == 8
+   next if m == 9
+     puts "Page "+"%03d" % m
+  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
+ end
  for m in a..b
   puts "Page "+"%03d" % m
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
+
 f.write("// html-part ends\n")
 f.close
 
@@ -205,6 +214,9 @@ f.write("\n")
   b = a
  end
  for m in a..b
+   next if m == 2
+   next if m == 8
+   next if m == 9
   puts "Page "+"%03d" % m
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
