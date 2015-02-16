@@ -10,8 +10,8 @@ This evaluation question can be done either orally or in a written
 format. It allows all students to use evaluation as a technique and
 allows them to do it in different formats based on their ability levels.
 
-link:/CCS/en/EN-Changing_Canadian_Schools-210{outfilesuffix}[(Sample Lesson One on page 209]
-includes a number of other activities at various levels of Bloom's Taxonomy.)
+//link:/CCS/en/EN-Changing_Canadian_Schools-210{outfilesuffix}[(Sample Lesson One on page 209]
+(Sample Lesson One includes a number of other activities at various levels of Bloom's Taxonomy.)
 
 When students are presented with a variety of assignments at varying
 levels of Bloom's Taxonomy, the need for enrichment as well as

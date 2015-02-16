@@ -1,10 +1,12 @@
 //duty, and a variety of other activities. This area accounted for 14.9 per cent
 //of the M&R teachers time. <-- page 147
 
-Charts link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[A2],
-link:/CCS/en/EN-Changing_Canadian_Schools-150{outfilesuffix}[A3], link:/CCS/en/EN-Changing_Canadian_Schools-151{outfilesuffix}[A4]
-and link:/CCS/en/EN-Changing_Canadian_Schools-152{outfilesuffix}[A5] detail
-the use of time in each area. Most of the time M&R teachers are actively
+Charts A2, A3, A4 and A5
+//link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[A2],
+//link:/CCS/en/EN-Changing_Canadian_Schools-150{outfilesuffix}[A3],
+//link:/CCS/en/EN-Changing_Canadian_Schools-151{outfilesuffix}[A4]
+//and link:/CCS/en/EN-Changing_Canadian_Schools-152{outfilesuffix}[A5]
+detail the use of time in each area. Most of the time M&R teachers are actively
 engaged in collaborative and supportive activities with other staff members,
 students and parents.
 

@@ -9,7 +9,9 @@ skills. The teacher would be aware of the reasons for the student being
 in the group and would concentrate on the development of the targeted skills,
 rather than on the attainment of academic knowledge about a particular
 subject. Examples of inclusion of students with special needs are found
-in sample lessons on link:/CCS/en/EN-Changing_Canadian_Schools-210{outfilesuffix}[page 209].
+in sample lessons
+//on link:/CCS/en/EN-Changing_Canadian_Schools-210{outfilesuffix}[page 209]
+.
 
 *_Specific Strategies_* +
 Cooperative learning is an excellent strategy to consider when choosing

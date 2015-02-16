@@ -13,7 +13,9 @@ Very httle pull-out instruction is occurring in the schools of New Brunswick
 districts 28 and 29, and M&R teachers feel that very little out-of-class
 instruction is required. Most of them do very little of it, only twenty
 to thirty minutes a day, three or four days a week, according to the time-use
-survey (link:/CCS/en/EN-Changing_Canadian_Schools-145{outfilesuffix}[see page 145]).
+survey 
+//(link:/CCS/en/EN-Changing_Canadian_Schools-145{outfilesuffix}[see page 145])
+(see Time-Use Survey A1: Major Activities of Methods and Resource Teachers).
 Only one teacher had a student out of regular class for longer -- six-and-a-half
 hours out of a twenty-five-hour instructional week. Instead, small group
 instruction is often carried out in the regular classroom with the M&R teacher

@@ -13,8 +13,7 @@ If you want to get everything on one page, you will find this at
 https://mawima.github.io/CCS/en/EN.html
 
 The transcript in PDF-Format is available from
-https://github.com/MaWiMa/CCS/tree/master/inclusion/EN.pdf
-
+https://github.com/MaWiMa/CCS/blob/master/inclusion/EN.pdf?raw=true
 The german translation just started. Take a look at the pages 
 link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[here].
 

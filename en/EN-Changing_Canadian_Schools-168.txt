@@ -21,8 +21,9 @@ These problem-solving sessions or team meetings provide teachers and school
 administrators with the opportunity to pick and choose solutions, and implement
 ones that best meet their own needs.
 
-While school-based problem-solving teams link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[(see Chapter12)]
-are a structured means for teachers and school administrators to share and
+While school-based problem-solving teams
+//link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[(see Chapter12)]
+(see Chapter12) are a structured means for teachers and school administrators to share and
 problem solve, teachers also collaborate informally. One district found
 that sharing and problem-solving sessions did not have to be structured
 but occurred naturally at lunch and recess breaks or even outside of school.

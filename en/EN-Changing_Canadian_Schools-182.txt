@@ -5,7 +5,8 @@ Part of providing motivation includes designing activities which children
 find interesting and challenging. As in any classroom, this requires
 activities covering a wide range of abilities. Cooperative activities and
 learning centres lend themselves well to multi-level lesson plans
-link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[(see Chapter 11)].
+//link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[(see Chapter 11)].
+(see Chapter 11).
 
 The physical layout of the classroom can also be structured to promote
 independence. All materials are organized and visible. Instructions for
