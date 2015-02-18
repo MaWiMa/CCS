@@ -9,7 +9,10 @@ require 'asciidoctor-pdf'
 require 'asciidoctor-epub3'
 require 'git'
 
-ghbase='https://github.com/MaWiMa/CCS/tree/master/'
+#ghbase='https://github.com/MaWiMa/CCS/tree/master/'
+# next line only for gh-pages, for local-website comment this out
+#_site='../CCS.gh-pages/'
+# no good idea, tried subtree like described on http://stephenplusplus.github.io/yeoman.io/deployment.html
 
 unless ARGV.length < 5
  puts "Please do not enter more than four parameter, fourth parameter is optional!"
@@ -128,7 +131,7 @@ footer = case flip.lang
     f.write "[userinput2-c]#link:/CCS/index{ext-relative}[home]# \n"
     f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward]# \n"
     f.write "[userinput2-l]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[back]# \n"
-    f.write "[userinput1]#"+ghbase+"copies-from-original/CCS"+"%03d" % flip.page+".png["+flip.thisPage+"]# \n"
+    f.write "[userinput1]#link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png["+flip.thisPage+"]# \n"
  f.close
 # DE
  when "DE" then 
@@ -144,7 +147,7 @@ footer = case flip.lang
 puts "made  : .. #{new}"
 
 Asciidoctor.render_file new,
-:to_dir => '_site/CCS/'+flip.lang.downcase,
+:to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'unsafe',
 :attributes => 'linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images'
 
@@ -165,10 +168,6 @@ f = File.open("_tmp/"+i+".txt", "a")
    next if m == 2
    next if m == 8
    next if m == 9
-  puts "Page "+"%03d" % m
-  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
- end
- for m in a..b
   puts "Page "+"%03d" % m
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
@@ -194,7 +193,7 @@ footer = case i
 
 Asciidoctor.render_file f,
 :base_dir => '.',
-:to_dir => '_site/CCS/'+flip.lang.downcase,
+:to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'unsafe',
 :attributes => 'linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images'
 #:footer => 'false'
@@ -226,9 +225,9 @@ f.close
 Asciidoctor.render_file f,
 #:require => 'asciidoctor-pdf',
 :base_dir => '.',
-:to_dir => 'inclusion',
+:to_dir => 'CCS/inclusion',
 :backend => 'pdf',
-:attributes => 'pdf-style=CCS pdf-stylesdir=. imagesdir=images',
+:attributes => 'pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images',
 :safe => 'unsafe'
 
 when "epub" then
@@ -249,9 +248,9 @@ f.close
 Asciidoctor.render_file f,
 #:require => 'asciidoctor-epub3', 
 :base_dir => '.',
-:to_dir => 'inclusion',
+:to_dir => 'CCS/inclusion',
 :backend => 'epub3',
-:attributes => 'imagesdir=images',
+:attributes => 'imagesdir=CCS/images',
 :safe => 'unsafe'
 
  else
