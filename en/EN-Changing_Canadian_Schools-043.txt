@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 2
 
 === Inclusive Education as Social Policy

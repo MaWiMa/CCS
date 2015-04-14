@@ -1,53 +1,58 @@
-:ext-relative: {outfilesuffix}
-
 == Changing Canadian Schools
 
 === homepage for webusers 
 
-. This is a website with an transcription of Changing_Canadian_Schools.
-. This will be a site were you can find translations of the englich version.
+[cols="1"]
+|===
+|HTML pages in english
+|The transcript as separate html-pages is here:
+link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate Web Pages]
+|The transcript on one page is here: link:/CCS/en/CCS-EN.html[One Web Page]
+|PDF pages in english
+|The transcript in PDF-Format, it is available here:
+link:/CCS/inclusion/CCS-EN.pdf[Printing Layout]
+|EPUB pages in english
+|The transcript in EPUB-Format, will be available here:
+//link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
+[eBook Layout]
+|===
 
-You can take a look on the transcript as separate html-pages at
-https://mawima.github.io/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}
-If you want to get everything on one page, you will find this at
-https://mawima.github.io/CCS/en/EN.html
-
-If you prefer the PDF-Format, it is available from here: 
-https://github.com/MaWiMa/CCS/blob/master/inclusion/EN.pdf?raw=true[EN-CCS.pdf]
-The german translation just started. Take a look at the pages 
-link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[here].
+[cols="1"]
+|===
+|HTML Seiten in deutscher Sprache
+|Die Übersetzung, Seite für Seite, finden Sie hier:
+link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[Einzelne Internet Seiten]
+|Die Übersetzung auf einer Seite liegt (soweit vorhanden) hier:
+link:/CCS/de/CCS-DE.html[Eine Internet Seite]
+|PDF Seiten in deutscher Sprache
+|Die Übersetzung im PDF-Format liegt (soweit vorhanden) hier:
+link:/CCS/inclusion/CCS-DE.pdf[Drucksatz]
+|EPUB Seiten in deutscher Sprache
+|Die Übersetzung im EPUB-Format wird später hier zu finden sein:
+//link:/CCS/inclusion/CCS-DE.epub
+|[eBuchsatz]
+|===
 
 You may also like to know how far the transcription or the translation
-is done. In this case look at the link:/CCS/CCSsta{ext-relative}[Status Page].
+is done. In this case use the link:/CCS/CCSsta{ext-relative}[Status] link. +
 
-Your welcome to take a look at the readme here: +
-link:readme{ext-relative}[Changing Canadian Schools Transcript and Translation]
+Your welcome to take a look at the link:readme{ext-relative}[readme] here. +
 
 If you like to do something else than reading with these pages; you should
 know the link:/CCS/license{ext-relative}[license].
 
-https://github.com/MaWiMa/CCS[Here] you will find the
-https://github.com/MaWiMa/CCS[source] of the 
-https://mawima.github.io/CCS/[website you are reading now].
+Here you will find the
+https://github.com/MaWiMa/CCS[source] of this site and the 
+https://mawima.github.io/CCS/[website] you are reading now.
 
-
-
-
-
-
-
-
-[userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
-link:/CCS/CCSsta{ext-relative}[Status] +
-link:CCSbacgro{ext-relative}[Background and Questions] +
-link:/CCS/CCStecter{ext-relative}[Technical Terms] +
-link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch] +
-link:/CCS/de/DE-Changing_Canadian_Schools-008{outfilesuffix}[Übersetzung der Abschrift in deutsch]#
-
-
-
-
-
-
-
+[cols="1,5"]
+|===
+|Now   |This is a website with a transcription of Changing_Canadian_Schools.
+|Future|This will be a site were you can find translations of the englich version.
+|Why   |link:/CCS/CCSbacgro{ext-relative}[Background and Questions]
+|Speach|link:/CCS/CCStecter{ext-relative}[Technical Terms]
+|Source|https://github.com/MaWiMa/CCS[MaWiMa at Github]
+|Fresh | Up to Date Information about Inclusion is here http://irisinstitute.ca/[IRIS]
+|Ask   | For further information about this website write to {email}
+|===
 

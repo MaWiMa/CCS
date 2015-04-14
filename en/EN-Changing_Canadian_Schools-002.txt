@@ -1,2 +1,2 @@
 
-image::EN-CCS-Cover.png[]
+image::EN-CCS-Cover.svg[]

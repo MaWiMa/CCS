@@ -1,5 +1,4 @@
-[%hardbreaks]
-==== EDITORS
+=== EDITORS
 _Gordon L. Porter_ is the Director of Student Services for School
 Districts 28 and 29 in Woodstock, New Brunswick, and the Past President
 of the Canadian Association for Community Living. He was a Visiting
@@ -14,7 +13,7 @@ supporting people who have been labelled mentally handicapped and their
 families, and has a special interest in how advocacy organizations can
 effect social change.
 
-==== CONTRIBUTORS
+=== CONTRIBUTORS
 _Charlotte Campbell_ is a methods and resource teacher at Nackawic High
 School, School District 28, New Brunswick. She previously worked as a
 School Supervisor supporting the implementation of integated school programs

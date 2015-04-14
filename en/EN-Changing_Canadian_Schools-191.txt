@@ -1,4 +1,3 @@
-[%hardbreaks]
 ==== CONCLUSION
 My goal has been to show the simplicity of integration. In fact, so much
 of what has been described here is already accomplished well by teachers

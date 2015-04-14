@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 14
 
 === Beyond Behaviour: A Case of Social Intervention Strategies for a

@@ -1,7 +1,11 @@
 The main functions of the M&R teachers are collaboration, liaison, program
 development, monitoring, and professional development. 
-//link:/CCS/en/EN-Changing_Canadian_Schools-151{outfilesuffix}[(See Job Description, page 151)]
-(See JOB DESCRIPTION FOR METHODS AND RESOURCE TEACHER)
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-154{outfilesuffix}[(See Job Description, page 151)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<JOB DESCRIPTION FOR METHODS AND RESOURCE TEACHER,(See Job Description, page 151)>>
+endif::sep-pages[]
 
 The following description of the role is based on discussions and interviews
 with M&.R teachers, as well as observation and surveys. Gathered in the

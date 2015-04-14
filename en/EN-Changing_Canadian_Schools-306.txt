@@ -1,5 +1,4 @@
-[%hardbreaks]
-===== 2.2 Teacher Preparation and Teacher Attitudes
+==== 2.2 Teacher Preparation and Teacher Attitudes
 *Csapo, M. and D. Baine. (1985). Teachers of students with severe
 handicaps. _Canadian Journal of Exceptional Children_, 1, pp. 130-135.* +
 The authors describe the demands that deinstitutionalization has placed

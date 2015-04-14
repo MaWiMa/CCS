@@ -1,4 +1,3 @@
-[%hardbreaks]
 ==== HISTORY
 Programs for teachers of students with special needs have come under a
 variety of labels: pre-referral intervention; teacher support teams; and

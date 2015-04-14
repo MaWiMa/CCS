@@ -1,4 +1,3 @@
-[%hardbreaks]
 ==== STEP FOUR: METHOD OF EVALUATION
 The fourth step in the process, the method of evaluation, is very closely
 linked to the method of student performance and involves the same three

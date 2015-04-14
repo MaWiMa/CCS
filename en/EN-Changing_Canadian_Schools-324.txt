@@ -1,5 +1,4 @@
-[%hardbreaks]
-===== 2.6 More Resources
+==== 2.6 More Resources
 *Dreimanus, M., D. Sobsey, S. Gray, B. Hamaha. B. Uditsky and D. Wells.
 (1990). _Integration and Individuals with Moderate to Profound Intellectual
 Impairments: An annotated bibliography_. Edmonton: University of Alberta

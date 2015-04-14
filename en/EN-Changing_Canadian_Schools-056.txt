@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 3
 
 === Education: A System of Social Disempowerment

@@ -1,5 +1,4 @@
-:ext-relative: {outfilesuffix}
-:source-highlighter: pygments
+//:source-highlighter: pygments
 
 == Transcript and Translation Website
 You should find the webpages here:
@@ -98,7 +97,7 @@ _tmp                           # dir has to be created manually
 
 ----
 
-Building the pages is quiet simple, +
+Building the pages is quite simple, +
 To make basedir HTML-Pages, for example, just open a terminal and type
 
 [source]
@@ -135,7 +134,3 @@ image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*
 
-[userinput3]#link:/CCS/index{ext-relative}[home] +
-link:/CCS/CCSsta{ext-relative}[Status] +
-link:/CCS/CCStecter{ext-relative}[Technical Terms] +
-link:/CCS/en/EN-Changing_Canadian_Schools-008{outfilesuffix}[transcript in englisch]#

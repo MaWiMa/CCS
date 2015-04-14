@@ -4,15 +4,12 @@ transmitted in any form by any means, electronic, mechanical, photocopying,
 recording or otherwise, or stored in a retrieval system, without the prior
 consent of the publisher is an infringement of the copyright law.  
 
-*Canadian Cataloguing in Publication Data*  
-
-Changing Canadian schools: perspectives on disability and inclusion  
-
+*Canadian Cataloguing in Publication Data* +
+Changing Canadian schools: perspectives on disability and inclusion +
 Includes bibliographical references. +
 ISBN 1-895070-00-7  
 
-Issued also in French under the title:
-
+Issued also in French under the title: +
 Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégration. +
 
 . Mainstreaming in education - Canada.
@@ -20,7 +17,7 @@ Réformer les écoles canadiennes: Perspectives sur le handicap et l'intégratio
 
 ["upperroman", start=1]
 . Porter, Gordon L.
-. Richler, Diane.
+. Richler, Diane. 
 . G. Allan Roeher Institute
 
 LC4634.C53 1991 371.92'806'0971 C91-094767-8 +
@@ -30,7 +27,7 @@ Kinsmen Building, York University, +
 M3J 1P3 +
 (416) 661-9611 +
   
-[cols="1,1,"]
+[cols="1,2"]
 |===
 |Institute Director:|Marcia H. Rioux
 |Editors:|Gordon L. Porter and Diane Richler

@@ -1,8 +1,6 @@
-[%hardbreaks]
 === Bloom's Taxonomy
-
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
-[cols="1,1,1,1"]
+[cols="19,18,22,22"]
 |===
 |Areas    |Definition|Key Verbs|Classroom Products
 |Knowledge|knowing and remembering facts|match, recognize, list, describe, name, define, show, record, select, identify|report, map, worksheet, chart

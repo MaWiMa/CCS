@@ -1,4 +1,4 @@
-[%hardbreaks]
+
 ==== EDUCATION APPEAL MECHANISMS
 In some jurisdictions, parents can use special statutory appeal
 mechanisms to question decisions to place their children in
@@ -18,7 +18,7 @@ decision by the minister under the _equivalent section_ in Alberta came
 out alter a lengthy, organized appeal by the family and supporters of the
 child, Margaret Eggert. The decision came out strongly in favour of the
 child entering Grade 1 in her neighbourhood school.
-[%hardbreaks]
+
 ==== PARENTS CARRY THE STRUGGLE
 The element that permeates all of the legal challenges by parents on
 behalf of their children is one of struggle. There is no universal

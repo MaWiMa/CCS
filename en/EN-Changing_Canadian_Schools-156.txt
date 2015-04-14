@@ -15,5 +15,3 @@
 .. Set personal goals.
 .. Keep informed on current issues of relevance to the role.
 .. Participate in research projects within the system.
-
-<<<

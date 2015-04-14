@@ -400,9 +400,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 
 #footer { position:fixed; bottom:0%;  max-width: 100%; background-color: #222222;padding:0em }
 #footer-text { color: #dddddd; font-size: 0.8em; text-align:center; }
-.userinput3 { position:fixed; bottom:1.0em; left: 0%; color: #ffffff;background-color: white; width:100%; text-align:center }
-.userinput2-l { position:fixed; bottom:2.2em; left: 0%; color: #e4e4e4;background-color: #e4e4e4; width:33%; text-align:center}
-.userinput2-c { position:fixed; bottom:2.2em; left: 33%; color: #e4e4e4;background-color: #e4e4e4; width:34%; text-align:center}
-.userinput2-r { position:fixed; bottom:2.2em; left: 67%; color: #e4e4e4;background-color: #e4e4e4; width:33%; text-align:center}
+.userinput3 { position:fixed; bottom:3.0em; left: 0%; color: #ffffff; width:100%; text-align:right }
+.userinput2-l { position:fixed; bottom:1.4em; left: 0%; color: #e4e4e4;background-color: #e4e4e4; width:33%; text-align:center}
+.userinput2-c { position:fixed; bottom:1.4em; left: 33%; color: #e4e4e4;background-color: #e4e4e4; width:34%; text-align:center}
+.userinput2-r { position:fixed; bottom:1.4em; left: 67%; color: #e4e4e4;background-color: #e4e4e4; width:33%; text-align:center}
 .userinput1 { position:fixed; bottom:1.2em; left: 0%; color: #ffffff;background-color: #222222; width:100%; font-size: 0.8em;text-align:center }
-.userinput0 { position:fixed; bottom:0%; left: 0%; color: #00000;background-color: #e4e4e4; width:100%; font-size: 0.8em;text-align:center }
+.userinput0 { position:fixed; bottom:0%; left: 0%; color: #00000;background-color: #e4e4e4; width:100%; font-size: 1em;text-align:center }

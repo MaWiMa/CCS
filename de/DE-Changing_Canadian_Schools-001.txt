@@ -1,7 +1,7 @@
 :ext-relative: {outfilesuffix}
 [resume]
 === DOKUMENT ÜBERSICHT
-include::../CCSdocres.txt[]
+include::CCSdocres.txt[]
 
 [abstract]
 === ZUSAMMENFASSUNG 

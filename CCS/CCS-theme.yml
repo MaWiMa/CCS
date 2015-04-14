@@ -30,7 +30,7 @@ page:
   layout: portrait
   # multiply inches by 72 to get pt values
   # margin: [top, right, bottom, left]
-  margin: [0.8 * 72, 1.0 * 72, 1.0 * 72, 2.0 * 72]
+  margin: [0.8 * 72, 1.0 * 72, 0.8 * 72, 1.8 * 72]
   size: A4
 base:
   font_color: 0f0f0f

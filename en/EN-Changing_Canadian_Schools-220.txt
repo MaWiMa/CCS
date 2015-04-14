@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 12
 
 === Problem Solving Teams: A Thirty-Minute Peer-Helping Model

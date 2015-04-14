@@ -1,5 +1,7 @@
-[%hardbreaks]
 ==== TIME-USE SURVEY A3
-
+ifdef::pdf-pages[]
+image::CCS150.svg[A3: Instruction, align="center", scaledwidth=90%]
+endif::pdf-pages[]
+ifndef::pdf-pages[]
 image::CCS150.svg[A3: Instruction, align="center"]
-
+endif::pdf-pages[]

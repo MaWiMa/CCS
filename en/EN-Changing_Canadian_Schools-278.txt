@@ -1,4 +1,3 @@
-[%hardbreaks]
 ==== CONCLUSION
 There are many questions still to be addressed, but it is an ongoing
 process. We have learned to examine how we do things and discuss new

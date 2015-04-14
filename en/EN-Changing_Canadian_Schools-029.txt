@@ -5,7 +5,7 @@ of their  children to learn and develop. Participation in integrated day
 care, nurseries and kindergartens has created parental expectations that
 their children would continue to be educated in the regular stream.
 
-[%hardbreaks]
+
 [quote, Crealock, 1989]
 ____
 Early intervention provides [excellent] support and information for
@@ -28,4 +28,4 @@ attend school. Maureen Elwood acknowledged that this separation from
 peers was one of the major concerns that led to the family's militancy:
 // What's happened is that Luke's been alienated from everyone around him...
 // It starts first thing in the morning. --> page 30
-[%hardbreaks]
+

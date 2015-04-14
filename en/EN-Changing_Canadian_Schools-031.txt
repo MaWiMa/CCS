@@ -1,4 +1,4 @@
-[%hardbreaks]
+
 ==== INNOVATION
 In many parts of North America, the expansion of special education has
 resulted in the creation of parallel systems for regular and special
@@ -25,7 +25,6 @@ holistic unit that serves all students well. The Director of education
 of a Roman Catholic school board in western Canada describes his
 rationale for dismantling such a separate structure:  
 
-//[%hardbreaks]
 [quote, Porter, 1990)]
 ____
 In 1982 ... I took the Student Services Department out of the

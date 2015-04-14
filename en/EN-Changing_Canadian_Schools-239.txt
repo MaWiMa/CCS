@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 13
 
 === Student to Student Curriculum and the Development of Peer Relationships

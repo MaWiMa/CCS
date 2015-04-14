@@ -20,8 +20,13 @@ by people advocating for inclusion who look forward to a day when the
 various "`labels`" used to identify people through their differences are
 no longer necessary.
 David Jory, the parent of a young man labelled mentally handicapped
-//link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
-(see Chapter 5) writes:
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 5,(see Chapter 5)>>
+endif::sep-pages[]
+writes:
 
 [quote]
 ____

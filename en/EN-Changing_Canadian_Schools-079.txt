@@ -1,4 +1,3 @@
-[%hardbreaks]
 == Chapter 5
 
 === Principles of Change: A Parent's Perspective on the Education System

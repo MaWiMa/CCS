@@ -1,5 +1,3 @@
-:ext-relative: {outfilesuffix}
-
 == License/Lizenz
 
 . _This work_ is licensed under http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode[
@@ -35,6 +33,3 @@ Bedingungen zu veröffentlichen.
 
 . Die Rechte am *_Original_* des Buches *Changing Canadian Schools* bleiben unberührt.
 
-
-[userinput3]#image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[CC-BY-NC-SA, link="http://creativecommons.org/licenses/by-nc-sa/4.0/"] +
-link:/CCS/index{ext-relative}[home]#

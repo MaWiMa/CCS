@@ -1,4 +1,3 @@
-[%hardbreaks]
 ==== STEP TWO: METHODS OF TEACHER PRESENTATION
 Once the underlying concepts of the lesson are established, it is clear
 that the lesson cannot be presented in one way to all students, if all

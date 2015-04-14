@@ -7,7 +7,7 @@ how it might be changed. Goffman(1963) has provided a thorough description
 of the underlying factors that affect people's perception
 of difference. As one parent explains,
 
-//[%hardbreaks]
+
 [quote, Penner, 1989]
 ____
 Our experience with special education goes back to 1976. We have seen at
@@ -23,7 +23,6 @@ be friends and the ability to communicate with them. It has taken a
 number of years for educators to understand the importance of this.
 ____
 
-//[%hardbreaks]
 [quote, Jory, 1989. see Chapter 5]
 ____
 The only time in my son's life that he was segregated was in our school
