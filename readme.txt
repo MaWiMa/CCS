@@ -146,6 +146,3 @@ image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -
 
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*
-
-
-//git subtree push --prefix CCS origin gh-pages
