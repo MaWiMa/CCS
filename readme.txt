@@ -1,4 +1,4 @@
-//:source-highlighter: pygments
+:source-highlighter: coderay
 
 == Transcript and Translation Website
 You should find the webpages here:
@@ -54,73 +54,86 @@ https://help.github.com/articles/fork-a-repo.
 
 ==== Document tree
 
+Todo manually, only if you want to build your own website for testing
+
+----
+_tmp    # dir has to be created manually
+----
+
+
 [source]
 ----
 
-|-- copies-from-original
+|-- CCS
+|   |-- CCS-theme.yml
+|   |-- adoc.css
+|   |-- copies-from-original
+|   |-- de
+|   |-- en
+|   |-- images
+|   `-- inclusion
+|
+|-- _tmp
 |-- de
 |-- en
-|-- inclusion
-|-- images
-|-- _site
-|   `-- CCS
-|       |-- adoc.css -> ../../adoc.css
-|       |-- copies-from-original -> ../../copies-from-original
-|       |-- de
-|       |-- en
-|       |-- inclusion -> ../../inclusion
-|       |-- images    -> ../../images
-|-- _tmp
+|-- included
+|   `-- CCSdocres.txt
 |
 |-- CCSbacgro.txt
-|-- CCSdocres.txt
 |-- CCSsta.txt
 |-- CCStecter.txt
-|-- adoc.css
 |-- flipPages.rb
 |-- index.txt
-|-- makeWebPages.rb
+|-- license.txt
+|-- makeBase.rb
+|-- makePages.rb
 `-- readme.txt
 
 ----
-todo manually, only if you want to build your own website for testing
-----
 
-_site                          # website dir, to be created manually
-_site/CCS/copies-from-original # symlink to copies from original dir
-_site/CCS/de                   # dir has to be created manually
-_site/CCS/en                   # dir has to be created manually
-_site/CCS/images               # symlink to images dir
-_site/CCS/inclusion            # symlink to inclusion directory
-_site/adoc.css                 # symlink to adoc.css in root dir 
-_tmp                           # dir has to be created manually
-
-----
 
 Building the pages is quite simple, +
-To make basedir HTML-Pages, for example, just open a terminal and type
+To make *all* basedir HTML-Pages just open a terminal and type
 
 [source]
 ----
-asciidoctor -D _site/CCS -a stylesheet=adoc.css -a linkcss readme.txt
+for i in *.txt;do ./makeBase.rb $(basename "$i" .txt);done
 ----
 
-to make the first Page of the English Version just type
+If you just want to build the page that you changed, type 
 
-[source,bash]
+[source]
 ----
-./makeWebPages.rb en 1
+./makeBase.rb index
+----
+
+At the moment you can build separate hmtl-pages this way:
+
+To make Page one of the English Version just type:
+
+[source]
+----
+./makePages.rb EN html 1
 ----
 
 To make Page two to onehundretfiftyone of the English Version just type:
 
 [source]
 ----
-./makeWebPages.rb en 2 151
+./makePages.rb EN html 2 151
 ----
 
-To take a look at the website you did build, change to your DIR *_site*
-open a terminal and run:
+Everytime you run this command the all-in-one-HTML-Page gets updated.
+
+
+[source]
+----
+./makePages.rb EN html 1
+----
+
+
+
+To take a look at the website you did build run:
 
 [source]
 ----
@@ -134,3 +147,5 @@ image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*
 
+
+//git subtree push --prefix CCS origin gh-pages

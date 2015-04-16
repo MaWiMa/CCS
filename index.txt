@@ -48,7 +48,7 @@ https://mawima.github.io/CCS/[website] you are reading now.
 [cols="1,5"]
 |===
 |Now   |This is a website with a transcription of Changing_Canadian_Schools.
-|Future|This will be a site were you can find translations of the englich version.
+|Future|This will be a site were you can find translations of the english version.
 |Why   |link:/CCS/CCSbacgro{ext-relative}[Background and Questions]
 |Speach|link:/CCS/CCStecter{ext-relative}[Technical Terms]
 |Source|https://github.com/MaWiMa/CCS[MaWiMa at Github]

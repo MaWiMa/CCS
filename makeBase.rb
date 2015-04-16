@@ -19,7 +19,7 @@ f.write("include::"+i+".txt[] \n")
 
 #f.write("image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[, align=center,CC-BY-NC-SA, link=http://creativecommons.org/licenses/by-nc-sa/4.0/]\n")
 
-f.write("[userinput3]#image:cc-by-nc-sa.svg[CC-BY-NC-SA, link=http://creativecommons.org/licenses/by-nc-sa/4.0/]#+ \n")
+f.write("[userinput3]#image:cc-by-nc-sa.svg[CC-BY-NC-SA, link=http://creativecommons.org/licenses/by-nc-sa/4.0/]# \n")
 f.write("[userinput2-l]#link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Transcription]# \n")
 #f.write("[userinput2-c]#link:/CCS/CCSsta{ext-relative}[Status]# \n")
 f.write("[userinput2-c]#link:/CCS/index{ext-relative}[Home]# \n")

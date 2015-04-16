@@ -7,6 +7,7 @@
 <meta name="generator" content="Asciidoctor 1.5.2">
 <title>Transcript and Translation Website</title>
 <link rel="stylesheet" href="./adoc.css">
+<link rel="stylesheet" href="./coderay-asciidoctor.css">
 </head>
 <body class="article">
 <div id="header">
@@ -57,7 +58,7 @@ Just write the filename to the subject of your email in following form:</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">Notation: &lt;Language&gt;&lt;Page&gt;
+<pre class="CodeRay highlight"><code data-lang="bash">Notation: &lt;Language&gt;&lt;Page&gt;
 Example:  EN001</code></pre>
 </div>
 </div>
@@ -86,64 +87,68 @@ How to do this, is described on
 </div>
 <div class="sect3">
 <h4 id="_document_tree">Document tree</h4>
+<div class="paragraph">
+<p>Todo manually, only if you want to build your own website for testing</p>
+</div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code>|-- copies-from-original
+<pre>_tmp    # dir has to be created manually</pre>
+</div>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="CodeRay highlight"><code>|-- CCS
+|   |-- CCS-theme.yml
+|   |-- adoc.css
+|   |-- copies-from-original
+|   |-- de
+|   |-- en
+|   |-- images
+|   `-- inclusion
+|
+|-- _tmp
 |-- de
 |-- en
-|-- inclusion
-|-- images
-|-- _site
-|   `-- CCS
-|       |-- adoc.css -&gt; ../../adoc.css
-|       |-- copies-from-original -&gt; ../../copies-from-original
-|       |-- de
-|       |-- en
-|       |-- inclusion -&gt; ../../inclusion
-|       |-- images    -&gt; ../../images
-|-- _tmp
+|-- included
+|   `-- CCSdocres.txt
 |
 |-- CCSbacgro.txt
-|-- CCSdocres.txt
 |-- CCSsta.txt
 |-- CCStecter.txt
-|-- adoc.css
 |-- flipPages.rb
 |-- index.txt
-|-- makeWebPages.rb
+|-- license.txt
+|-- makeBase.rb
+|-- makePages.rb
 `-- readme.txt</code></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>todo manually, only if you want to build your own website for testing</p>
+<p>Building the pages is quite simple,<br>
+To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre>_site                          # website dir, to be created manually
-_site/CCS/copies-from-original # symlink to copies from original dir
-_site/CCS/de                   # dir has to be created manually
-_site/CCS/en                   # dir has to be created manually
-_site/CCS/images               # symlink to images dir
-_site/CCS/inclusion            # symlink to inclusion directory
-_site/adoc.css                 # symlink to adoc.css in root dir
-_tmp                           # dir has to be created manually</pre>
+<pre class="CodeRay highlight"><code>for i in *.txt;do ./makeBase.rb $(basename "$i" .txt);done</code></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>Building the pages is quiet simple,<br>
-To make basedir HTML-Pages, for example, just open a terminal and type</p>
+<p>If you just want to build the page that you changed, type</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code>asciidoctor -D _site/CCS -a stylesheet=adoc.css -a linkcss readme.txt</code></pre>
+<pre class="CodeRay highlight"><code>./makeBase.rb index</code></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>to make the first Page of the English Version just type</p>
+<p>At the moment you can build separate hmtl-pages this way:</p>
+</div>
+<div class="paragraph">
+<p>To make Page one of the English Version just type:</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">./makeWebPages.rb en 1</code></pre>
+<pre class="CodeRay highlight"><code data-lang="bash">./makePages.rb EN html 1</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -151,16 +156,15 @@ To make basedir HTML-Pages, for example, just open a terminal and type</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code>./makeWebPages.rb en 2 151</code></pre>
+<pre class="CodeRay highlight"><code data-lang="bash">./makePages.rb EN html 2 151</code></pre>
 </div>
 </div>
 <div class="paragraph">
-<p>To take a look at the website you did build, change to your DIR <strong>_site</strong>
-open a terminal and run:</p>
+<p>To take a look at the website you did build run:</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code>ruby -run -e httpd . -p 8000</code></pre>
+<pre class="CodeRay highlight"><code>ruby -run -e httpd . -p 8000</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -174,11 +178,11 @@ open a terminal and run:</p>
 at <strong><a href="http://localhost:8000/CCS" class="bare">http://localhost:8000/CCS</a></strong></p>
 </div>
 <div class="paragraph">
-<p><span class="userinput3"><span class="image"><a class="image" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/cc-by-nc-sa.svg" alt="CC-BY-NC-SA"></a></span></span>+
+<p><span class="userinput3"><span class="image"><a class="image" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/cc-by-nc-sa.svg" alt="CC-BY-NC-SA"></a></span></span>
 <span class="userinput2-l"><a href="/CCS/en/EN-Changing_Canadian_Schools-003.html">Transcription</a></span>
 <span class="userinput2-c"><a href="/CCS/index.html">Home</a></span>
 <span class="userinput2-r"><a href="/CCS/de/DE-Changing_Canadian_Schools-003.html">Translation</a></span>
-<span class="userinput0"><a href="/CCS/CCSsta.html">Status</a>, Version: <a href="https://github.com/MaWiMa/CCS/commit/26c46d243e59155152b415085a557fb42cd0e141">26c46d24</a></span></p>
+<span class="userinput0"><a href="/CCS/CCSsta.html">Status</a>, Version: <a href="https://github.com/MaWiMa/CCS/commit/45316c62b5271b983be614da5504e4f22f17e1c8">45316c62</a></span></p>
 </div>
 </div>
 </div>
