@@ -1,6 +1,3 @@
-//=== DOCUMENT RESUME
-//include::{includedir}/CCSdocres.txt[]
-
 === ABSTRACT  
 The 15 papers in this collection present a Canadian
 perspective on providing services to children with disabilities in

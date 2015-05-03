@@ -1,18 +1,12 @@
 #!/usr/bin/ruby
 # encoding: utf-8
 require_relative 'flipPages'
-
-require 'fileutils'
+#require 'fileutils'
 require 'asciidoctor'
-#require 'date'
 require 'asciidoctor-pdf'
-require 'asciidoctor-epub3'
+#require 'asciidoctor-epub3'
 require 'git'
 
-#ghbase='https://github.com/MaWiMa/CCS/tree/master/'
-# next line only for gh-pages, for local-website comment this out
-#_site='../CCS.gh-pages/'
-# no good idea, tried subtree like described on http://stephenplusplus.github.io/yeoman.io/deployment.html
 
 unless ARGV.length > 1 && ARGV.length < 5
  puts "Please enter at least two parameter, first language, second format,"
@@ -83,10 +77,13 @@ file.write("include::{includedir}/CCSdocres.txt[] \n")
 end
 
 git = Git.open('.')
-f = File.new("_tmp/CCS-"+i+".txt", "w")
+
+if i == "EN"
+f = File.new(i.downcase+"/CCS-"+i+".txt", "w")
 f.write("// common-part begins\n")
 # f.write ":notitle:\n"
 # f.write ":noheader:\n"
+f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":nofooter:\n")
 f.write(":doctype: book \n")
 f.write(":front-cover-image: image:EN-CCS-Cover.png[] \n")
@@ -109,52 +106,37 @@ f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
 f.write(":copyright: CC-BY-SA 4.0 \n")
 f.write(":revdate: "+Date.today.to_s+"\n")
-f.write(":revnumber: "+git.log(1).object(i.downcase+"/").to_s[0..7]+"\n")
+#f.write(":revnumber: "+git.log(1).object(i.downcase+"/").to_s[0..7]+"\n")
+#f.write(":revnumber:"+git.log(1).path("CCS/"+i.downcase+"/CCS-"+i+".html").to_s+"["+git.log(1).path("CCS"+i.downcase+"/CCS-"+i+"html").to_s[0..7]+"] \n")
+f.write(":revnumber: "+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+" \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
 f.write(":pagenums: \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
 f.close
-
+end
 # if no pages are choosen, every page is build
 
 format = case o # format
 # html
  when "html"
 
-#  puts "What do you want?"
-#  puts "only separate html-pages, then         press: s"
-#  puts "just everything on one hmtl-page, then press: o"
-#  puts "both of above choices, then press any other key"
-#  
-#  choice = $stdin.gets.chomp # gets.chomp does /makePages.rb:78:in `gets': No such file or directory @ rb_sysopen - html (Errno::ENOENT)
-  
-
-# pages = case choice
-# unless choice == "o" then
-#  puts "Enter number of first page [1]"
-#  firstpage = $stdin.gets.chomp
-
 for m in a..b
  puts "Language = #{i}, Page = #{m}"
  flip = Flip.new(i,m)
 
-# we need the next three lines only if a == 0 is not used (look for -> i.length != 2 or a == 0)
-# if flip.page < 1
-#   puts "The number of pages should be greater 0!"
-#   exit
  if flip.page > 329
    puts "There should only be 329 pages!"
    exit
   end
  if flip.nextPageNumber > 329
   flip.nextPageNumber = 1
-#  puts "Last page is reached, we go back to page 1!"
+  puts "Last page is reached, we go back to page 1!"
   flip.nextPage = flip.lang + flip.thesePageNames + "%03d" % flip.nextPageNumber.to_s
  end 
  if flip.backPageNumber < 1
   flip.backPageNumber = 329
-#  puts "First page is reached, we goto page 329"
+  puts "First page is reached, we goto page 329"
   flip.backPage = flip.lang + flip.thesePageNames + flip.backPageNumber.to_s
  end 
 
@@ -170,13 +152,13 @@ new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
 #puts "make  : .. #{new} part1"
 
 f = File.new(new, "w")
-  f.write ":ext-relative: {outfilesuffix}\n"
-  f.write ":nofooter:\n"
+  f.write(":ext-relative: {outfilesuffix}\n")
+  f.write(":nofooter:\n")
    if m == 1
     sample_one(f,i)
    end
  #f = File.open(new, "a")
-  f.write ":lang: "+i.downcase+"\n"
+  f.write(":lang: "+i.downcase+"\n")
 #  f.write File.read(org)
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
   f.close
@@ -191,7 +173,8 @@ footer = case flip.lang
     f.write "[userinput2-c]#link:/CCS/index{ext-relative}[home]# \n"
     f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward >>]# \n"
     f.write "[userinput2-l]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[<< back]# \n"
-    f.write "[userinput0]#link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png["+flip.thisPage+"]# \n"
+    f.write "[userinput0-l]#link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from Original]# \n"
+    f.write "[userinput0-r]#Ver: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s+"["+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s[0..5]+"]# \n"
  f.close
 # DE
  when "DE"
@@ -200,9 +183,9 @@ footer = case flip.lang
     f.write "[userinput2-c]#link:/CCS/index{ext-relative}[home]# \n"
     f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward >>]# \n"
     f.write "[userinput2-l]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[<< back]# \n"
-    f.write "[userinput0]#link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[diese Seite als Abschrift des Originals]# \n"
+    f.write "[userinput0-l]#link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[Abschrift des Originals]# \n"
+    f.write "[userinput0-r]#Ver: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s+"["+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s[0..5]+"]# \n"
  f.close
-# other Language 
  end
 puts "made  : .. #{new}"
 
@@ -211,17 +194,18 @@ Asciidoctor.render_file new,
 :to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'unsafe',
 :attributes => 'sep-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
-
-#puts "made  : . CCS/#{flip.thisPage}.html"
  end
-#end # unless "o"
-
-#unless choice == "s" then
- f = File.open("_tmp/CCS-"+i+".txt", "a")
+###
+if i == "EN"
+ f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
  f.write("// html-part begins\n")
 #f.write(":last-update-label!: \n")
- f.write ":lang: "+i.downcase+"\n"
-# f.write(":nofooter: \n")
+ f.write(":lang: "+i.downcase+"\n")
+# f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+f.write("Changes in this Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+#f.write(":nofooter: \n")
+
+ f.write(" \n")
  f.write(":toc: \n")
 
   a = 1
@@ -235,29 +219,13 @@ Asciidoctor.render_file new,
    next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
    next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
 
-#  puts "Page "+"%03d" % m
-  f.write " \n"
-  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
+ f.write " \n"
+ f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
 
-f.write("// html-part ends\n")
-#f.close
-
-#footer = case i
-# EN
-# when "EN"
-# f = File.open("_tmp/CCS-"+i+".txt", "a")
-   f.write " \n"
-   f.write "[userinput0]#Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"]# \n"
+ f.write("// html-part ends\n")
+ f.write " \n"
  f.close
-# DE
-# when "DE"
-# f = File.open("_tmp/CCS-"+i+".txt", "a")
-#   f.write " \n"
-#   f.write "[userinput0]#Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"]# \n"
-# f.close
-# other Language 
-# end
 
 Asciidoctor.render_file f,
 :base_dir => '.',
@@ -265,16 +233,16 @@ Asciidoctor.render_file f,
 :safe => 'unsafe',
 :attributes => 'html-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
 #:footer => 'false'
-#end # unless "s"
-
+end
+###
 when "pdf"
-f = File.open("_tmp/CCS-"+i+".txt", "a")
+f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
 f.write("// pdf-part begins\n")
 f.write("//:toc: \n")
 #f.write(":sectlinks: \n")
 #f.write(":idprefix: _ \n")
-#f.write("\n")
-f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
+f.write("\n")
+f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
 f.write("\n")
 f.write("<<< \n")
 f.write("\n")
@@ -352,3 +320,4 @@ Asciidoctor.render_file f,
  puts "I can't do this format -> #{o} (now)!"
  exit
 end # /format
+
