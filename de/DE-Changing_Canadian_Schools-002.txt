@@ -1,6 +1,1 @@
-[cols="^1"]
-|===
-|
-image:/CCS/copies-from-original/CCS002.png[Das Cover von Changing
-Canadian Schools]
-|===
+image::DE-CCS-Cover.svg[]
