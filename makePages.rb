@@ -78,7 +78,7 @@ end
 
 git = Git.open('.')
 
-if i == "EN"
+#if i == "EN"
 f = File.new(i.downcase+"/CCS-"+i+".txt", "w")
 f.write("// common-part begins\n")
 # f.write ":notitle:\n"
@@ -86,7 +86,7 @@ f.write("// common-part begins\n")
 f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":nofooter:\n")
 f.write(":doctype: book \n")
-f.write(":front-cover-image: image:EN-CCS-Cover.png[] \n")
+f.write(":front-cover-image: image:"+i+"-CCS-Cover.png[] \n")
 f.write(":doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. \n")
 f.write(":authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. \n")
 f.write(":author_01: Porter, Gordon L., Ed. \n")
@@ -114,7 +114,7 @@ f.write(":pagenums: \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
 f.close
-end
+#end
 # if no pages are choosen, every page is build
 
 format = case o # format

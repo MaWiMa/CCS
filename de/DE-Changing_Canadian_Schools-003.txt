@@ -1,5 +1,6 @@
+[discrete] 
 = Kanadische Schulen verändern
-
+[discrete]
 == Betrachtung von Behinderung und Einbeziehung
 
 _herausgegeben von_ +  
