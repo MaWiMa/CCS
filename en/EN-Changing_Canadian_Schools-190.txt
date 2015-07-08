@@ -15,8 +15,13 @@ blind or deaf, and sometimes physiotherapists.
 When problems arise, the classroom teacher can request that a problem-solving
 team be formed by the M&R staff. The team is a problem-solving unit made
 up of volunteer staff members
-//link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[(see Chapter 12)].
-(see Chapter 12).
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[(see Chapter 12)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 12,(see Chapter 12)>>
+endif::sep-pages[]
+.
 Frequently, the team includes the school guidance counsellor, district
 psychologists, a member of the administration, and, of course, the M&R
 staff.

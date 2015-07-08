@@ -2,35 +2,39 @@
 
 === homepage for webusers 
 
-[cols="1"]
+[cols="3,1"]
 |===
-|HTML pages in english
-|The transcript as separate html-pages is here:
-link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate Web Pages]
-|The transcript on one page is here: link:/CCS/en/CCS-EN.html[One Web Page]
-|PDF pages in english
-|The transcript in PDF-Format, it is available here:
-link:/CCS/inclusion/CCS-EN.pdf[Printing Layout]
-|EPUB pages in english
-|The transcript in EPUB-Format, will be available here:
-//link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
-[eBook Layout]
-|===
+|You find the transcript as separate web-pages here:
+link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate-Web-Pages]
 
-[cols="1"]
-|===
-|HTML Seiten in deutscher Sprache
-|Die Übersetzung, Seite für Seite, finden Sie hier:
-link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[Einzelne Internet Seiten]
-|Die Übersetzung auf einer Seite liegt (soweit vorhanden) hier:
-link:/CCS/de/CCS-DE.html[Eine Internet Seite]
-|PDF Seiten in deutscher Sprache
-|Die Übersetzung im PDF-Format liegt (soweit vorhanden) hier:
+If you prefer the transcript on one page, take a look here:
+link:/CCS/en/CCS-EN.html[One-Web-Page]
+
+The transcript in PDF-format is available here:
+link:/CCS/inclusion/CCS-EN.pdf[Printing Layout]
+
+The transcript in EPUB-format will be available here:
+link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
+[eBook Layout]
+
+//without the leading a you get no image
+a|image::EN-CCS-Cover.svg[Cover,scalewidth=25%,link=/CCS/en/CCS-EN.html]
+
+|Die Übersetzung, in Form einzelner Seiten, finden Sie hier:
+link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[Einzelne-Internet-Seiten]
+
+Die Übersetzung auf einer Seite liegt (soweit vorhanden) hier:
+link:/CCS/de/CCS-DE.html[Alles-auf-einer-Seite]
+
+Die Übersetzung im PDF-Format liegt (soweit vorhanden) hier:
 link:/CCS/inclusion/CCS-DE.pdf[Drucksatz]
-|EPUB Seiten in deutscher Sprache
-|Die Übersetzung im EPUB-Format wird später hier zu finden sein:
-//link:/CCS/inclusion/CCS-DE.epub
-|[eBuchsatz]
+
+Die Übersetzung im EPUB-Format wird später hier zu finden sein:
+link:/CCS/inclusion/CCS-DE.epub[eBuchsatz]
+
+//without the leading a you get no image
+a|image::DE-CCS-Cover.svg[Cover,scalewidth=25%,link=/CCS/de/CCS-DE.html]
+
 |===
 
 You may also like to know how far the transcription or the translation

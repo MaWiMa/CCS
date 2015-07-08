@@ -4,12 +4,19 @@ the learning of particular students.
 
 One example of how Gentle Teaching strategies could be used in natural
 situations was given by the methods and resource teacher, an in-school
-consultant to other teachers (see Chapter 8). When Sue began self-stimulating
-behaviours the teacher took Sue and two of her peers and began to throw
-a ball around in a simple game of catch. Sue was valued and redirected
-from her self-stimulation. This was Gentle Teaching, although at the time
-the teacher did not recognize it as such. It was a preventive approach
-rather than a reactionary one.
+consultant to other teachers
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 8,(see Chapter 8)>>
+endif::sep-pages[]
+.
+When Sue began self-stimulating behaviours the teacher took Sue and two
+of her peers and began to throw a ball around in a simple game of catch.
+Sue was valued and redirected from her self-stimulation. This was Gentle
+Teaching, although at the time the teacher did not recognize it as such.
+It was a preventive approach rather than a reactionary one.
 
 There is a danger that Gentle Teaching may be seen only as a response to
 inappropriate behaviour if it is viewed narrowly as a behaviour modifcation

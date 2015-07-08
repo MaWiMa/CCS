@@ -29,7 +29,7 @@ Each parent must decide whether or not to engage in the struggle for
 integration. The number of people making that choice is growing as
 parents tell their succees stories:
 
-[quote, Steinbach, 1991. see Chapter 6]
+[quote, Steinbach, 1991]
 ____
 For years I watched Mandy stand alone on the front lawn as all of the neighbourhood children rushed by
 her. I remember thinking, "`Please, just one person stop and talk toher, just one of you ask her to play too... !`"
@@ -40,3 +40,9 @@ home to call on her to come out to play, her fiiends who invite her to parties a
 to see her at Brownies, the Mall, gymnastics, figure skating, the ball diamonds, and the hockey rinks. These are the kids
 who can't wait to introduce me to their parents as "`Mandy's mom. Mandy, she's in our class`"
 ____
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 6,(see Chapter 6)>>
+endif::sep-pages[]

@@ -14,8 +14,9 @@ districts 28 and 29, and M&R teachers feel that very little out-of-class
 instruction is required. Most of them do very little of it, only twenty
 to thirty minutes a day, three or four days a week, according to the time-use
 survey 
+//page 149 is page 145 in the original book
 ifdef::sep-pages[]
-link:/CCS/en/EN-Changing_Canadian_Schools-145{outfilesuffix}[(see page 145)]
+link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[(see page 149)]
 endif::sep-pages[]
 ifndef::sep-pages[]
 <<Time-Use Survey A1,(see Time-Use Survey A1: Major Activities of Methods and Resource Teachers)>>

@@ -34,7 +34,7 @@ ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-154{outfilesuffix}[(see chapter 12)]
 endif::sep-pages[]
 ifndef::sep-pages[]
-<<chapter 12,(see chapter 12)>>
+<<Chapter 12,(see Chapter 12)>>
 endif::sep-pages[]
 or more informal approaches was mentioned by several teachers.
 In one particular small school, the M&R teacher suggested that all seven

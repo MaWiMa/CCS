@@ -13,8 +13,12 @@ In 1986 and 1988, a series of regional workshops on integration were sponsored
 by the New Brunswick Department of Education. The series consisted of three
 workshops in 1986, attended by 104 classroom teachers, methods and resource
 teachers
-//link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)]
-(see Chapter 8),
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 8,(see Chapter 8)>>
+endif::sep-pages[]
 and school and district administrators; and four workshops in 1988 with 170
 educators in attendance. The main purposes of these workshops were: 1) to
 provide training to teachers; 2)to share experiences; and 3) to problem-solve.

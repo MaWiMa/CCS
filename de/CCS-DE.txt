@@ -1,0 +1,40 @@
+// common-part begins
+:ext-relative: {outfilesuffix} 
+:nofooter:
+:doctype: book 
+:front-cover-image: image:DE-CCS-Cover.png[] 
+:doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. 
+:authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. 
+:author_01: Porter, Gordon L., Ed. 
+:author_02: Richler, Diane, Ed. 
+:author_03: Rioux, Marcia H. 
+:author_04: McCallum, S. Dulcie 
+:author_05: Jory, David 
+:author_06: Marcaccio, Marcia 
+:author_07: Perner, Darlene E. 
+:author_08: Murray, Margaret 
+:author_09: Collicott, Jean 
+:author_10: Stone, Julie; Campbell, Charlotte 
+:author_11: Kelly, Brian; den Otter, Jeff 
+:author_12: Panitch, Melanie 
+:subject: Inclusion in Canada until 1991 
+:keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools 
+:copyright: CC-BY-SA 4.0 
+:revdate: 2015-07-08
+:revnumber:  
+:email: Norbert.Reschke@gMail.com 
+:toclevels: 5 
+// common-part ends 
+// html-part begins
+:lang: de
+:toc: left 
+ 
+== DOCUMENT RESUME 
+include::{includedir}/CCSdocres.txt[] 
+ 
+include::de/DE-Changing_Canadian_Schools-001.txt[] 
+ 
+[userinput0-l]#link:/CCS/index{ext-relative}[Home]# 
+[userinput0-r]#https://github.com/MaWiMa/CCS/commit/[]# 
+// html-part ends
+ 

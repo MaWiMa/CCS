@@ -17,8 +17,13 @@ to present the material according to their own plan, although there had
 to be a common outline to assure consistency across the schools.
 
 . Methods and resource teachers
-//link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)],
-(see Chapter 8),
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 8,(see Chapter 8)>>
+endif::sep-pages[]
+,
 principals, and vice-principals received training in the fundamentals of
 multi-level instruction so they could act as support personnel.
 

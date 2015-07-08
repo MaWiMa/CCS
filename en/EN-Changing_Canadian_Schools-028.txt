@@ -23,7 +23,7 @@ be friends and the ability to communicate with them. It has taken a
 number of years for educators to understand the importance of this.
 ____
 
-[quote, Jory, 1989. see Chapter 5]
+[quote, Jory, 1989]
 ____
 The only time in my son's life that he was segregated was in our school
 system. It is not the only time he has learned; he has learned much as a
@@ -34,3 +34,9 @@ that in an environment where we believe that [all] people should be treated
 equally... there is no place in our school system [for the] kind of
 segregation... being promoted through the Cascade model.
 ____
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 5,(see Chapter 5)>>
+endif::sep-pages[]

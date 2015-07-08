@@ -11,8 +11,13 @@ sometimes difficult for teachers to accept.
 
 One of the most useful strategies for the classroom teacher is to design
 lessons which permit multi-level participation
-//link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[(see Chapter 11)].
-(see Chapter 11).
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[(see Chapter 11)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Chapter 11,(see Chapter 11)>>
+endif::sep-pages[]
+.
 This means, for example, that while some students are reading a novel,
 the child with a visual impairment is listening to a taped version of the
 novel, while other students with lower reading vocabularies have access
@@ -24,10 +29,16 @@ Multi-level instruction promotes the use of questions designed to address
 all of Bloom's Taxonomy (Bloom,1969) -- levels of cognitive difficulty
 developed by Benjamin Bloom, a psychologist and educational theorist at
 the University of Chicago
-//link:/CCS/en/EN-Changing_Canadian_Schools-198{outfilesuffix}[(see page 197)].
-(see Blooms's Taxonomy).
+//page 198 is page 197 in the original book
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-198{outfilesuffix}[(see page 198)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<BloomPage,(see Bloom's Taxonomy)>>
+endif::sep-pages[]
+.
 Therefore questions will reach children at different levels of understanding.
-Similarly, many learning tools, including computers, ca1culators and
+Similarly, many learning tools, including computers, calculators and
 recorders, are encouraged and accepted so that all children can be
 involved.
 

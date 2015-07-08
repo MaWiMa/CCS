@@ -110,7 +110,7 @@ f.write(":revdate: "+Date.today.to_s+"\n")
 #f.write(":revnumber:"+git.log(1).path("CCS/"+i.downcase+"/CCS-"+i+".html").to_s+"["+git.log(1).path("CCS"+i.downcase+"/CCS-"+i+"html").to_s[0..7]+"] \n")
 f.write(":revnumber: "+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+" \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
-f.write(":pagenums: \n")
+#f.write(":pagenums: \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
 f.close
@@ -192,7 +192,7 @@ puts "made  : .. #{new}"
 Asciidoctor.render_file new,
 :base_dir => '.',
 :to_dir => 'CCS/'+flip.lang.downcase,
-:safe => 'unsafe',
+:safe => 'safe',
 :attributes => 'sep-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
  end
 ###
@@ -201,13 +201,18 @@ if i == "EN"
  f.write("// html-part begins\n")
 #f.write(":last-update-label!: \n")
  f.write(":lang: "+i.downcase+"\n")
+f.write(":toc: left \n")
+#f.write(":toc: macro \n")
 # f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
-f.write("Changes in this Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
 #f.write(":nofooter: \n")
 
- f.write(" \n")
- f.write(":toc: \n")
 
+
+# f.write(" \n")
+#f.write("toc::[] \n")
+#f.write("link:/CCS/index{ext-relative}[Home] \n")
+ f.write(" \n")
+ 
   a = 1
   b = 329
 
@@ -222,15 +227,51 @@ f.write("Changes in this Version: https://github.com/MaWiMa/CCS/commit/"+git.log
  f.write " \n"
  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
  end
+ f.write " \n"
+ f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
+ f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
 
  f.write("// html-part ends\n")
- f.write " \n"
+ f.write(" \n")
  f.close
+###
+elsif i == "DE"
+ f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
+ f.write"// html-part begins\n"
+ f.write":lang: "+i.downcase+"\n"
+ f.write":toc: left \n"
+ f.write" \n"
+ 
+  a = 1
+ # b = 329
+
+ for m in a..b
+  if m == 1
+   sample_one(f,i)
+  end
+   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
+   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
+   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
+
+ f.write " \n"
+ f.write "include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n"
+ end
+ 
+ f.write " \n"
+ f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
+ f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
+
+
+ f.write "// html-part ends\n"
+ f.write " \n" 
+ f.close
+###
+
 
 Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/'+i.downcase,
-:safe => 'unsafe',
+:safe => 'safe',
 :attributes => 'html-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
 #:footer => 'false'
 end
@@ -238,15 +279,14 @@ end
 when "pdf"
 f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
 f.write("// pdf-part begins\n")
-f.write("//:toc: \n")
+f.write(":pagenums: \n")
+f.write(":toc: macro \n")
+f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+f.write("\n")
+f.write("toc::[] \n")
 #f.write(":sectlinks: \n")
 #f.write(":idprefix: _ \n")
 f.write("\n")
-f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
-f.write("\n")
-f.write("<<< \n")
-f.write("\n")
-
 
   a = 1
   b = 329
@@ -276,7 +316,7 @@ Asciidoctor.render_file f,
 :to_dir => 'CCS/inclusion',
 :backend => 'pdf',
 :attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
-:safe => 'unsafe'
+:safe => 'safe'
 
 when "epub"
 =begin
@@ -311,7 +351,7 @@ Asciidoctor.render_file f,
 :to_dir => 'CCS/inclusion',
 :backend => 'epub3',
 :attributes => 'pdf-pages imagesdir=CCS/images includedir=included',
-:safe => 'unsafe'
+:safe => 'safe'
 =end
  puts "I can't do the #{o}-format now, look at https://github.com/MaWiMa/CCS for more info!"
  exit
