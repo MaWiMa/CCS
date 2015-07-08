@@ -34,7 +34,7 @@ Kinsmen Building, York University, +
 M3J 1P3 +
 (416) 661-9611 +
   
-[cols="1,1,"]
+[cols="1,2"]
 |===
 |Institute Director:|Marcia H. Rioux
 |Editors:|Gordon L. Porter and Diane Richler

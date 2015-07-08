@@ -1,6 +1,6 @@
 == Technical Terms
 
-[cols="1,1", options "header"]
+[cols="1,2", options "header"]
 |===
 |EN | DE
 
@@ -22,7 +22,7 @@
 
 |*mental disorder*							| psychische Störung
 |*mental therapy*							| Verhaltenstherapie
-|*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in incluiven Anforderungen
+|*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*principal*								| Schulleiterin/Schulleiter
 |*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
@@ -32,7 +32,7 @@
 |*self-determination*						| Selbstbestimmung
 |*school board*								| Schulamt, Schulausschuss
 |*remedial education*                       | Remedialer Unterricht
-|*skills*									| Fertigkeiten /CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
+|*skills*									| Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
 |*special education*						| Förderpädagogik
 |*special education resource teacher*		| Förderschullehrer/Förderpädagoge

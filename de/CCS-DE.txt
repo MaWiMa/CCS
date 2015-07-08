@@ -5,36 +5,173 @@
 :front-cover-image: image:DE-CCS-Cover.png[] 
 :doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. 
 :authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. 
-:author_01: Porter, Gordon L., Ed. 
-:author_02: Richler, Diane, Ed. 
-:author_03: Rioux, Marcia H. 
-:author_04: McCallum, S. Dulcie 
-:author_05: Jory, David 
+:author_01: Campbell, Charlotte 
+:author_02: Collicott, Jean 
+:author_03: den Otter, Jeff 
+:author_04: Jory, David 
+:author_05: Kelly, Brian 
 :author_06: Marcaccio, Marcia 
-:author_07: Perner, Darlene E. 
+:author_07: McCallum, S. Dulcie 
 :author_08: Murray, Margaret 
-:author_09: Collicott, Jean 
-:author_10: Stone, Julie; Campbell, Charlotte 
-:author_11: Kelly, Brian; den Otter, Jeff 
-:author_12: Panitch, Melanie 
+:author_09: Panitch, Melanie 
+:author_10: Perner, Darlene E. 
+:author_11: Porter, Gordon L., Ed. 
+:author_12: Richler, Diane, Ed. 
+:author_13: Rioux, Marcia H. 
+:author_14: Steinbach, Alene 
+:author_15: Stone, Julie 
+:author_16: Wilson, Mary 
 :subject: Inclusion in Canada until 1991 
 :keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools 
 :copyright: CC-BY-SA 4.0 
 :revdate: 2015-07-08
-:revnumber:  
+:revnumber: 6e83ef42 
 :email: Norbert.Reschke@gMail.com 
 :toclevels: 5 
 // common-part ends 
-// html-part begins
-:lang: de
-:toc: left 
- 
+// pdf-part begins
+:pagenums: 
+:toc: macro 
+Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/6e83ef42b9840a29c1078c6fae4fb23abb8c2658[6e83ef42] 
+
+toc::[] 
+
+== Authors 
+{author_01}
+
+{author_02}
+
+{author_03}
+
+{author_04}
+
+{author_05}
+
+{author_06}
+
+{author_07}
+
+{author_08}
+
+{author_09}
+
+{author_10}
+
+{author_11}
+
+{author_12}
+
+{author_13}
+
+{author_14}
+
+{author_15}
+
+{author_16}
+
+
 == DOCUMENT RESUME 
 include::{includedir}/CCSdocres.txt[] 
- 
 include::de/DE-Changing_Canadian_Schools-001.txt[] 
- 
-[userinput0-l]#link:/CCS/index{ext-relative}[Home]# 
-[userinput0-r]#https://github.com/MaWiMa/CCS/commit/[]# 
-// html-part ends
- 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-003.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-004.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-005.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-006.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-007.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-010.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-011.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-012.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-013.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-014.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-015.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-016.txt[] 
+
+<<< 
+include::de/DE-Changing_Canadian_Schools-017.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-018.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-019.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-020.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-021.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-022.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-023.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-024.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-025.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-026.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-027.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-028.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-029.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-030.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-031.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-032.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-033.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-034.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-035.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-036.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-037.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-038.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-039.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-040.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-041.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-042.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-043.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-044.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-045.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-046.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-047.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-048.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-049.txt[] 
+
+include::de/DE-Changing_Canadian_Schools-050.txt[] 
+
+// pdf-part ends

@@ -4,7 +4,7 @@ require_relative 'flipPages'
 #require 'fileutils'
 require 'asciidoctor'
 require 'asciidoctor-pdf'
-#require 'asciidoctor-epub3'
+require 'asciidoctor-epub3'
 require 'git'
 
 
@@ -86,21 +86,26 @@ f.write("// common-part begins\n")
 f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":nofooter:\n")
 f.write(":doctype: book \n")
-f.write(":front-cover-image: image:"+i+"-CCS-Cover.png[] \n")
+f.write(":front-cover-image: image:"+i+"-CCS-Cover.svg[] \n")
 f.write(":doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. \n")
 f.write(":authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. \n")
-f.write(":author_01: Porter, Gordon L., Ed. \n")
-f.write(":author_02: Richler, Diane, Ed. \n")
-f.write(":author_03: Rioux, Marcia H. \n")
-f.write(":author_04: McCallum, S. Dulcie \n" )
-f.write(":author_05: Jory, David \n" )
+f.write(":author_01: Campbell, Charlotte \n" )
+f.write(":author_02: Collicott, Jean \n" )
+f.write(":author_03: den Otter, Jeff \n" )
+f.write(":author_04: Jory, David \n" )
+f.write(":author_05: Kelly, Brian \n" )
 f.write(":author_06: Marcaccio, Marcia \n" )
-f.write(":author_07: Perner, Darlene E. \n" )
+f.write(":author_07: McCallum, S. Dulcie \n" )
 f.write(":author_08: Murray, Margaret \n" )
-f.write(":author_09: Collicott, Jean \n" )
-f.write(":author_10: Stone, Julie; Campbell, Charlotte \n" )
-f.write(":author_11: Kelly, Brian; den Otter, Jeff \n" )
-f.write(":author_12: Panitch, Melanie \n" )
+f.write(":author_09: Panitch, Melanie \n" )
+f.write(":author_10: Perner, Darlene E. \n" )
+f.write(":author_11: Porter, Gordon L., Ed. \n")
+f.write(":author_12: Richler, Diane, Ed. \n")
+f.write(":author_13: Rioux, Marcia H. \n")
+f.write(":author_14: Steinbach, Alene \n" )
+f.write(":author_15: Stone, Julie \n" )
+f.write(":author_16: Wilson, Mary \n" )
+
 
 f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
@@ -201,16 +206,11 @@ if i == "EN"
  f.write("// html-part begins\n")
 #f.write(":last-update-label!: \n")
  f.write(":lang: "+i.downcase+"\n")
-f.write(":toc: left \n")
-#f.write(":toc: macro \n")
+ f.write(":toc: left \n")
+# f.write(":toc: macro \n")
 # f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
-#f.write(":nofooter: \n")
-
-
-
-# f.write(" \n")
-#f.write("toc::[] \n")
-#f.write("link:/CCS/index{ext-relative}[Home] \n")
+# f.write(":nofooter: \n")
+# f.write("toc::[] \n")
  f.write(" \n")
  
   a = 1
@@ -287,9 +287,16 @@ f.write("toc::[] \n")
 #f.write(":sectlinks: \n")
 #f.write(":idprefix: _ \n")
 f.write("\n")
+f.write("== Authors \n")
+arr=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+arr.each { |m| f.write("{author_"+"%02d" %m.to_s+"}\n\n") }
+f.write("\n")
 
-  a = 1
-  b = 329
+  
+if i=="EN" 
+a = 1 
+b = 329
+end
 
  for m in a..b
   if m == 1
@@ -318,9 +325,10 @@ Asciidoctor.render_file f,
 :attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
 :safe => 'safe'
 
+
 when "epub"
 =begin
-f = File.open("_tmp/CCS-"+i+".txt", "a")
+f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
 f.write("// epub-part begins\n")
 f.write(":toc: \n")
 f.write("Changes in Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
@@ -353,8 +361,8 @@ Asciidoctor.render_file f,
 :attributes => 'pdf-pages imagesdir=CCS/images includedir=included',
 :safe => 'safe'
 =end
- puts "I can't do the #{o}-format now, look at https://github.com/MaWiMa/CCS for more info!"
- exit
+puts "I can't do the #{o}-format now, look at https://github.com/MaWiMa/CCS for more info!"
+exit
 
  else
  puts "I can't do this format -> #{o} (now)!"

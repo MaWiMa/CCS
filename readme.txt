@@ -146,3 +146,8 @@ image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -
 
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*
+
+2015-07-08
+enable compression in converter.rb|asciidoctor-pdf alpha8
+compress: true,
+optimize_objects: true,
