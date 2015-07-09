@@ -2,9 +2,7 @@
 
 === homepage for webusers 
 
-[cols="3,1"]
-|===
-|You find the transcript as separate web-pages here:
+You find the transcript as separate web-pages here:
 link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate-Web-Pages]
 
 If you prefer the transcript on one page, take a look here:
@@ -17,10 +15,10 @@ The transcript in EPUB-format will be available here:
 link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
 [eBook Layout]
 
-//without the leading a you get no image
-a|image::EN-CCS-Cover.svg[Cover,scalewidth=25%,link=/CCS/en/CCS-EN.html]
+//image::EN-CCS-Cover.svg[Cover,width="50%",align="center",link=/CCS/en/CCS-EN.html]
+image::EN-CCS-Cover.svg[Cover,align="center",link=/CCS/en/CCS-EN.html]
 
-|Die Übersetzung, in Form einzelner Seiten, finden Sie hier:
+Die Übersetzung, in Form einzelner Seiten, finden Sie hier:
 link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[Einzelne-Internet-Seiten]
 
 Die Übersetzung auf einer Seite liegt (soweit vorhanden) hier:
@@ -32,10 +30,8 @@ link:/CCS/inclusion/CCS-DE.pdf[Drucksatz]
 Die Übersetzung im EPUB-Format wird später hier zu finden sein:
 link:/CCS/inclusion/CCS-DE.epub[eBuchsatz]
 
-//without the leading a you get no image
-a|image::DE-CCS-Cover.svg[Cover,scalewidth=25%,link=/CCS/de/CCS-DE.html]
+image::DE-CCS-Cover.svg[Cover,align="center",link=/CCS/de/CCS-DE.html]
 
-|===
 
 You may also like to know how far the transcription or the translation
 is done. In this case use the link:/CCS/CCSsta{ext-relative}[Status] link. +
@@ -59,4 +55,3 @@ https://mawima.github.io/CCS/[website] you are reading now.
 |Fresh | Up to Date Information about Inclusion is here http://irisinstitute.ca/[IRIS]
 |Ask   | For further information about this website write to {email}
 |===
-

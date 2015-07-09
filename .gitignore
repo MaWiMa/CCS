@@ -1,3 +1,4 @@
 *~
-CCS/**/*.html
+*.html
+#CCS/**/*.html
 _tmp
