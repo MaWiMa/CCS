@@ -323,6 +323,7 @@ Asciidoctor.render_file f,
 :to_dir => 'CCS/inclusion',
 :backend => 'pdf',
 :attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
+#:attributes => 'pdf-pages  imagesdir=CCS/images includedir=included',
 :safe => 'safe'
 
 

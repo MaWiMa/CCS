@@ -1,40 +1,42 @@
 font:
   catalog:
-    NotoSerif:
+    Noto Serif:
       normal: notoserif-regular-latin.ttf
       bold: notoserif-bold-latin.ttf
       italic: notoserif-italic-latin.ttf
       bold_italic: notoserif-bolditalic-latin.ttf
-    # NOTE currently, callout numbers don't work with LiberationMono
-    #LiberationMono:
-    #  normal: liberationmono-regular-latin.ttf
-    #  bold: liberationmono-bold-latin.ttf
-    #  italic: liberationmono-italic-latin.ttf
-    #  bold_italic: liberationmono-bolditalic-latin.ttf
-    Mplus1mn:
+    M+ 1mn:
       normal: mplus1mn-regular-ascii-conums.ttf
       bold: mplus1mn-bold-ascii.ttf
       italic: mplus1mn-italic-ascii.ttf
       bold_italic: mplus1mn-bolditalic-ascii.ttf
-    #Mplus1pMultilingual:
-    #  normal: mplus1p-regular-multilingual.ttf
-    #FontAwesome:
-    #  normal: fontawesome-regular.ttf
-  # FIXME using fallbacks breaks use of custom font styles (fixed in Prawn 1.2.1!)
-  #fallbacks:
-  #  - Mplus1pMultilingual
-brand:
-  primary_color: 428bca
+    M+ 1p Fallback:
+      normal: mplus1p-regular-multilingual.ttf
+      bold: mplus1p-regular-multilingual.ttf
+      italic: mplus1p-regular-multilingual.ttf
+      bold_italic: mplus1p-regular-multilingual.ttf
+  fallbacks:
+    # NOTE M+ 1p doesn't support all CJK characters, but it at least has some coverage
+    # NOTE M+ 1p provides the arrows for ->, <-, => and <=
+    - M+ 1p Fallback
 page:
-#  background_color: ffffff
+  background_color: ffffff
   layout: portrait
-  # multiply inches by 72 to get pt values
-  # margin: [top, right, bottom, left]
-  margin: [0.8 * 72, 1.0 * 72, 0.8 * 72, 1.8 * 72]
+  # NOTE multiply inches by 72 to get pt values
+  #margin: [0.5 * 72, 0.67 * 72, 0.67 * 72, 0.67 * 72]
+  #margin: [top, right, bottom, left]
+  #margin: [0.8in, 1.0in, 1.0in, 1.6in]
+  # size can be a named size (e.g., A4) or custom dimensions (e.g., [8.25in, 11.69in])
   size: A4
 base:
-  font_color: 0f0f0f
-  font_family: NotoSerif
+  # color as hex string (leading # is optional)
+  font_color: 000000
+  # color as RGB array
+  #font_color: [51, 51, 51]
+  # color as CMYK array (approximated)
+  #font_color: [0, 0, 0, 0.92]
+  #font_color: [0, 0, 0, 92%]
+  font_family: Noto Serif
   # choose one of these font_size/line_height_length combinations
   #font_size: 14
   #line_height_length: 20
@@ -42,58 +44,87 @@ base:
   #line_height_length: 18
   #font_size: 11.2
   #line_height_length: 16
-  font_size: 11.2
-  line_height_length: 16
+  #font_size: 10.5
+  #line_height_length: 15
+  # correct line height for Noto Serif metrics
+  #line_height_length: 12
+  font_size: 11.25
+  line_height_length: 18
   line_height: $base_line_height_length / $base_font_size
   font_size_large: round($base_font_size * 1.25)
   font_size_small: round($base_font_size * 0.85)
-  font_size_tiny: round($base_font_size * 0.7)
+  font_size_min: $base_font_size * 0.75
   font_style: normal
   align: left
-  border_radius: 4
-  border_width: 0.5
-  border_color: eeeeee
+ # border_radius: 4
+ # border_width: 0.5
+ # border_color: eeeeee
 # FIXME vertical_rhythm is weird; we should think in terms of ems
 #vertical_rhythm: $base_line_height_length * 2 / 3
-# correct line height for NotoSerif metrics
-vertical_rhythm: $base_line_height_length
-horizontal_rhythm: $base_line_height_length
-link_font_color: $brand_primary_color
+# correct line height for Noto Serif metrics
+# vertical_rhythm: $base_line_height_length
+# horizontal_rhythm: $base_line_height_length
+link:
+  font_color: 428bca
+# literal is currently used for inline monospaced in prose and table cells
+literal:
+  font_color: b12146
+  font_family: M+ 1mn
 heading:
+  #font_color: 181818
   font_color: $base_font_color
   font_family: $base_font_family
-  # h1 is used for document title
-  font_size_h1: floor($base_font_size * 2.1)
-  # h2 is used for chapter title
-  font_size_h2: floor($base_font_size * 1.9)
-  font_size_h3: round($base_font_size * 1.6)
-  font_size_h4: $base_font_size_large
-  font_size_h5: $base_font_size
-  font_size_h6: $base_font_size_small
+  # h1 is used for part titles
+  h1_font_size: floor($base_font_size * 2.6)
+  # h2 is used for chapter titles
+  h2_font_size: floor($base_font_size * 2.15)
+  h3_font_size: round($base_font_size * 1.7)
+  h4_font_size: $base_font_size_large
+  h5_font_size: $base_font_size
+  h6_font_size: $base_font_size_small
   font_style: bold
   #line_height: 1.4
-  # correct line height for NotoSerif metrics
-  line_height: 1.0
-  margin_top: $vertical_rhythm * 0.2
-  margin_bottom: $vertical_rhythm * 0.8
+  # correct line height for Noto Serif metrics
+  line_height: 1.2
+ # margin_top: $vertical_rhythm * 0.2
+ # margin_bottom: $vertical_rhythm * 0.8
+title_page:
+  align: right
+  title_top: 55%
+  title_font_size: $heading_h1_font_size
+  title_font_color: 999999
+  title_line_height: 0.9
+  subtitle_font_size: $heading_h3_font_size
+  subtitle_font_style: bold_italic
+  subtitle_line_height: 1
+  authors_margin_top: $base_font_size * 1.25
+  authors_font_size: $base_font_size_large
+  authors_font_color: 181818
+  revision_margin_top: $base_font_size * 1.25
 #prose:
 #  margin_top: 0
 #  margin_bottom: $vertical_rhythm 
 block:
   #margin_top: 0
   #margin_bottom: $vertical_rhythm
-  padding: [$vertical_rhythm, $vertical_rhythm * 1.25, $vertical_rhythm, $vertical_rhythm * 1.25]
+#  padding: [$vertical_rhythm, $vertical_rhythm * 1.25, $vertical_rhythm, $vertical_rhythm * 1.25]
 # code is used for source blocks (perhaps change to source or listing?)
+caption:
+  font_style: italic
+  align: left
+  # FIXME perhaps set line_height instead of / in addition to margins?
+#  margin_inside: $vertical_rhythm * 0.25
+  margin_outside: 0
 code:
   font_color: $base_font_color
-  #font_family: LiberationMono
+  #font_family: Liberation Mono
   #font_size: floor($base_font_size * 0.9)
   #font_size: 10
   #padding: [9.5, 9.5, 9.5, 9.5]
   # LiberationMono carries extra gap below line
   #padding: [10, 10, 7.5, 10]
   #line_height: 1.45
-  font_family: Mplus1mn
+  font_family: $literal_font_family
   font_size: ceil($base_font_size)
   #padding: [$base_font_size, $code_font_size, $base_font_size, $code_font_size]
   padding: $code_font_size
@@ -102,28 +133,23 @@ code:
   border_color: cccccc
   border_radius: $base_border_radius
   border_width: 0.75
-# literal is currently used for inline monospaced in prose and table cells
-literal:
-  #font_color: c7254e
-  font_color: b12146
-  font_family: $code_font_family
 blockquote:
-  font_style: italic
   font_color: $base_font_color
-  font_size: $base_font_size_small
+  font_size: $base_font_size
+  font_style: italic
   border_width: 0.1
-  border_color: $blockquote_font_color
+  border_color: 008800
   cite_font_size: $base_font_size
-  cite_font_color: $blockquote_font_color
-
+  cite_font_color: 008800
+  cite_font_style: bold_italic
 sidebar:
-  border_color: ffffff
+  border_color: $page_background_color
   border_radius: $base_border_radius
   border_width: $base_border_width
   background_color: eeeeee
   title_font_color: $heading_font_color
   title_font_family: $heading_font_family
-  title_font_size: $heading_font_size_h4
+  title_font_size: $heading_h4_font_size
   title_font_style: $heading_font_style
   title_align: center
 example:
@@ -134,19 +160,13 @@ example:
 admonition:
   border_color: $base_border_color
   border_width: $base_border_width
-caption:
-  font_style: italic
-  align: left
-  # FIXME perhaps set line_height instead of / in addition to margins?
-  margin_inside: $vertical_rhythm * 0.25
-  margin_outside: 0
 conum:
   font_family: M+ 1mn
   font_color: $literal_font_color
   font_size: $base_font_size
   line_height: 4 / 3
 image:
-  align_default: center
+  align_default: left
   scaled_width_default: 0.5
 lead:
   # QUESTION what about $base_font_size_large?
@@ -163,31 +183,33 @@ abstract:
   font_style: italic
 thematic_break:
   border_color: $base_border_color
-  margin_top: $vertical_rhythm * 0.5
-  margin_bottom: $vertical_rhythm * 1.5
+#  margin_top: $vertical_rhythm * 0.5
+#  margin_bottom: $vertical_rhythm * 1.5
 description_list:
   term_font_style: italic
   description_indent: $horizontal_rhythm * 1.25
 outline_list:
-  indent: $horizontal_rhythm * 1.25
+  indent: $horizontal_rhythm * 1.5
+  # NOTE item_spacing applies to list items that do not have complex content
+  item_spacing: $vertical_rhythm / 2
+  #marker_font_color: 404040
 table:
-  background_color: transparent
-  background_color_alt: f9f9f9
+  background_color: $page_background_color
+  #head_background_color: <hex value>
+  #head_font_color: $base_font_color
+  even_row_background_color: f9f9f9
+  #odd_row_background_color: <hex value>
+  foot_background_color: f0f0f0
   border_color: dddddd
   border_width: $base_border_width
   # HACK accounting for line-height
   cell_padding: [3, 3, 6, 3]
-#footer:
-#  font_size: $base_font_size_small
-#  font_color: $base_font_color
-#  border_color: dddddd
 toc:
-#  indent: $horizontal_rhythm 
-  indent: $horizontal_rhythm * 0.6
+#  indent: $horizontal_rhythm
   dot_leader_color: dddddd
-  dot_leader_content: ". "
+  #dot_leader_content: ". "
   line_height: 1.4
-  font_size: $base_font_size_tiny
+# NOTE In addition to footer, header is also supported
 footer:
   font_size: $base_font_size_small
   font_color: $base_font_color
@@ -195,7 +217,7 @@ footer:
   border_color: dddddd
   border_width: 0.25
   height: $base_line_height_length * 2.5
-  padding: [$base_line_height_length / 2, 1, 0, 1]
+#  padding: [$base_line_height_length / 2, 1, 0, 1]
   valign: top
   #image_valign: <alignment> or <number>
   # additional attributes for content:

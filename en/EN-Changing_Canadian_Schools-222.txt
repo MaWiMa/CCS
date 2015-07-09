@@ -11,7 +11,8 @@ The outcome is enhanced, altered, and different from the original solutions
 that any team memeber would produce independently`" (Nevin et al., 1990).
 
 ==== FEATURES OF THE COLLABORATIVE MODEL
-*_Collaborative Partnership_* +
+
+===== Collaborative Partnership
 There are several important features of problem solving in a collaborative
 environment. The first is that team members work together to solve problems
 in a partnership that emphasizes trust, openness, and cooperation. Being

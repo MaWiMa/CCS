@@ -1,27 +1,26 @@
 //3. Request the assistance of specialists and agencies as required. <-- page 154
 
-[upperalpha, start=3]
-. *_Program Development_*
+===== C. Program Development
 [arabic]
-.. Assess program needs of students referred.
-.. Gather and consolidate background information on student achievement
+. Assess program needs of students referred.
+. Gather and consolidate background information on student achievement
 and behaviour and determine where further diagnostic assessment is required.
-.. Administer and interpret academic tests needed to establish appropriate
+. Administer and interpret academic tests needed to establish appropriate
 instructional progams.
-.. Assist teachers in the inclusion of assessment recommendations in IEPs
+. Assist teachers in the inclusion of assessment recommendations in IEPs
 or adjusted program.
-.. Assist teachers in adapting regular programs and instructional procedures
+. Assist teachers in adapting regular programs and instructional procedures
 to meet student needs.
-.. Assist teachers in utilizing strategies that promote the inclusion of
+. Assist teachers in utilizing strategies that promote the inclusion of
 all students (i.e., multi-level instruction, cooperative learning).
-.. Assist teachers in documenting adjustments in programs for students with
+. Assist teachers in documenting adjustments in programs for students with
 special needs.
-.. Assist teachers/guidance counsellors in establishing and implementing
+. Assist teachers/guidance counsellors in establishing and implementing
 behavioural progams in cooperation with the school principal and school
 psychometrist.
-.. Provide assistance in the classroom as required when implementing new
+. Provide assistance in the classroom as required when implementing new
 instructional strategies.
-.. Provide individual and small-group instruction on an ongoing basis for
+. Provide individual and small-group instruction on an ongoing basis for
 compelling reasons necessary to meet student's instructional needs.
 
 //. *_Monitoring:_*

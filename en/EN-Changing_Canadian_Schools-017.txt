@@ -1,4 +1,1 @@
-= Section One
-
-== Philosophical, Legal and Historical Overview
-
+= _Section One_ *Philosophical, Legal and Historical Overview*

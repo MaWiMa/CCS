@@ -1,4 +1,2 @@
-= Section Two
-
-== Parent and Self-Advocacy
+= _Section Two_ *Parent and Self-Advocacy*
 

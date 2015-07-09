@@ -1,3 +1,1 @@
-= Section Three
-
-== Innovations and Practical Applications
+= _Section Three_ *Innovations and Practical Applications*

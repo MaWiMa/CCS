@@ -9,7 +9,14 @@ Twenty-five methods and resource teachers completed a time-use log for two
 consecutive teaching days. They recorded the maior activities they were
 engaged in during fifteen-minute time segments throughout the work day.
 Four major categories of activity emerged: 1) collaborative consultation;
-2) teacher support; 3) instruction; and 4) other (see chart A1).
+2) teacher support; 3) instruction; and 4) other 
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[(see chart A1)]
+endif::sep-pages[]
+ifndef::sep-pages[]
+<<Time-Use Survey A1,(see chart A1)>>
+endif::sep-pages[]
+.
 
 The category that took up the major portion of time -- 32.5 per cent -- was
 collaborative consultation. This involves collaborating with teachers, teacher's
