@@ -7,7 +7,6 @@ require 'asciidoctor-pdf'
 require 'asciidoctor-epub3'
 require 'git'
 
-
 unless ARGV.length > 1 && ARGV.length < 5
  puts "Please enter at least two parameter, first language, second format,"
  puts "the third and fourth parameter are only needed"
@@ -105,8 +104,6 @@ f.write(":author_13: Rioux, Marcia H. \n")
 f.write(":author_14: Steinbach, Alene \n" )
 f.write(":author_15: Stone, Julie \n" )
 f.write(":author_16: Wilson, Mary \n" )
-
-
 f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
 f.write(":copyright: CC-BY-SA 4.0 \n")
@@ -123,7 +120,6 @@ f.close
 # if no pages are choosen, every page is build
 
 format = case o # format
-# html
  when "html"
 
 for m in a..b
@@ -147,8 +143,8 @@ for m in a..b
 
 # backup file
 #FileUtils.ln_s('../CCSdocres.txt', '_tmp/CCSdocres.txt') # this must be done better
-org = flip.lang.downcase+"/"+flip.thisPage+".txt"
-new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
+ org = flip.lang.downcase+"/"+flip.thisPage+".txt"
+ new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
 #puts "got   : .... #{org}"
 
 # make first line of header to get the right extension
@@ -191,15 +187,16 @@ footer = case flip.lang
     f.write "[userinput0-l]#link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[Abschrift des Originals]# \n"
     f.write "[userinput0-r]#Ver: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s+"["+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s[0..5]+"]# \n"
  f.close
- end
-puts "made  : .. #{new}"
+# end
+ puts "made  : .. #{new}"
 
 Asciidoctor.render_file new,
 :base_dir => '.',
 :to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'safe',
 :attributes => 'sep-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
- end
+end
+=begin
 ###
 if i == "EN"
  f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
@@ -266,15 +263,54 @@ elsif i == "DE"
  f.write " \n" 
  f.close
 ###
+end
+=end
+end
+
+puts "I start big page "+i+"!"
+ f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
+ f.write("// html-part begins\n")
+#f.write(":last-update-label!: \n")
+ f.write(":lang: "+i.downcase+"\n")
+ f.write(":toc: left \n")
+# f.write(":toc: macro \n")
+# f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+# f.write(":nofooter: \n")
+# f.write("toc::[] \n")
+ f.write(" \n")
+ 
+  a = 1
+  b = 329
+
+ for m in a..b
+  if m == 1
+   sample_one(f,i)
+  end
+   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
+   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
+   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
+
+ f.write " \n"
+ f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
+ end
+ f.write " \n"
+ f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
+ f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
+
+ f.write("// html-part ends\n")
+ f.write(" \n")
+ f.close
 
 
+puts "I should end big page "+i+"!"
 Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/'+i.downcase,
 :safe => 'safe',
 :attributes => 'html-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
 #:footer => 'false'
-end
+puts "I wrote big page "+i+"!"
+#end
 ###
 when "pdf"
 f = File.open(i.downcase+"/CCS-"+i+".txt", "a")

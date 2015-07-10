@@ -14,7 +14,7 @@ ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-149{outfilesuffix}[(see chart A1)]
 endif::sep-pages[]
 ifndef::sep-pages[]
-<<Time-Use Survey A1,(see chart A1)>>
+<<TUS-A1,(see chart A1)>>
 endif::sep-pages[]
 .
 

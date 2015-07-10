@@ -24,8 +24,8 @@
 :subject: Inclusion in Canada until 1991 
 :keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools 
 :copyright: CC-BY-SA 4.0 
-:revdate: 2015-07-09
-:revnumber: bf784356 
+:revdate: 2015-07-10
+:revnumber: b9028c99 
 :email: Norbert.Reschke@gMail.com 
 :toclevels: 5 
 // common-part ends 
@@ -689,6 +689,6 @@ include::de/DE-Changing_Canadian_Schools-328.txt[]
 include::de/DE-Changing_Canadian_Schools-329.txt[] 
  
 [userinput0-l]#link:/CCS/index{ext-relative}[Home]# 
-[userinput0-r]#https://github.com/MaWiMa/CCS/commit/bf784356f5eab9a5542024604936cedadaa6610a[bf784356]# 
+[userinput0-r]#https://github.com/MaWiMa/CCS/commit/b9028c9942990fbbd09ec796f501f02455505989[b9028c99]# 
 // html-part ends
  
