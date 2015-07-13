@@ -231,7 +231,7 @@ when "pdf"
   arr=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
   arr.each { |m| f.write("{author_"+"%02d" %m.to_s+"}\n\n") }
   
-  f.write("\n")
+  f.write("<<< \n")
 
   
  if i=="EN" 
@@ -240,16 +240,20 @@ when "pdf"
  end
 
  for m in a..b
-  if m == 1
-   sample_one(f,i)
-  end
-  next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
-  next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
-  next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
+#  if m == 1
+#   sample_one(f,i)
+#  end
+
+  next if m == 1 # exclude 001.txt, document resume/abstract 
+  next if m == 2 # exclude 002.txt, cover
+  next if m == 8 # exclude 008.txt, toc part1
+  next if m == 9 # exclude 009.txt, toc part2
+  next if m == 294 # exclude 294.txt, toc of annoted bib
+
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
   f.write("\n")
   # pagebreak for pdfs
-  arr =[1,3,4,5,6,7,11,16,34,77,108,126,148,156,197,218]
+  arr =[3,4,5,6,7,11,16,34,77,108,126,148,156,197,218]
   if arr.include?(m)
    f.write("<<< \n")
   end 
