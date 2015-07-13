@@ -1,32 +1,32 @@
 == Table of Contents (Part2)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
-[cols="2,5,>1"]
+[cols="1,2"]
 |===
-|Abschnitt Drei:|Innovationen und praktische Anwendungen |105
+|Abschnitt Drei:|Innovationen und praktische Anwendungen
 |Kapitel 8:  |link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[Der prozessstrukturierende und ressourcenorientierte Lehrer: +
                                                                            Ein gemeinschaftliches Beratungsmodell +
-                                                                           _Gordon L. Porter_]|107
+                                                                           _Gordon L. Porter_]
 |Kapitel 9:  |link:/CCS/en/EN-Changing_Canadian_Schools-158{outfilesuffix}[Wegweiser: +
                                                                            Die Rolle der Schulverwaltung in der Integration	+
-                                                                           _Darlene E. Perner_]|155
+                                                                           _Darlene E. Perner_]
 |Kapitel 10: |link:/CCS/en/EN-Changing_Canadian_Schools-175{outfilesuffix}[ Die Rolle der Klassenlehrer +
-                                                                           _Margaret Murray_] |173
+                                                                           _Margaret Murray_]
 |Kapitel 11: |link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[Umsetzung einer mehrstufigen Ausbildung: +
                                                                            Strategien für Klassenlehrer +
-                                                                           _Jean Collicott_] |191
+                                                                           _Jean Collicott_]
 |Chapter 12: |link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[Teams zur Lösung von Problemen: +
                                                                            Ein Dreißigminuten-Modell symetrischer Hilfestellung +
-                                                                           _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_] |219
+                                                                           _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_]
 |Chapter 13: |link:/CCS/en/EN-Changing_Canadian_Schools-239{outfilesuffix}[Schüler zu Schüler Ebene: +
                                                                            Der Lehrplan und die Beziehungsentwicklung auf Augenhöhe +
-                                                                           _Julie Stone and Charlotte Campbell_ ]|239
+                                                                           _Julie Stone and Charlotte Campbell_ ]
 |Kapitel 14: |link:/CCS/en/EN-Changing_Canadian_Schools-257{outfilesuffix}[Inakzeptables Verhalten: +
                                                                            Ein Fall von Strategien sozialer Intervention für einen Schüler mit Verhaltensauffälligkeiten +
-                                                                           _Brian Kelly and Jeff den Otter_ ]|257
+                                                                           _Brian Kelly and Jeff den Otter_ ]
 |Kapitel 15: |link:/CCS/en/EN-Changing_Canadian_Schools-280{outfilesuffix}[Auf dem Campus: +
                                                                            Integratives Post-Sekundarschulwesen +
-                                                                           _Melanie Panitch_]|281
-|	         |Der Roeher Institut Informationsdienst +
-           	  Kommentierte Bibliographie über die integrative Erziehung |295
-|            |Redakteure und Anbieter |329
+                                                                           _Melanie Panitch_]
+2+<|Der Roeher Institut Informationsdienst +
+link:/CCS/de/DE-Changing_Canadian_Schools-293{outfilesuffix}[Kommentierte Bibliographie über die integrative Erziehung]
+2+<|link:/CCS/de/DE-Changing_Canadian_Schools-326{outfilesuffix}[Editoren und Autoren]
 |===

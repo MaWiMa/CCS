@@ -1,32 +1,32 @@
 == Table of Contents (Part2)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
-[cols="2,5,>1"]
+[cols="1,2"]
 |===
-|SECTION THREE:|Innovations and Practical Applications |105
+|SECTION THREE:|Innovations and Practical Applications
 |Chapter 8:  |link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[The Methods and Resource Teacher: +
                                                                            A Collaborative Consultant Model +
-                                                                           _Gordon L. Porter_]|107
+                                                                           _Gordon L. Porter_]
 |Chapter 9:  |link:/CCS/en/EN-Changing_Canadian_Schools-158{outfilesuffix}[Leading the Way: +
                                                                            The Role of School Administrators in Integration	+
-                                                                           _Darlene E. Perner_]|155
+                                                                           _Darlene E. Perner_]
 |Chapter 10: |link:/CCS/en/EN-Changing_Canadian_Schools-175{outfilesuffix}[The Role of the classroom Teacher +
-                                                                           _Margaret Murray_] |173
+                                                                           _Margaret Murray_]
 |Chapter 11: |link:/CCS/en/EN-Changing_Canadian_Schools-192{outfilesuffix}[Implementing Multi-Level Instruction: +
                                                                            Strategies for Classroom Teachers +
-                                                                           _Jean Collicott_] |191
+                                                                           _Jean Collicott_]
 |Chapter 12: |link:/CCS/en/EN-Changing_Canadian_Schools-220{outfilesuffix}[Problem Solving Teams: +
                                                                            A Thirty-Minute Peer-Helping Model +
-                                                                           _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_] |219
+                                                                           _Gordon L. Porter, Mary Wilson, Brian Kelly and Jeff den Otter_]
 |Chapter 13: |link:/CCS/en/EN-Changing_Canadian_Schools-239{outfilesuffix}[Student to Student: +
                                                                            Curriculum and the Development of Peer Relationships +
-                                                                           _Julie Stone and Charlotte Campbell_ ]|239
+                                                                           _Julie Stone and Charlotte Campbell_ ]
 |Chapter 14: |link:/CCS/en/EN-Changing_Canadian_Schools-257{outfilesuffix}[Beyond Behaviour: +
                                                                            A Case of Social Intervention Strategies for a Student with Challenging Behaviours +
-                                                                           _Brian Kelly and Jeff den Otter_ ]|257
+                                                                           _Brian Kelly and Jeff den Otter_ ]
 |Chapter 15: |link:/CCS/en/EN-Changing_Canadian_Schools-280{outfilesuffix}[On Campus: +
                                                                            Integrated Post-Secondary Education +
-                                                                           _Melanie Panitch_]|281
-|            |The Roeher Institute Information Services	Annotated +
-              Bibliography on Integrated Education |295
-|            |Editors and Contributors |329
+                                                                           _Melanie Panitch_]
+2+<|The Roeher Institute Information Services +
+link:/CCS/en/EN-Changing_Canadian_Schools-293{outfilesuffix}[Annotated Bibliography on Integrated Education]
+2+<|link:/CCS/en/EN-Changing_Canadian_Schools-326{outfilesuffix}[Editors and Contributors]
 |===

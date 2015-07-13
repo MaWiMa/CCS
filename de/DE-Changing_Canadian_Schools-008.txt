@@ -1,34 +1,29 @@
 === Inhalt (Teil1)
 //http://asciidoctor.org/docs/user-manual/#table-lines-placement-and-size
-[cols="2,5,>1"]
+[cols="3,7"]
 |===
-|Vorwort        ||i
-|Einleitung     ||1
-|Abschnitt Eins:| philosophische, juristische und historische Übersicht |7
+2+<|link:/CCS/de/DE-Changing_Canadian_Schools-010{outfilesuffix}[Vorwort]
+2+<|link:/CCS/de/DE-Changing_Canadian_Schools-012{outfilesuffix}[Einleitung]
+|Abschnitt Eins:| philosophische, juristische und historische Übersicht
 |Kapitel 1:     |link:/CCS/de/DE-Changing_Canadian_Schools-018{outfilesuffix}[Die Praxis des Förderunterrichtes ändern: +
 																			  Recht, Interessenvertretung und Innovation +
-                                                                              _Gordon L. Porter and Diane Richler_]|9
+                                                                              _Gordon L. Porter and Diane Richler_]
 |Kapitel 2:     |link:/CCS/de/DE-Changing_Canadian_Schools-043{outfilesuffix}[Inklusive Bildung als Sozialpolitik +
-                                                                              _Diane Richler_]|35
+                                                                              _Diane Richler_]
 |Kapitel 3:     |link:/CCS/de/DE-Changing_Canadian_Schools-056{outfilesuffix}[Bildung: +
                                                                               Ein System von sozialer Entmachtung +
-                                                                              _Marcia H. Rioux_]|49
+                                                                              _Marcia H. Rioux_]
 |Kapitel 4:     |link:/CCS/de/DE-Changing_Canadian_Schools-067{outfilesuffix}[Zugang zur Gleichstellung in der Bildung: +
                                                                               Die Macht der Eltern +
-                                                                              _S. Dulcie McCaIlum_]|61
-|Abschnitt Zwei:|                                                             Eltern und Selbstbestimmung |73
+                                                                              _S. Dulcie McCaIlum_]
+|Abschnitt Zwei:|                                                             Eltern und Selbstbestimmung
 |Kapitel 5:     |link:/CCS/de/DE-Changing_Canadian_Schools-079{outfilesuffix}[Grundsätze des Wandels: +  
                                                                               Das Bildungssystem aus Sicht der Eltern +
-                                                                              _David Jory_] |75
+                                                                              _David Jory_]
 |Kapitel 6:     |link:/CCS/de/DE-Changing_Canadian_Schools-093{outfilesuffix}[Der Weg in die Inklusion: +
                                                                               Eine Familiengeschichte +
-                                                                              _Alene Steinbeck_] |89
+                                                                              _Alene Steinbeck_]
 |Kapitel 7:     |link:/CCS/de/DE-Changing_Canadian_Schools-105{outfilesuffix}[Der Wille zu lernen: +
                                                                               Die Erfahrungen eines Selbstbestimmten im Bildungssystem +
-                                                                              _Marcia Marcaccio_]|101
+                                                                              _Marcia Marcaccio_]                                                                           
 |===
-
-
-
-
-
