@@ -9,7 +9,8 @@
 |*behavior disorder*						| Verhaltensstörung
 |*beyond behavior*							| Inakzeptables Verhalten
 
-|*challenging behavior*						| Verhaltensauffälligkeiten,
+|*Canadian Association for Community Living*| Kanadische Vereinigung für gemeinschaftliches Leben
+|*challenging behavior*						| Verhaltensauffälligkeiten
 |*citizenship*								| Bürgerrecht
 
 |*eating disorder*							| Essstörung
@@ -21,6 +22,7 @@
 |*individual encouragement*					| individuelle Förderung
 
 |*mental disorder*							| psychische Störung
+|*mental handicap*							| geistige Behinderung
 |*mental therapy*							| Verhaltenstherapie
 |*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]

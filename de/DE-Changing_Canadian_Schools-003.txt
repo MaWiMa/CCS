@@ -1,7 +1,7 @@
 [discrete] 
 = Kanadische Schulen verändern
 [discrete]
-== Betrachtung von Behinderung und Einbeziehung
+== Betrachtungen von Behinderung und Einbeziehung
 
 _herausgegeben von_ +  
 Gordon L.Porter and Diane Richler

@@ -1,21 +1,29 @@
-== Changing Canadian Schools, Schule verändern
+== Kapitel 1
 
-== This work is not done yet
+=== Die Praxis des Förderunterrichtes ändern: Recht, Interessenvertretung und Innovation
+_von Gordon L. Porter and Diane Richler_
 
-You are welcome to work with me. 
+Es steht in einem ironischen Zusammenhang, dass genau die Organisationen,
+die zuerst die Bildung von Kindern mit geistiger Behinderung legitimierten,
+jetzt für die Demontage von Systemen kämpfen, die durchaus ein Produkt
+dieses Erfolges sind.
+Schon zur Zeit, als die _kanadische Vereinigung für gemeinschaftliches Leben_
+(http://www.cacl.ca/[CACL]) eine Arbeitsgruppe einrichtete, die sich damit
+befasste Themen der Interessensvertretungsbewegung von Menschen mit geistiger
+Behinderung zu entdecken, wurde der Integration in der Bildung eine hohe
+Priorität zugedacht.
+Das Ziel der Vereinigung ist die Teilhabe von Menschen mit geistiger Behinderung
+innerhalb ihrer Gemeinschaften zu fördern. Dabei liegt der Fokus auf ihren
+Bürgerrechten (der Macht ihre Rechte auszuüben), ihrer Inklusion (als
+vollwertige Mitglieder ihrer Gemeinschaft), und ihrer Selbstbestimmtheit
+(der Kraft eigene Entscheidungen zu treffen).
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
-
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
-
-
-
-
+Rioux (1988) zeigt auf, in welchem Maße Fachdienste, auf dem Muster
+der sozialen Minderwertigkeit von Menschen mit geistiger Beeinträchtigung
+aufbauen.
+Demzufolge wurde die Art der Pflege und Behandlung, die ihnen zur Verfügung
+steht, genauso wie die Gesetze, die Politik und die Programme, lediglich
+auf der Basis einer Stigmatisierung entwickelt.
+Kriterien typischer Programme schließen Menschen mit geistiger Behinderung
+systematisch aus und rechtfertigen das Bedürfnis nach parallelen und
+separierierenden Systemen.	
