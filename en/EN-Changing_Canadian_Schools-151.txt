@@ -1,7 +1,7 @@
 [#TUS-A4]
 ==== TIME-USE SURVEY A4
 ifdef::pdf-pages[]
-image::CCS151.svg[A4: Teacher Support, align="center", scaledwidth=90%]
+image::CCS151.svg[A4: Teacher Support, align="center", scaledwidth=80%]
 endif::pdf-pages[]
 ifndef::pdf-pages[]
 image::CCS151.svg[A4: Teacher Support, align="center"]

@@ -22,13 +22,12 @@ font:
 page:
   background_color: ffffff
   layout: portrait
-  # NOTE multiply inches by 72 to get pt values
-  #margin: [0.5 * 72, 0.67 * 72, 0.67 * 72, 0.67 * 72]
-  #margin: [top, right, bottom, left]
-  #margin: [0.8in, 1.0in, 1.0in, 1.6in]
+# margin: [top, right, bottom, left]
+  margin: [15mm, 15mm, 20mm, 30mm]
   # size can be a named size (e.g., A4) or custom dimensions (e.g., [8.25in, 11.69in])
   size: A4
 base:
+  background_color: transparent
   # color as hex string (leading # is optional)
   font_color: 000000
   # color as RGB array
@@ -50,44 +49,50 @@ base:
   #line_height_length: 12
   font_size: 11.25
   line_height_length: 18
-  line_height: $base_line_height_length / $base_font_size
+#  line_height: $base_line_height_length / $base_font_size
+  line_height: 1.15
   font_size_large: round($base_font_size * 1.25)
   font_size_small: round($base_font_size * 0.85)
   font_size_min: $base_font_size * 0.75
   font_style: normal
   align: left
- # border_radius: 4
- # border_width: 0.5
- # border_color: eeeeee
+  border_radius: 4
+  border_width: 0.5
+  border_color: eeeeee
 # FIXME vertical_rhythm is weird; we should think in terms of ems
 #vertical_rhythm: $base_line_height_length * 2 / 3
 # correct line height for Noto Serif metrics
-# vertical_rhythm: $base_line_height_length
-# horizontal_rhythm: $base_line_height_length
+vertical_rhythm: $base_line_height_length
+horizontal_rhythm: $base_line_height_length
 link:
-  font_color: 428bca
+  font_color: 114477
 # literal is currently used for inline monospaced in prose and table cells
 literal:
   font_color: b12146
   font_family: M+ 1mn
 heading:
-  #font_color: 181818
-  font_color: $base_font_color
+  font_color: 181818
+  #font_color: $base_font_color
   font_family: $base_font_family
   # h1 is used for part titles
-  h1_font_size: floor($base_font_size * 2.6)
+  h1_font_size: round($base_font_size * 4.9)
+  #h1_font_color: 181818
+#  h1_font_family: M+ 1mn
   # h2 is used for chapter titles
-  h2_font_size: floor($base_font_size * 2.15)
+  h2_font_size: floor($base_font_size * 2.35)
+  #h2_font_color: 181818
+#  h2_font_family: M+ 1mn
   h3_font_size: round($base_font_size * 1.7)
   h4_font_size: $base_font_size_large
   h5_font_size: $base_font_size
+  h5_font_style: bold_italic
   h6_font_size: $base_font_size_small
   font_style: bold
   #line_height: 1.4
   # correct line height for Noto Serif metrics
-  line_height: 1.2
- # margin_top: $vertical_rhythm * 0.2
- # margin_bottom: $vertical_rhythm * 0.8
+  line_height: 1.0
+  margin_top: $vertical_rhythm * 0.6
+  margin_bottom: $vertical_rhythm * 0.2
 title_page:
   align: right
   title_top: 55%
@@ -107,13 +112,13 @@ title_page:
 block:
   #margin_top: 0
   #margin_bottom: $vertical_rhythm
-#  padding: [$vertical_rhythm, $vertical_rhythm * 1.25, $vertical_rhythm, $vertical_rhythm * 1.25]
+  padding: [$vertical_rhythm, $vertical_rhythm * 1.25, $vertical_rhythm, $vertical_rhythm * 1.25]
 # code is used for source blocks (perhaps change to source or listing?)
 caption:
   font_style: italic
   align: left
   # FIXME perhaps set line_height instead of / in addition to margins?
-#  margin_inside: $vertical_rhythm * 0.25
+  margin_inside: $vertical_rhythm * 0.25
   margin_outside: 0
 code:
   font_color: $base_font_color
@@ -134,14 +139,14 @@ code:
   border_radius: $base_border_radius
   border_width: 0.75
 blockquote:
-  font_color: $base_font_color
+  font_color: 008800
   font_size: $base_font_size
-  font_style: italic
-  border_width: 0.1
+  border_width: 2
   border_color: 008800
+  background_color: f5f5f5
   cite_font_size: $base_font_size
-  cite_font_color: 008800
   cite_font_style: bold_italic
+  cite_font_color: 008800
 sidebar:
   border_color: $page_background_color
   border_radius: $base_border_radius
@@ -183,8 +188,8 @@ abstract:
   font_style: italic
 thematic_break:
   border_color: $base_border_color
-#  margin_top: $vertical_rhythm * 0.5
-#  margin_bottom: $vertical_rhythm * 1.5
+  margin_top: $vertical_rhythm * 0.5
+  margin_bottom: $vertical_rhythm * 1.5
 description_list:
   term_font_style: italic
   description_indent: $horizontal_rhythm * 1.25
@@ -205,10 +210,11 @@ table:
   # HACK accounting for line-height
   cell_padding: [3, 3, 6, 3]
 toc:
-#  indent: $horizontal_rhythm
+  font_size: $base_font_size_small
+  indent: $horizontal_rhythm * 0.4
   dot_leader_color: dddddd
   #dot_leader_content: ". "
-  line_height: 1.4
+  line_height: 1.2
 # NOTE In addition to footer, header is also supported
 footer:
   font_size: $base_font_size_small

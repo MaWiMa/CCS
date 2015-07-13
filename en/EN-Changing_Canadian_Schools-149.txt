@@ -1,7 +1,7 @@
 [#TUS-A1]
 ==== Time-Use Survey A1
 ifdef::pdf-pages[]
-image::CCS148.svg[A1: Major Activities of Methods and Resource Teachers, align="center",scaledwidth=90%]
+image::CCS148.svg[A1: Major Activities of Methods and Resource Teachers, align="center",scaledwidth=80%]
 endif::pdf-pages[]
 ifndef::pdf-pages[]
 image::CCS148.svg[A1: Major Activities of Methods and Resource Teachers, align="center"]
@@ -10,7 +10,7 @@ endif::pdf-pages[]
 [#TUS-A2]
 ==== TIME-USE SURVEY A2
 ifdef::pdf-pages[]
-image::CCS149.svg[A2: Collaboration, align="center", scaledwidth=90%]
+image::CCS149.svg[A2: Collaboration, align="center", scaledwidth=80%]
 endif::pdf-pages[]
 ifndef::pdf-pages[]
 image::CCS149.svg[A2: Collaboration, align="center"]

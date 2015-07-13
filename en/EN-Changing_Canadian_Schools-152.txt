@@ -1,5 +1,9 @@
 [#TUS-A5]
 ==== TIME-USE SURVEY A5
-
-image::CCS152.svg[A5: Other Activities, align="center"]
+ifdef::pdf-pages[]
+image::CCS152.svg[A4: Teacher Support, align="center", scaledwidth=80%]
+endif::pdf-pages[]
+ifndef::pdf-pages[]
+image::CCS152.svg[A4: Teacher Support, align="center"]
+endif::pdf-pages[]
 

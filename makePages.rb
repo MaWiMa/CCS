@@ -7,77 +7,74 @@ require 'asciidoctor-pdf'
 require 'asciidoctor-epub3'
 require 'git'
 
-unless ARGV.length > 1 && ARGV.length < 5
- puts "Please enter at least two parameter, first language, second format,"
- puts "the third and fourth parameter are only needed"
- puts "if you want to make one or a few pages!" 
- puts " "
- puts "Notation: <filename> <language> <format> <firstpage> <lastpage>"
- puts "Example: #{__FILE__} EN [html, pdf, epub] [1] [329]"
+BEGIN {
+ unless ARGV.length > 1 && ARGV.length < 5
+  puts ""
+  puts "Please enter at least two parameter, first language, second format,"
+  puts "the third and fourth parameter are only needed"
+  puts "if you want to make one or a few pages!" 
+  puts " "
+  puts "Notation: <filename> <language> <format> <firstpage> <lastpage>"
+  puts "Example: #{__FILE__} EN [html, pdf, epub] [1] [329]"
+  puts ""
+  abort
+ end
 
-exit 
+ i = ARGV[0].upcase.to_s         # 1. Parameter language
+ o = ARGV[1].downcase.to_s       # 2. Parameter format
+ a = ARGV[2].to_i                # 3. Parameter first page [optional]
+ b = ARGV[3].to_i                # 4. Parameter last page [optional]
+
+ if a == 0
+  a = 1
+  b = 329
+ end
+
+ if b == 0
+  b = a
+ end 
+
+ unless ARGV.length > 1 && ARGV.length < 5
+  puts "Please enter at least two parameter, first language, second format,"
+  puts "the third and fourth parameter are only needed"
+  puts "if you want to make one or a few pages!" 
+  puts " "
+  puts "Notation: <filename> <language> <format> <firstpage> <lastpage>"
+  puts "Example: #{__FILE__} EN [html, pdf, epub] [1] [329]"
+  puts "You did: #{__FILE__} #{i} #{o} #{a} #{b}"
+  abort
+ end
+
+ until i.length == 2    # i has more than 2 letters
+  puts "Please enter language as follows!"
+  puts "Notation: <language> <format>"
+  puts "Example: EN pdf"
+  abort
 end
 
-i = ARGV[0].upcase.to_s         # 1. Parameter language
-o = ARGV[1].downcase.to_s       # 2. Parameter format
-a = ARGV[2].to_i                # 3. Parameter first page [optional]
-b = ARGV[3].to_i                # 4. Parameter last page [optional]
-
-if a == 0
- a = 1
- b = 329
-end
-
-if b == 0
- b = a
-end 
-
-unless ARGV.length > 1 && ARGV.length < 5
- puts "Please enter at least two parameter, first language, second format,"
- puts "the third and fourth parameter are only needed"
- puts "if you want to make one or a few pages!" 
- puts " "
- puts "Notation: <filename> <language> <format> <firstpage> <lastpage>"
- puts "Example: #{__FILE__} EN [html, pdf, epub] [1] [329]"
-
- puts "You did: #{__FILE__} #{i} #{o} #{a} #{b}"
-
- exit
-end
-
-until i.length == 2    # i has more than 2 letters
- puts "Please enter language as follows!"
- puts "Notation: <language> <format>"
- puts "Example: EN pdf"
- exit
-end
-
-until i == "EN" || i== "DE"
- puts "###########"
- puts "At this time there are only english [EN] and german [DE] versions." 
- puts "if you like to start a translation into other languages, you are welcome."
- puts "If you are comfortable with git and github you could fork the repository on"
- puts ""
- puts "https://github.com/MaWiMa/CCS and send a pull request"
- puts ""
- puts "Forking is described on https://help.github.com/articles/fork-a-repo."
- puts ""
- puts "If you do not know what this github thing is, no problem,"
- puts "just write an email, we find a solution you are comfortable with."
- puts ""
- puts "Norbert.Reschke@gMail.com"
- puts "###########"
- exit 
-end
+ until i == "EN" || i== "DE"
+  puts "At this time there are only english [EN] and german [DE] versions." 
+  puts "if you like to start a translation into other languages, you are welcome."
+  puts "If you are comfortable with git and github you could fork the repository on"
+  puts ""
+  puts "https://github.com/MaWiMa/CCS and send a pull request"
+  puts ""
+  puts "Forking is described on https://help.github.com/articles/fork-a-repo."
+  puts ""
+  puts "If you do not know what this github thing is, no problem,"
+  puts "just write an email, we find a solution you are comfortable with."
+  puts ""
+  puts "Norbert.Reschke@gMail.com"
+  abort
+ end
+}
 
 def sample_one(file,lang)
-file.write("== DOCUMENT RESUME \n")
-file.write("include::{includedir}/CCSdocres.txt[] \n")
+ file.write("== DOCUMENT RESUME \n")
+ file.write("include::{includedir}/CCSdocres.txt[] \n")
 end
 
 git = Git.open('.')
-
-#if i == "EN"
 f = File.new(i.downcase+"/CCS-"+i+".txt", "w")
 f.write("// common-part begins\n")
 # f.write ":notitle:\n"
@@ -108,260 +105,166 @@ f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
 f.write(":copyright: CC-BY-SA 4.0 \n")
 f.write(":revdate: "+Date.today.to_s+"\n")
-#f.write(":revnumber: "+git.log(1).object(i.downcase+"/").to_s[0..7]+"\n")
-#f.write(":revnumber:"+git.log(1).path("CCS/"+i.downcase+"/CCS-"+i+".html").to_s+"["+git.log(1).path("CCS"+i.downcase+"/CCS-"+i+"html").to_s[0..7]+"] \n")
 f.write(":revnumber: "+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+" \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
-#f.write(":pagenums: \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
 f.close
-#end
-# if no pages are choosen, every page is build
 
-format = case o # format
- when "html"
 
-for m in a..b
- puts "Language = #{i}, Page = #{m}"
- flip = Flip.new(i,m)
+format = case o
+when "html"
+  puts "Language = #{i}"
+ for m in a..b
+  puts "Page = #{"%03d"% m}"
+  flip = Flip.new(i,m)
 
- if flip.page > 329
-   puts "There should only be 329 pages!"
-   exit
+  if flip.page > 329
+    puts "There should only be 329 pages!"
+    abort
   end
- if flip.nextPageNumber > 329
-  flip.nextPageNumber = 1
-  puts "Last page is reached, we go back to page 1!"
-  flip.nextPage = flip.lang + flip.thesePageNames + "%03d" % flip.nextPageNumber.to_s
- end 
- if flip.backPageNumber < 1
-  flip.backPageNumber = 329
-  puts "First page is reached, we goto page 329"
-  flip.backPage = flip.lang + flip.thesePageNames + flip.backPageNumber.to_s
- end 
+  if flip.nextPageNumber > 329
+   flip.nextPageNumber = 1
+#  puts "Last page is reached, we go back to page 1!"
+   flip.nextPage = flip.lang + flip.thesePageNames + "%03d" % flip.nextPageNumber.to_s
+  end 
+  if flip.backPageNumber < 1
+   flip.backPageNumber = 329
+#  puts "First page is reached, we goto page 329"
+   flip.backPage = flip.lang + flip.thesePageNames + flip.backPageNumber.to_s
+  end 
 
-# backup file
-#FileUtils.ln_s('../CCSdocres.txt', '_tmp/CCSdocres.txt') # this must be done better
- org = flip.lang.downcase+"/"+flip.thisPage+".txt"
- new = "_tmp/"+flip.thisPage+".ad" # Problem with including files see CCSdocres
-#puts "got   : .... #{org}"
+ org = flip.lang.downcase + "/" + flip.thisPage + ".txt"
+ new = "_tmp/" + flip.thisPage + ".ad" # Problem with including files see CCSdocres
 
-# make first line of header to get the right extension
-#File.write(new,":ext-relative: {outfilesuffix}\n")
 
-#puts "make  : .. #{new} part1"
-
-f = File.new(new, "w")
+ f = File.new(new, "w")
   f.write(":ext-relative: {outfilesuffix}\n")
   f.write(":nofooter:\n")
    if m == 1
     sample_one(f,i)
    end
- #f = File.open(new, "a")
-  f.write(":lang: "+i.downcase+"\n")
-#  f.write File.read(org)
-  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
-  f.close
-#puts "append: .... #{org} to part1"
+  f.write(":lang: " + i.downcase + "\n")
+  f.write("include::" + i.downcase + "/" + i + "-Changing_Canadian_Schools-" + "%03d" % m.to_s + ".txt[] \n")
+ f.close
 
-#FileUtils.cp(org,new)
-footer = case flip.lang
-# EN
- when "EN"
- f = File.open(new, "a")
+ footer = case flip.lang
+  when "EN"
+   f = File.open(new, "a")
     f.write " \n"
     f.write "[userinput2-c]#link:/CCS/index{ext-relative}[home]# \n"
     f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward >>]# \n"
     f.write "[userinput2-l]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[<< back]# \n"
     f.write "[userinput0-l]#link:/CCS/copies-from-original/CCS"+"%03d" % flip.page+".png[copy from Original]# \n"
     f.write "[userinput0-r]#Ver: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s+"["+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s[0..5]+"]# \n"
- f.close
-# DE
- when "DE"
- f = File.open(new, "a")
+   f.close
+
+  when "DE"
+   f = File.open(new, "a")
     f.write " \n"
     f.write "[userinput2-c]#link:/CCS/index{ext-relative}[home]# \n"
     f.write "[userinput2-r]#link:/CCS/"+flip.lang.downcase+"/"+flip.nextPage+"{ext-relative}[forward >>]# \n"
     f.write "[userinput2-l]#link:/CCS/"+flip.lang.downcase+"/"+flip.backPage+"{ext-relative}[<< back]# \n"
     f.write "[userinput0-l]#link:/CCS/en/EN"+flip.thesePageNames+"%03d" % flip.page+"{ext-relative}[Abschrift des Originals]# \n"
     f.write "[userinput0-r]#Ver: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s+"["+git.log(1).path(flip.lang.downcase+"/"+flip.thisPage+".txt").to_s[0..5]+"]# \n"
- f.close
-# end
- puts "made  : .. #{new}"
+   f.close
 
+ end
 Asciidoctor.render_file new,
 :base_dir => '.',
 :to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'safe',
 :attributes => 'sep-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
 end
-=begin
-###
-if i == "EN"
- f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
- f.write("// html-part begins\n")
-#f.write(":last-update-label!: \n")
- f.write(":lang: "+i.downcase+"\n")
- f.write(":toc: left \n")
-# f.write(":toc: macro \n")
-# f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
-# f.write(":nofooter: \n")
-# f.write("toc::[] \n")
- f.write(" \n")
- 
-  a = 1
-  b = 329
-
- for m in a..b
-  if m == 1
-   sample_one(f,i)
-  end
-   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
-   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
-   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
-
- f.write " \n"
- f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
- end
- f.write " \n"
- f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
- f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
-
- f.write("// html-part ends\n")
- f.write(" \n")
- f.close
-###
-elsif i == "DE"
- f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
- f.write"// html-part begins\n"
- f.write":lang: "+i.downcase+"\n"
- f.write":toc: left \n"
- f.write" \n"
- 
-  a = 1
- # b = 329
-
- for m in a..b
-  if m == 1
-   sample_one(f,i)
-  end
-   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
-   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
-   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
-
- f.write " \n"
- f.write "include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n"
- end
- 
- f.write " \n"
- f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
- f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
-
-
- f.write "// html-part ends\n"
- f.write " \n" 
- f.close
-###
-end
-=end
-end
 
 puts "I start big page "+i+"!"
  f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
- f.write("// html-part begins\n")
-#f.write(":last-update-label!: \n")
- f.write(":lang: "+i.downcase+"\n")
- f.write(":toc: left \n")
+  f.write("// html-part begins\n")
+  f.write(":lang: "+i.downcase+"\n")
+  f.write(":toc: left \n")
 # f.write(":toc: macro \n")
 # f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
 # f.write(":nofooter: \n")
 # f.write("toc::[] \n")
- f.write(" \n")
+  f.write(" \n")
  
   a = 1
   b = 329
 
- for m in a..b
-  if m == 1
-   sample_one(f,i)
-  end
+  for m in a..b
+   if m == 1
+    sample_one(f,i)
+   end
    next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
    next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
    next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
+   f.write " \n"
+   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
+  end
 
- f.write " \n"
- f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
- end
- f.write " \n"
- f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
- f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
-
- f.write("// html-part ends\n")
- f.write(" \n")
+  f.write " \n"
+  f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
+  f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
+  f.write("// html-part ends\n")
+  f.write(" \n")
  f.close
 
-
-puts "I should end big page "+i+"!"
 Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/'+i.downcase,
 :safe => 'safe',
 :attributes => 'html-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
-#:footer => 'false'
-puts "I wrote big page "+i+"!"
-#end
-###
+
 when "pdf"
-f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
-f.write("// pdf-part begins\n")
-f.write(":pagenums: \n")
-f.write(":toc: macro \n")
-f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
-f.write("\n")
-f.write("toc::[] \n")
+ f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
+  f.write("// pdf-part begins\n")
+  f.write(":pagenums: \n")
+  f.write(":toc: macro \n")
+  f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+  f.write("\n")
+  f.write("toc::[] \n")
 #f.write(":sectlinks: \n")
 #f.write(":idprefix: _ \n")
-f.write("\n")
-f.write("== Authors \n")
-arr=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
-arr.each { |m| f.write("{author_"+"%02d" %m.to_s+"}\n\n") }
-f.write("\n")
+  f.write("\n") 
+  f.write("== Authors \n")
+
+  arr=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+  arr.each { |m| f.write("{author_"+"%02d" %m.to_s+"}\n\n") }
+  
+  f.write("\n")
 
   
-if i=="EN" 
-a = 1 
-b = 329
-end
+ if i=="EN" 
+  a = 1 
+  b = 329
+ end
 
  for m in a..b
   if m == 1
    sample_one(f,i)
   end
-   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
-   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
-   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
+  next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
+  next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
+  next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
   f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
   f.write("\n")
   # pagebreak for pdfs
-  arr =[1,3,4,5,6,7,11,16,77,108,148,156,197,218]
+  arr =[1,3,4,5,6,7,11,16,34,77,108,126,148,156,197,218]
   if arr.include?(m)
-  f.write("<<< \n")
+   f.write("<<< \n")
   end 
  end
  
-f.write("// pdf-part ends\n")
-f.close
+  f.write("// pdf-part ends\n")
+ f.close
 
 Asciidoctor.render_file f,
-#:require => 'asciidoctor-pdf',
 :base_dir => '.',
 :to_dir => 'CCS/inclusion',
 :backend => 'pdf',
 :attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
 #:attributes => 'pdf-pages  imagesdir=CCS/images includedir=included',
 :safe => 'safe'
-
 
 when "epub"
 =begin
