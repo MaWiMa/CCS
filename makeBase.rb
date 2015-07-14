@@ -2,9 +2,9 @@
 # encoding: utf-8
 require 'fileutils'
 require 'asciidoctor'
-#require 'git'
 
-puts "Please enter one parameter, which should be the basename of a textfile"
+
+puts "Please enter one parameter, which should be the name of an existing textfile"
 puts "Notation: <filename> <filename>"
 puts "Example: #{__FILE__} index.txt"
 puts ""
@@ -12,15 +12,16 @@ puts "all basefiles should be made by"
 puts "\"for i in *.txt;do #{__FILE__} $i;done\""
 
 i = ARGV[0].to_s         # 1. Parameter language
-if File::exists?(i)
+if File.exist?(i)
 
+j=File.basename(i,".txt")
 #git = Git.open('.')
-f = File.open("_tmp/"+i+".adoc", "w")
+f = File.open("_tmp/"+j+".adoc", "w")
 f.write("// CCS basedir files\n")
 f.write(":nofooter:\n")
 f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
-f.write("include::"+i+" \n")
+f.write("include::"+i+"[] \n")
 
 #f.write("image:http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg[, align=center,CC-BY-NC-SA, link=http://creativecommons.org/licenses/by-nc-sa/4.0/]\n")
 
@@ -35,10 +36,10 @@ f.close
 Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/',
-:safe => 'unsafe',
+:safe => 'safe',
 :attributes => 'linkcss stylesdir=. stylesheet=adoc.css imagesdir=images'
 
-puts "made /CCS/"+i+".html"
+puts "made /CCS/"+j+".html"
 
 else
  puts "The file "+i+" does not exist in base-directory!"
