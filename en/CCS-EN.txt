@@ -25,7 +25,7 @@
 :keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools 
 :copyright: CC-BY-SA 4.0 
 :revdate: 2015-07-14
-:revnumber: 237c6100 
+:revnumber: 7d3796eb 
 :email: Norbert.Reschke@gMail.com 
 :toclevels: 5 
 // common-part ends 
@@ -689,6 +689,6 @@ include::en/EN-Changing_Canadian_Schools-328.txt[]
 include::en/EN-Changing_Canadian_Schools-329.txt[] 
  
 [userinput0-l]#link:/CCS/index{ext-relative}[Home]# 
-[userinput0-r]#https://github.com/MaWiMa/CCS/commit/237c61005b7c2f83eabff990beeb9972e1929fb0[237c6100]# 
+[userinput0-r]#https://github.com/MaWiMa/CCS/commit/7d3796eb904750948919fcae3f713b5819eab029[7d3796eb]# 
 // html-part ends
  

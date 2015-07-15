@@ -28,12 +28,13 @@
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*principal*								| Schulleiterin/Schulleiter
 |*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
-											  http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
+
+|*remedial education*                       | Remedialer Unterricht											  http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
 
 |*self-advocacy*							| Eigenverantwortung (Vertretung der eigenen Rechte)
 |*self-determination*						| Selbstbestimmung
 |*school board*								| Schulamt, Schulausschuss
-|*remedial education*                       | Remedialer Unterricht
+
 |*skills*									| Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
 |*special education*						| Förderpädagogik

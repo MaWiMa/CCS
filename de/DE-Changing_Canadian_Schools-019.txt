@@ -1,21 +1,36 @@
-== Changing Canadian Schools, Schule verändern
+In den 1980ern, wurde der Prozess der schrittweisen, entwickelnden
+Veränderung in der _kanadischen Praxis der Förderpädagogik_ zu einer
+wachsenden Herausforderung.
+In diesem Kapitel führen wir drei Faktoren [Recht, Interessenvertretung
+und Innovation] an, die in Kanada, in dieser Form, eine einzigartige
+Entwicklungsumgebung für einen grundlegenden Wechsel in der _Bildung von
+Schülern mit Behinderungen_ gebildet haben.
+Diese Entwicklungen mündeten in die Art von Mehrdeutigkeit und Uneinheitlichkeit 
+in der Praxis der Förderpädagogik, die notwendig für einen Pradigmenwechsel
+war (Skrtic, 1987).
+Ob dieser Paragigmenwechsel zur vollständigen Integration der Schüler mit
+Behinderungen führt, werden die nächsten Jahre zeigen.
+Wir schließen unseren Bericht der drei Faktoren mit einer kurzen Erörterung
+der entscheidenden Rolle, eines inklusiven Bildungsprogramms, bezüglich der
+Vorbereitung, eines Schülers mit Behinderungen, auf ein Leben in der Gemeinschaft.
 
-== This work is not done yet
+==== Recht
+Der Fachausschuss, Entwicklung der Sozialpolitik, des
+https://en.wikipedia.org/wiki/51st_New_Brunswick_Legislature[New
+Brunswick Parlaments] gab den
+link:/CCS/inclusion/12n4_89e_zreport.pdf[Bericht (s. Seite 33, 1. Spalte, letzter Absatz)],
+zur Überprüfung der schulischen Integration, am 31 Oktober 1989 heraus.
+Der Report basiert auf fünf Wochen öffentlicher Anhörung zur schulischen
+Integration, in der der Ausschuss aus zwölf Mitgliedern dreiundsechzig Schulen
+besuchte und zweihundertfünzig Darstellungen von Eltern, Mitgliedern,
+Schulleitern, Schulausschüssen und weiteren Bürgern berücksichtigte.
 
-You are welcome to work with me. 
+Die Empfehlungen des Berichtes lauten zusammengefasst:
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+- Die Provinz sollte den _Gesetzentwurf 85_, zur Integration von
+_Kindern mit besonderen Bedürfnissen_ in das reguläre Schulsystem (Inklusion)
+weiterhin unterstützen.
 
-== Diese Arbeit ist noch nicht getan
-
-Ich lade Sie ein mit mir zu arbeiten.
-
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
-
-
-
-
-
-
+- Der Bildungsminister sollte sachliche Unstimmigkeiten zur Auslegung
+und Umsetzung klären und "`klare Richtlinien für alle Schulausschüsse`",
+erlassen.
