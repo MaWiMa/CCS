@@ -2,3 +2,5 @@
 *.html
 #CCS/**/*.html
 _tmp
+en/CCS-EN.txt
+de/CCS-DE.txt
