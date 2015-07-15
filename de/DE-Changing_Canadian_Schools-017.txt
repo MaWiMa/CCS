@@ -1,3 +1,1 @@
-= Abschnitt Eins
-
-== philosophische, juristische und historische Übersicht
+= _Abschnitt Eins_ *philosophische, juristische und historische Übersicht*

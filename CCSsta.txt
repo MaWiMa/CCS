@@ -3,8 +3,8 @@
 [cols="1,2,2", options="header"]
 |===
 |copied pages|status EN                                                           |status DE
-|            | *100 %  transcripted*                                              | *5,78 % übersetzt*
-|            |                                                                    | _310 Seiten_ sind noch zu erarbeiten, <<lastDE,(zuletzt übersetzt)>>
+|            | *100 %  transcripted*                                              | *6,38 % übersetzt*
+|            |                                                                    | _308 Seiten_ sind noch zu erarbeiten, <<lastDE,(zuletzt übersetzt)>>
 |link:copies-from-original/CCS001.png[001]|link:/CCS/en/EN-Changing_Canadian_Schools-001{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-001{outfilesuffix}[in Arbeit]
 |link:copies-from-original/CCS002.png[002]|link:/CCS/en/EN-Changing_Canadian_Schools-002{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-002{outfilesuffix}[done]
 |link:copies-from-original/CCS003.png[003]|link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[in Arbeit]
@@ -21,9 +21,9 @@
 |link:copies-from-original/CCS014.png[014]|link:/CCS/en/EN-Changing_Canadian_Schools-014{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-014{outfilesuffix}[in Arbeit]
 |link:copies-from-original/CCS015.png[015]|link:/CCS/en/EN-Changing_Canadian_Schools-015{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-015{outfilesuffix}[in Arbeit]
 |link:copies-from-original/CCS016.png[016]|link:/CCS/en/EN-Changing_Canadian_Schools-016{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-016{outfilesuffix}[in Arbeit]
-|link:copies-from-original/CCS017.png[017]|link:/CCS/en/EN-Changing_Canadian_Schools-017{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-017{outfilesuffix}[in Arbeit]
+|link:copies-from-original/CCS017.png[017]|link:/CCS/en/EN-Changing_Canadian_Schools-017{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-017{outfilesuffix}[done]
 |link:copies-from-original/CCS018.png[018]|link:/CCS/en/EN-Changing_Canadian_Schools-018{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-018{outfilesuffix}[in Arbeit]
-|link:copies-from-original/CCS019.png[019]|link:/CCS/en/EN-Changing_Canadian_Schools-019{outfilesuffix}[done]|[[lastDE]]link:/CCS/de/DE-Changing_Canadian_Schools-019{outfilesuffix}[missing]
+|link:copies-from-original/CCS019.png[019]|link:/CCS/en/EN-Changing_Canadian_Schools-019{outfilesuffix}[done]|[[lastDE]]link:/CCS/de/DE-Changing_Canadian_Schools-019{outfilesuffix}[in Arbeit]
 |link:copies-from-original/CCS020.png[020]|link:/CCS/en/EN-Changing_Canadian_Schools-020{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-020{outfilesuffix}[missing]
 |link:copies-from-original/CCS021.png[021]|link:/CCS/en/EN-Changing_Canadian_Schools-021{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-021{outfilesuffix}[missing]
 |link:copies-from-original/CCS022.png[022]|link:/CCS/en/EN-Changing_Canadian_Schools-022{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-022{outfilesuffix}[missing]
@@ -82,7 +82,7 @@
 |link:copies-from-original/CCS075.png[075]|link:/CCS/en/EN-Changing_Canadian_Schools-075{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-075{outfilesuffix}[missing]
 |link:copies-from-original/CCS076.png[076]|link:/CCS/en/EN-Changing_Canadian_Schools-076{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-076{outfilesuffix}[missing]
 |link:copies-from-original/CCS077.png[077]|link:/CCS/en/EN-Changing_Canadian_Schools-077{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-077{outfilesuffix}[missing]
-|link:copies-from-original/CCS078.png[078]|link:/CCS/en/EN-Changing_Canadian_Schools-078{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-078{outfilesuffix}[missing]
+|link:copies-from-original/CCS078.png[078]|link:/CCS/en/EN-Changing_Canadian_Schools-078{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-078{outfilesuffix}[done]
 |link:copies-from-original/CCS079.png[079]|link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-079{outfilesuffix}[missing]
 |link:copies-from-original/CCS080.png[080]|link:/CCS/en/EN-Changing_Canadian_Schools-080{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-080{outfilesuffix}[missing]
 |link:copies-from-original/CCS081.png[081]|link:/CCS/en/EN-Changing_Canadian_Schools-081{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-081{outfilesuffix}[missing]
@@ -113,7 +113,7 @@
 |link:copies-from-original/CCS106.png[106]|link:/CCS/en/EN-Changing_Canadian_Schools-106{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-106{outfilesuffix}[missing]
 |link:copies-from-original/CCS107.png[107]|link:/CCS/en/EN-Changing_Canadian_Schools-107{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-107{outfilesuffix}[missing]
 |link:copies-from-original/CCS108.png[108]|link:/CCS/en/EN-Changing_Canadian_Schools-108{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-108{outfilesuffix}[missing]
-|link:copies-from-original/CCS109.png[109]|link:/CCS/en/EN-Changing_Canadian_Schools-109{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-109{outfilesuffix}[missing]
+|link:copies-from-original/CCS109.png[109]|link:/CCS/en/EN-Changing_Canadian_Schools-109{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-109{outfilesuffix}[done]
 |link:copies-from-original/CCS110.png[110]|link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-110{outfilesuffix}[missing]
 |link:copies-from-original/CCS111.png[111]|link:/CCS/en/EN-Changing_Canadian_Schools-111{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-111{outfilesuffix}[missing]
 |link:copies-from-original/CCS112.png[112]|link:/CCS/en/EN-Changing_Canadian_Schools-112{outfilesuffix}[done]|link:/CCS/de/DE-Changing_Canadian_Schools-112{outfilesuffix}[missing]
