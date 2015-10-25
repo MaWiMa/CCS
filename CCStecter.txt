@@ -34,7 +34,7 @@
 
 |*self-advocacy*							| Eigenverantwortung (Vertretung der eigenen Rechte)
 |*self-determination*						| Selbstbestimmung
-|*school board*								| Schulamt, Schulausschuss
+|*school board*								| Schulamt, Schulbehörde, Schulausschuss
 
 |*skills*									| Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
