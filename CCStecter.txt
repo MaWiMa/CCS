@@ -16,6 +16,7 @@
 |*eating disorder*							| Essstörung
 |*education ministries*						| Bildungsministerien
 |*emotional and behavioral disorders* (EBD)	| Emotionale- und Verhaltenstörungen (EVS)
+|*exceptional children*                     | Außergewöhnliche Kinder, Abweichung von der Norm, Lernen, Verhalten, Leben verläuft und entwickelt sich jenseits der ersten Erwartung Dritter, wie Eltern, Lehrer, soziale Gemeinschaft
 |*facilitator*								| Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
 |*fellow teacher*							| Tutor
 |*guidance counsellor*						| Beratungslehrer
