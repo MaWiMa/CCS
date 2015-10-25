@@ -4,7 +4,7 @@ require_relative 'flipPages'
 #require 'fileutils'
 require 'asciidoctor'
 require 'asciidoctor-pdf'
-require 'asciidoctor-epub3'
+#require 'asciidoctor-epub3'
 require 'git'
 
 BEGIN {
@@ -105,7 +105,7 @@ f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
 f.write(":copyright: CC-BY-SA 4.0 \n")
 f.write(":revdate: "+Date.today.to_s+"\n")
-f.write(":revnumber: "+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+" \n")
+f.write(":revnumber: "+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s[0..7]+" \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
@@ -220,7 +220,8 @@ when "pdf"
   f.write("// pdf-part begins\n")
   f.write(":pagenums: \n")
   f.write(":toc: macro \n")
-  f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+  f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s+"["+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s[0..7]+"] \n")
+
   f.write("\n")
   f.write("toc::[] \n")
 #f.write(":sectlinks: \n")
