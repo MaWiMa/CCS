@@ -4,7 +4,7 @@
 |===
 2+<|link:/CCS/de/DE-Changing_Canadian_Schools-010{outfilesuffix}[Vorwort]
 2+<|link:/CCS/de/DE-Changing_Canadian_Schools-012{outfilesuffix}[Einleitung]
-|Abschnitt Eins:| philosophische, juristische und historische Übersicht
+|Abschnitt Eins:| philosophischer, juristischer und historischer Überblick
 |Kapitel 1:     |link:/CCS/de/DE-Changing_Canadian_Schools-018{outfilesuffix}[Die Praxis des Förderunterrichtes ändern: +
 																			  Recht, Interessenvertretung und Innovation +
                                                                               _Gordon L. Porter and Diane Richler_]
