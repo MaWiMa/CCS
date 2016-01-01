@@ -4,7 +4,7 @@ require_relative 'flipPages'
 #require 'fileutils'
 require 'asciidoctor'
 require 'asciidoctor-pdf'
-#require 'asciidoctor-epub3'
+require 'asciidoctor-epub3'
 require 'git'
 
 BEGIN {
@@ -275,7 +275,8 @@ when "epub"
 =begin
 f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
 f.write("// epub-part begins\n")
-f.write(":toc: \n")
+#f.write(":toc: \n")
+f.write(":leveloffset: 1 \n")
 f.write("Changes in Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
 f.write("\n")
 f.write("<<< \n")
@@ -303,14 +304,16 @@ Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/inclusion',
 :backend => 'epub3',
-:attributes => 'pdf-pages imagesdir=CCS/images includedir=included',
+#:attributes => 'pdf-pages imagesdir=CCS/images includedir=included',
+:attributes => 'pdf-pages imagesdir=CCS/images includedir=included epub3-stylesdir=CCS',
 :safe => 'safe'
 =end
-puts "I can't do the #{o}-format now, look at https://github.com/MaWiMa/CCS for more info!"
+puts "I can't do the #{o}-format now!"
 exit
 
  else
- puts "I can't do this format -> #{o} (now)!"
+ puts "I can't do this format -> #{o}!"
  exit
+
 end # /format
 
