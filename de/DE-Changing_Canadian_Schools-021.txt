@@ -1,21 +1,89 @@
-== Changing Canadian Schools, Schule verändern
+With few exceptions, Canadian school boards have generally offered
+options that have become the standard both in this country
+(Csapo and Goguen, 1980) and in the United States under public
+Law 94-142 (Gartner and Lipsky, 1987):  
 
-== This work is not done yet
+Kanadische Schulbehörden haben grundsätzliche Alternativen dargelegt,
+die mit wenigen Ausnahmen zum Standard in Kanada (Csapo and Goguen, 1980)
+und in den Vereinigten Staaten im öffentlichen Recht 94-142 (Gartner and
+Lipsky, 1987) wurden:
 
-You are welcome to work with me. 
+- "`pull-out`" resource room programs for students with mild
+disabilities;
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+-"`pull-out`" resource room Programme für Studenten mit geringer Behinderung
 
-== Diese Arbeit ist noch nicht getan
+- segregated schools or segragated classes in regular schools
+for students with moderate or severe disabilities;
 
-Ich lade Sie ein mit mir zu arbeiten.
+- Sonderschulen oder gesonderte Klassen in allgemeinen Schulen
 
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+- individual cases of integration for students with moderate
+disabilities.  
 
+- individuelle Arten der Integration für Schüler mit mäßigen Formen der 
+der Behinderung.
 
+However, while education is an area of provincial jurisdiction,
+the context in which provincial education legislation operates
+underwent a dramatic shift when the Canadian _Charter of Rights and
+Freedoms_ was entrenched in the Canadian constitution 1982.
 
+Der Kontext in dem Bildung in den Provinzen rechtsverbindlich operiert,
+wurde einem dramatischen Wandel unterzogen als die _Charta der Rechte
+und Freiheiten_ in der kanadische Verfassung verankert wurde, obwohl
+Bildung in den Verantwortungsbereich der Provinzen fällt.
 
+Several sections of the _Charter_ have implications for policy and
+practice relevant to the education of students with mental and/or
+physical disabilities (McKay, 1984; Vickers and Endicott, 1985).
+
+Einige Abschnitte der _Charta_ wirken bedeutsam auf Konzept und Handlung
+in der Bildung von Schülern mit geistigen und körperlichen Einschränkungen
+(McKay, 1984; Vickers and Endicott, 1985).
+
+It has been suggested that the aspects of education legislation which are most
+subject to challenge under _the Charter_ are procedures for: student
+assessment and categorisation; placement;the discretion to exclude students from regular classrooms;
+and the very concept of segregated education (Robertson, 1987).
+
+Folgende Aspekte des Schulrechtes mit besonderer Herausforderung
+in Bezug zur _Charta_, sind Verfahren für:
+Die Beurteilung und Einstufung von Schülern;
+Vermittlung;
+das Ermessen Schüler von regulären Klassenräumen auszuschließen;
+und die Grundidee der getrennten Ausbildung von Schülern (Robertson, 1987).
+              
+
+The _Charter_ created a new environment in which the overriding
+principles of liberty, freedom from discrimination, and freedom
+of association set broad parameters within which education systems
+must operate.
+
+Die _Charta_ schaffte ein neues Weltbild, in dem die übergeordneten 
+Principien der Freiheit, der Befreiung von Diskremierung und der Vereinigungsfreiheit
+robuste Kenngrößen setzten innerhalb derer Bildungssysteme operieren
+müssen.
+
+Since the equality rights in the _Charter_ did not
+come into force until 1985, the assurance of equality rights
+in many areas is still in the process of being established.
+
+Da das Recht auf Gleichstellung in der _Charta_ erst ab 1985 in Kraft
+getreten sind, ist die Garantie der Gleichheitsrechte in vielen Gegenden
+noch im Prozess der Entwicklung.
+
+However, it is the opinion of some that segregated educational
+programs are a natural target for litigation based on _the Charter_
+(Donahue, 1988; MacKay, 1987a). In any event, there has been
+an increased awareness of and sensitivity to the
+question of school integration for students with disabilities.
+
+Nach Auffassung von einigen sind Programme der getrennten
+Ausbildung dennoch ein natürliches Ziel von Rechtsstreitigkeiten mit Bezug zur
+_Charta_ (Donahue, 1988; MacKay, 1987a).
+In jedem Fall ist ein wachsendes Bewusstsein und eine erhöhte Sensibilität
+bezüglich der Frage der schulischen Integration von Schülern mit Behinderungen
+zu beobachten.
 
 
