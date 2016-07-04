@@ -3,10 +3,10 @@ options that have become the standard both in this country
 (Csapo and Goguen, 1980) and in the United States under public
 Law 94-142 (Gartner and Lipsky, 1987):  
 
-Kanadische Schulbehörden haben grundsätzliche Alternativen dargelegt,
-die mit wenigen Ausnahmen zum Standard in Kanada (Csapo and Goguen, 1980)
-und in den Vereinigten Staaten im öffentlichen Recht 94-142 (Gartner and
-Lipsky, 1987) wurden:
+Kanadische Schulbehörden haben grundsätzliche Alternativen aufgezeigt,
+die -- mit wenigen Ausnahmen -- in Kanada (Csapo and Goguen, 1980) und in
+den Vereinigten Staaten im öffentlichen Recht 94-142 (Gartner and Lipsky,
+1987) zum Standard wurden:
 
 - "`pull-out`" resource room programs for students with mild
 disabilities;
@@ -29,10 +29,10 @@ the context in which provincial education legislation operates
 underwent a dramatic shift when the Canadian _Charter of Rights and
 Freedoms_ was entrenched in the Canadian constitution 1982.
 
-Der Kontext in dem Bildung in den Provinzen rechtsverbindlich operiert,
-wurde einem dramatischen Wandel unterzogen als die _Charta der Rechte
-und Freiheiten_ in der kanadische Verfassung verankert wurde, obwohl
-Bildung in den Verantwortungsbereich der Provinzen fällt.
+Obwohl Bildung in den Verantwortungsbereich der Provinzen fällt, ist der
+Kontext in dem Bildung in den Provinzen rechtsverbindlich operiert einem
+dramatischen Wandel unterzogen worden, als die _Charta der Rechte
+und Freiheiten_ in der kanadische Verfassung verankert worden ist.
 
 Several sections of the _Charter_ have implications for policy and
 practice relevant to the education of students with mental and/or
@@ -47,22 +47,23 @@ subject to challenge under _the Charter_ are procedures for: student
 assessment and categorisation; placement;the discretion to exclude students from regular classrooms;
 and the very concept of segregated education (Robertson, 1987).
 
-Folgende Aspekte des Schulrechtes mit besonderer Herausforderung
-in Bezug zur _Charta_, sind Verfahren für:
-Die Beurteilung und Einstufung von Schülern;
-Vermittlung;
-das Ermessen Schüler von regulären Klassenräumen auszuschließen;
-und die Grundidee der getrennten Ausbildung von Schülern (Robertson, 1987).
-              
+Es wurde vorgeschlagen, folgende Verfahren als die Aspekte des
+Schulrechtes mit außerordentlichen Herausforderungen bezüglich der _Charta_,
+zu sehen:
 
+- Die Beurteilung und Einstufung von Schülern;
+- die Lernortoption (placement);
+- das Ermessen Schüler von regulären Klassenräumen auszuschließen;
+- und die Grundidee der getrennten Ausbildung von Schülern (Robertson, 1987).
+              
 The _Charter_ created a new environment in which the overriding
 principles of liberty, freedom from discrimination, and freedom
 of association set broad parameters within which education systems
 must operate.
 
 Die _Charta_ schaffte ein neues Weltbild, in dem die übergeordneten 
-Principien der Freiheit, der Befreiung von Diskremierung und der Vereinigungsfreiheit
-robuste Kenngrößen setzten innerhalb derer Bildungssysteme operieren
+Prinzipien der Freiheit, der Befreiung von Diskriminierung und der Vereinigungsfreiheit
+robuste Kenngrößen setzten, innerhalb derer Bildungssysteme operieren
 müssen.
 
 Since the equality rights in the _Charter_ did not
@@ -70,7 +71,7 @@ come into force until 1985, the assurance of equality rights
 in many areas is still in the process of being established.
 
 Da das Recht auf Gleichstellung in der _Charta_ erst ab 1985 in Kraft
-getreten sind, ist die Garantie der Gleichheitsrechte in vielen Gegenden
+getreten ist, ist die Umsetzung der Gleichheitsrechte in vielen Gegenden
 noch im Prozess der Entwicklung.
 
 However, it is the opinion of some that segregated educational
@@ -85,5 +86,3 @@ _Charta_ (Donahue, 1988; MacKay, 1987a).
 In jedem Fall ist ein wachsendes Bewusstsein und eine erhöhte Sensibilität
 bezüglich der Frage der schulischen Integration von Schülern mit Behinderungen
 zu beobachten.
-
-
