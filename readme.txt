@@ -97,17 +97,24 @@ To make *all* basedir HTML-Pages just open a terminal and type
 
 [source]
 ----
-for i in *.txt;do ./makeBase.rb $(basename "$i" .txt);done
+for i in *.txt;do ./makeBase.rb $i;done
 ----
 
 If you just want to build the page that you changed, type 
 
 [source]
 ----
-./makeBase.rb index
+./makeBase.rb justchangedfile.txt
 ----
 
-At the moment you can build separate hmtl-pages this way:
+At the moment you can build hmtl-pages this way:
+
+To make all English pages just type:
+
+[source]
+----
+./makePages.rb EN html 
+----
 
 To make Page one of the English Version just type:
 
@@ -123,14 +130,7 @@ To make Page two to onehundretfiftyone of the English Version just type:
 ./makePages.rb EN html 2 151
 ----
 
-Everytime you run this command the all-in-one-HTML-Page gets updated.
-
-
-[source]
-----
-./makePages.rb EN html 1
-----
-
+Everytime you run this commands the all-in-one-HTML-Page gets updated too.
 
 
 To take a look at the website you did build run:
@@ -147,7 +147,3 @@ image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*
 
-2015-07-08
-enable compression in converter.rb|asciidoctor-pdf alpha8
-compress: true,
-optimize_objects: true,
