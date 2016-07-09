@@ -27,6 +27,7 @@
 |*mental therapy*							| Verhaltenstherapie
 |*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
+|*neighbourhood school*                     | Stadtteilschule
 |*pull-out recource room*                   | resource program, pull out program link:/CCS/inclusion/Effectiveness_of_Special_Education-Placement.pdf[Placement] 
 |*principal*								| Schulleiterin/Schulleiter
 |*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
