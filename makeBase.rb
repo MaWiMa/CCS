@@ -3,15 +3,20 @@
 require 'fileutils'
 require 'asciidoctor'
 
+i = ARGV[0].to_s         # 1. Parameter language
 
+if i == ""
+puts ""
 puts "Please enter one parameter, which should be the name of an existing textfile"
 puts "Notation: <filename> <filename>"
 puts "Example: #{__FILE__} index.txt"
 puts ""
 puts "all basefiles should be made by"
 puts "\"for i in *.txt;do #{__FILE__} $i;done\""
+puts ""
+abort
+end
 
-i = ARGV[0].to_s         # 1. Parameter language
 if File.exist?(i)
 
 j=File.basename(i,".txt")
