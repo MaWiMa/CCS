@@ -145,5 +145,5 @@ Your terminal should show something like this:
 image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -e httpd . -p 8000] +
 
 If it does, open your browser and look for your website
-at *http://localhost:8000/CCS*
+at *http://localhost:8000/CCS*.
 
