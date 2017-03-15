@@ -28,6 +28,7 @@
 |*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*neighbourhood school*                     | Stadtteilschule
+|*Nova Scotia Supreme Court*                | http://www.courts.ns.ca/Supreme_Court/NSSC_home.htm[Oberster Gerichtshof Neuschottlands]
 |*pull-out recource room*                   | resource program, pull out program link:/CCS/inclusion/Effectiveness_of_Special_Education-Placement.pdf[Placement] 
 |*principal*								| Schulleiterin/Schulleiter
 |*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
@@ -48,6 +49,8 @@
 |*staff meeting*							| Lehrerkonferenz
 
 |*teacher fellow*							| Kollege
+
+|*queen's bench division*                   | Zivilkammer, https://de.wikipedia.org/wiki/High_Court_of_Justice#Queen.E2.80.99s_Bench_Division[Kammer für Zivilsachen]
 
 |===
 
