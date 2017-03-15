@@ -3,7 +3,7 @@ die -- mit wenigen Ausnahmen -- in Kanada (Csapo and Goguen, 1980) und in
 den Vereinigten Staaten im öffentlichen Recht 94-142 (Gartner and Lipsky,
 1987) zum Standard wurden:
 
--"`pull-out`" resource room Programme für Studenten mit geringer Behinderung
+- "`pull-out`" resource room Programme für Studenten mit geringer Behinderung
 - Sonderschulen oder gesonderte Klassen in allgemeinen Schulen
 - individuelle Arten der Integration für Schüler mit mäßigen Formen der 
 der Behinderung.
