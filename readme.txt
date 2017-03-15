@@ -1,5 +1,3 @@
-:source-highlighter: coderay
-
 == Transcript and Translation Website
 You should find the webpages here:
 https://mawima.github.io/CCS/ 
