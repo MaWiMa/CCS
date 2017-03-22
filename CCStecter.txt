@@ -13,6 +13,8 @@
 |*challenging behavior*						| Verhaltensauffälligkeiten
 |*citizenship*								| Bürgerrecht
 
+|*Department of Education*                  | Bildungsministerium   
+
 |*eating disorder*							| Essstörung
 |*education ministries*						| Bildungsministerien
 |*emotional and behavioral disorders* (EBD)	| Emotionale- und Verhaltenstörungen (EVS)
