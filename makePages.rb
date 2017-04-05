@@ -6,7 +6,7 @@ require 'asciidoctor'
 require 'asciidoctor-pdf'
 #require 'asciidoctor-epub3'
 require 'git'
-# with asciidoctor-pdf-1.5.0.alpha.14 you must install prawn 2.1.0 and can not use 2.2.0 (gem install prawn -v 2.1.0)
+# with asciidoctor-pdf-1.5.0.alpha.14 you can not use prawn 2.2.0 and have to install prawn 2.1.0 (gem install prawn -v 2.1.0)
 
 BEGIN {
  unless ARGV.length > 1 && ARGV.length < 5
