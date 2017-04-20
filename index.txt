@@ -17,13 +17,13 @@ several formats of the transcription:
 image::EN-CCS-Cover.svg[Cover,width="120",float="left",align="left",link=/CCS/en/CCS-EN.html]
 //image::EN-CCS-Cover.svg[Cover,align="center",link=/CCS/en/CCS-EN.html]
 
-link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate-Web-Pages]
+link:/CCS/en/EN-Changing_Canadian_Schools-003{outfilesuffix}[Separate-Web-Pages Layout]
 
-link:/CCS/en/CCS-EN.html[One-Web-Page]
+link:/CCS/en/CCS-EN.html[One-Web-Page Layout]
 
 link:/CCS/inclusion/CCS-EN.pdf[Printing Layout]
 
-//link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
+link:/CCS/inclusion/CCS-EN.epub[eBook Layout]
 
 ***
 Die Übersetzung in verschiedenen Formaten:
@@ -35,7 +35,7 @@ link:/CCS/de/DE-Changing_Canadian_Schools-003{outfilesuffix}[Einzelne-Internet-S
 
 link:/CCS/de/CCS-DE.html[Alles-auf-einer-Seite]
 
-link:/CCS/inclusion/CCS-DE.pdf[Drucksatz]
+//link:/CCS/inclusion/CCS-DE.pdf[Drucksatz]
 
 //Die Übersetzung im EPUB-Format wird später hier zu finden sein:
 //link:/CCS/inclusion/CCS-DE.epub[eBuchsatz]
