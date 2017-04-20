@@ -78,12 +78,10 @@ git = Git.open('.')
 spine = i.downcase+"/CCS-"+i+".txt"
 f = File.new(spine, "w")
 f.write("// common-part begins\n")
-# f.write ":notitle:\n"
-# f.write ":noheader:\n"
 f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":nofooter:\n")
 f.write(":doctype: book \n")
-f.write(":front-cover-image: image:"+i+"-CCS-Cover2.svg[Front Cover,1050,1600] \n")
+f.write(":front-cover-image: image:"+i+"-CCS-Cover.svg[Front Cover] \n")
 f.write(":doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. \n")
 f.write(":authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. \n")
 f.write(":author_01: Campbell, Charlotte \n" )
@@ -184,10 +182,6 @@ puts "I start big page "+i+"!"
   f.write("// html-part begins\n")
   f.write(":lang: "+i.downcase+"\n")
   f.write(":toc: left \n")
-# f.write(":toc: macro \n")
-# f.write(":revnumber:"+git.log(1).path(spine).to_s+"["+git.log(1).path(spine).to_s[0..7]+"] \n")
-# f.write(":nofooter: \n")
-# f.write("toc::[] \n")
   f.write(" \n")
  
   a = 1
@@ -206,7 +200,7 @@ puts "I start big page "+i+"!"
 
   f.write " \n"
   f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
-  f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(spine).to_s+"["+git.log(1).path(spine).to_s[0..7]+"]# \n"
+  f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s+"["+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s[0..7]+"]# \n"
   f.write("// html-part ends\n")
   f.write(" \n")
  f.close
@@ -243,9 +237,6 @@ when "pdf"
  end
 
  for m in a..b
-#  if m == 1
-#   sample_one(f,i)
-#  end
 
   next if m == 1 # exclude 001.txt, document resume/abstract 
   next if m == 2 # exclude 002.txt, cover
