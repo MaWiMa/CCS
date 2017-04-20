@@ -7,7 +7,6 @@
 <meta name="generator" content="Asciidoctor 1.5.5">
 <title>Transcript and Translation Website</title>
 <link rel="stylesheet" href="./adoc.css">
-<link rel="stylesheet" href="./coderay-asciidoctor.css">
 </head>
 <body class="article">
 <div id="header">
@@ -58,7 +57,7 @@ Just write the filename to the subject of your email in following form:</p>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code data-lang="bash">Notation: &lt;Language&gt;&lt;Page&gt;
+<pre class="highlight"><code class="language-bash" data-lang="bash">Notation: &lt;Language&gt;&lt;Page&gt;
 Example:  EN001</code></pre>
 </div>
 </div>
@@ -97,7 +96,7 @@ How to do this, is described on
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>|-- CCS
+<pre class="highlight"><code>|-- CCS
 |   |-- CCS-theme.yml
 |   |-- adoc.css
 |   |-- copies-from-original
@@ -129,7 +128,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>for i in *.txt;do ./makeBase.rb $i;done</code></pre>
+<pre class="highlight"><code>for i in *.txt;do ./makeBase.rb $i;done</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -137,7 +136,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>./makeBase.rb justchangedfile.txt</code></pre>
+<pre class="highlight"><code>./makeBase.rb justchangedfile.txt</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -148,7 +147,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>./makePages.rb EN html</code></pre>
+<pre class="highlight"><code>./makePages.rb EN html</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -156,7 +155,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>./makePages.rb EN html 1</code></pre>
+<pre class="highlight"><code>./makePages.rb EN html 1</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -164,7 +163,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>./makePages.rb EN html 2 151</code></pre>
+<pre class="highlight"><code>./makePages.rb EN html 2 151</code></pre>
 </div>
 </div>
 <div class="paragraph">
@@ -175,7 +174,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="CodeRay highlight"><code>ruby -run -e httpd . -p 8000</code></pre>
+<pre class="highlight"><code>ruby -run -e httpd . -p 8000</code></pre>
 </div>
 </div>
 <div class="paragraph">
