@@ -23,9 +23,15 @@ David Jory, the parent of a young man labelled mentally handicapped
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
 endif::sep-pages[]
-ifndef::sep-pages[]
+ifdef::html-pages[]
 <<Chapter 5,(see Chapter 5)>>
-endif::sep-pages[]
+endif::html-pages[]
+ifdef::pdf-pages[]
+<<Chapter 5,(see Chapter 5)>>
+endif::pdf-pages[]
+ifdef::epub-pages[]
+xref:_section_two_parent_and_self_advocacy#_chapter_5[(see Chapter 5)]
+endif::epub-pages[]
 writes:
 
 [quote]

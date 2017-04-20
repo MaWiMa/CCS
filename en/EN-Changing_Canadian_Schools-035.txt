@@ -17,9 +17,15 @@ ____
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-110{outfilesuffix}[(see Chapter 8)]
 endif::sep-pages[]
-ifndef::sep-pages[]
+ifdef::html-pages[]
 <<Chapter 8,(see Chapter 8)>>
-endif::sep-pages[]
+endif::html-pages[]
+ifdef::pdf-pages[]
+<<Chapter 8,(see Chapter 8)>>
+endif::pdf-pages[]
+ifdef::epub-pages[]
+xref:_section_three_innovations_and_practical_applications#_the_methods_and_resource_teacher_a_collaborative_consultant_model[(see Chapter 8)]
+endif::epub-pages[]
 
 
 ==== CONCLUSION
