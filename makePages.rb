@@ -4,9 +4,8 @@ require_relative 'flipPages'
 #require 'fileutils'
 require 'asciidoctor'
 require 'asciidoctor-pdf'
-#require 'asciidoctor-epub3'
+require 'asciidoctor-epub3'
 require 'git'
-# with asciidoctor-pdf-1.5.0.alpha.14 you can not use prawn 2.2.0 and have to install prawn 2.1.0 (gem install prawn -v 2.1.0)
 
 BEGIN {
  unless ARGV.length > 1 && ARGV.length < 5
@@ -76,14 +75,15 @@ def sample_one(file,lang)
 end
 
 git = Git.open('.')
-f = File.new(i.downcase+"/CCS-"+i+".txt", "w")
+spine = i.downcase+"/CCS-"+i+".txt"
+f = File.new(spine, "w")
 f.write("// common-part begins\n")
 # f.write ":notitle:\n"
 # f.write ":noheader:\n"
 f.write(":ext-relative: {outfilesuffix} \n")
 f.write(":nofooter:\n")
 f.write(":doctype: book \n")
-f.write(":front-cover-image: image:"+i+"-CCS-Cover.svg[] \n")
+f.write(":front-cover-image: image:"+i+"-CCS-Cover2.svg[Front Cover,1050,1600] \n")
 f.write(":doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. \n")
 f.write(":authors: Porter, Gordon L., Ed.; Richler, Diane, Ed. \n")
 f.write(":author_01: Campbell, Charlotte \n" )
@@ -105,8 +105,9 @@ f.write(":author_16: Wilson, Mary \n" )
 f.write(":subject: Inclusion in Canada until 1991 \n")
 f.write(":keywords: Asciidoctor, Inclusion, Gordon L. Porter, Changing Canadian Schools \n")
 f.write(":copyright: CC-BY-SA 4.0 \n")
-f.write(":revdate: "+Date.today.to_s+"\n")
+f.write(":revdate: {localdate} \n")
 f.write(":revnumber: "+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s[0..7]+" \n")
+f.write(":source: ISBN 1-895070-00-7 \n")
 f.write(":email: Norbert.Reschke@gMail.com \n")
 f.write(":toclevels: 5 \n")
 f.write("// common-part ends \n")
@@ -179,12 +180,12 @@ Asciidoctor.render_file new,
 end
 
 puts "I start big page "+i+"!"
- f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
+ f = File.open(spine, "a")
   f.write("// html-part begins\n")
   f.write(":lang: "+i.downcase+"\n")
   f.write(":toc: left \n")
 # f.write(":toc: macro \n")
-# f.write(":revnumber:"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"] \n")
+# f.write(":revnumber:"+git.log(1).path(spine).to_s+"["+git.log(1).path(spine).to_s[0..7]+"] \n")
 # f.write(":nofooter: \n")
 # f.write("toc::[] \n")
   f.write(" \n")
@@ -205,7 +206,7 @@ puts "I start big page "+i+"!"
 
   f.write " \n"
   f.write "[userinput0-l]#link:/CCS/index{ext-relative}[Home]# \n"
-  f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s+"["+git.log(1).path(i.downcase+"/CCS-"+i+".txt").to_s[0..7]+"]# \n"
+  f.write "[userinput0-r]#https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(spine).to_s+"["+git.log(1).path(spine).to_s[0..7]+"]# \n"
   f.write("// html-part ends\n")
   f.write(" \n")
  f.close
@@ -217,7 +218,7 @@ Asciidoctor.render_file f,
 :attributes => 'html-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
 
 when "pdf"
- f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
+ f = File.open(spine, "a")
   f.write("// pdf-part begins\n")
   f.write(":pagenums: \n")
   f.write(":toc: macro \n")
@@ -273,48 +274,68 @@ Asciidoctor.render_file f,
 :safe => 'safe'
 
 when "epub"
-=begin
-f = File.open(i.downcase+"/CCS-"+i+".txt", "a")
-f.write("// epub-part begins\n")
-#f.write(":toc: \n")
-f.write(":leveloffset: 1 \n")
-f.write("Changes in Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
-f.write("\n")
-f.write("<<< \n")
-f.write("\n")
 
-  a = 1
-  b = 329
+Dir.glob("_tmp/*.txt").each { |file| File.delete(file)} #delete all files in tmp-dir
 
- for m in a..b
-  if m == 1
-   sample_one(f,i)
-  end
-   next if m == 2 # exclude EN-Changing_Canadian_Schools-002.txt
-   next if m == 8 # exclude EN-Changing_Canadian_Schools-008.txt
-   next if m == 9 # exclude EN-Changing_Canadian_Schools-009.txt
-
-  puts "Page "+"%03d" % m
-  f.write("include::"+i.downcase+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt[] \n")
+e = File.new("_tmp/CCS-"+i+"-sample.txt", "w")
+  a = 1 # firstpage
+  b = 329 # lastpage
+ for m in a..b # look at sample.read
+  next if m == 1 # exclude 001.txt, document resume/abstract 
+  next if m == 2 # exclude 002.txt, cover
+  next if m == 8 # exclude 008.txt, toc part1
+  next if m == 9 # exclude 009.txt, toc part2
+  next if m == 294 # exclude 294.txt, toc of annoted bib
+ 
+fragment=i.downcase.to_s+"/"+i+"-Changing_Canadian_Schools-"+"%03d" % m.to_s+".txt" # the contents in original order
+ sample = File.open(fragment)
+  e.write(sample.read) # write one sampled file (m counts, next if throws away) 
+  e.write("\n")
  end
+e.close
+
+# split sampled file into chapters (look at https://github.com/asciidoctor/asciidoctor-epub3/issues/90)
+## google was my friend..., the following is really fast
+# awk '/^=/{i=i+1}{i=sprintf("%03d",i)}{print > "heading-"i".txt"}' _tmp/CCS-EN-sample.txt
+# /^=/ => search in file "_tmp/CCS_EN-sample" for heading(i=0), do some fancy format things,
+# print content before first heading (if exist) to file "heading-000.txt", then search for next heading,
+# print content between heading one (including heading one) and next heading to file
+# "heading-001.txt, then do next search (until there is no more heading).
+## 
+
+samples=File.open(e) 
+headings=samples.read.split(/(?=^=[[:blank:]].)/) # split(/(?=pattern)/) cuts before searched expression, "^= ." searches for only one "=" at first position of line, followed by blank and then any character.
+heading_one = headings[0] # get first include file for spine
+#puts heading_one[0] # get first character of first file
+if not heading_one[0] == "="
+puts "the first include-file in spine has to start with \"=\" as first character in first line"
+exit
+else
+headings.each_with_index { |h,i| # h is the content including the heading, i the index (starts from 0)
+c = File.new("_tmp/heading-"+"%03d"%(i+1).to_s+".txt", "w") # index starts at zero therefor i+1
+c.write(h)
+c.close
+}
+end
+
+j = headings.count
+f = File.open(spine, "a")
+ f.write("// epub-part begins\n")
+ f.write("Changes in Version: https://github.com/MaWiMa/CCS/commit/"+git.log(1).object(i.downcase+"/").to_s+"["+git.log(1).object(i.downcase+"/").to_s[0..7]+"] \n")
+ f.write("\n")
+  for m in 1..j # level one chapters 
+  f.write("include::_tmp/heading-"+"%03d"%m+".txt[] \n")
+  end
  f.write("// epub-part ends\n")
- f.close
+f.close
 
 Asciidoctor.render_file f,
-#:require => 'asciidoctor-epub3', 
 :base_dir => '.',
 :to_dir => 'CCS/inclusion',
 :backend => 'epub3',
-#:attributes => 'pdf-pages imagesdir=CCS/images includedir=included',
-:attributes => 'pdf-pages imagesdir=CCS/images includedir=included epub3-stylesdir=CCS',
+#:attributes => 'ebook-validate epub-pages imagesdir=CCS/images includedir=included epub3-stylesdir=CCS',
+:attributes => 'epub-pages imagesdir=CCS/images includedir=included',
 :safe => 'safe'
-=end
-puts "I can't do the #{o}-format now!"
-exit
-
- else
- puts "I can't do this format -> #{o}!"
- exit
 
 end # /format
 
