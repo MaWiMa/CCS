@@ -19,13 +19,18 @@
 |*education ministries*						| Bildungsministerien
 |*emotional and behavioral disorders* (EBD)	| Emotionale- und Verhaltenstörungen (EVS)
 |*exceptional children*                     | Außergewöhnliche Kinder, Abweichung von der Norm, Lernen, Verhalten, Leben verläuft und entwickelt sich jenseits der ersten Erwartung Dritter, wie Eltern, Lehrer, soziale Gemeinschaft
+
 |*facilitator*								| Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
 |*fellow teacher*							| Tutor
 |*file suit*                                | Klage erheben
+|*full trial*                               | Hauptverfahren
 |*guidance counsellor*						| Beratungslehrer
+
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
+
 |*legal remedy*                             | Rechtsbehelf
+
 |*mental disorder*							| psychische Störung
 |*mental handicap*							| geistige Behinderung
 |*mental therapy*							| Verhaltenstherapie
@@ -33,6 +38,7 @@
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*neighbourhood school*                     | Stadtteilschule
 |*Nova Scotia Supreme Court*                | http://www.courts.ns.ca/Supreme_Court/NSSC_home.htm[Oberster Gerichtshof Neuschottlands]
+
 |*placement consideration*                  | http://www.tdsb.on.ca/Portals/0/EarlyYears/docs/SpecialEducationPlan.pdf[Bestimmung des Förderortes]
 |*pull-out recource room*                   | resource program, pull out program link:/CCS/inclusion/Effectiveness_of_Special_Education-Placement.pdf[Placement] 
 |*principal*								| Schulleiterin/Schulleiter
