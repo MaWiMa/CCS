@@ -23,6 +23,7 @@
 |*fellow teacher*							| Tutor
 |*guidance counsellor*						| Beratungslehrer
 |*individual encouragement*					| individuelle Förderung
+|*injunction*                                 | einstweilige Verfügung
 |*legal remedy*                             | Rechtsbehelf
 |*mental disorder*							| psychische Störung
 |*mental handicap*							| geistige Behinderung
