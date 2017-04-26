@@ -46,6 +46,7 @@
 
 |*skills*									| Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
+|*special class*						    | Förderklasse
 |*special education*						| Förderpädagogik
 |*special education resource teacher*		| Förderschullehrer/Förderpädagoge
 |*special needs*							| besondere Bedürfnisse 
