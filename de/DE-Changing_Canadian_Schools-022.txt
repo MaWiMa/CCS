@@ -7,9 +7,21 @@ Sie ihre einzige Chance vor Gericht. Die Schulbehörde entschied, dass
 Luke in einem getrennten Progamm besser gefördert werden würde.
 Die Position der Behörde, dass die Optionen der Beschulung in Abhängigkeit
 zur Schwere der Behinderung stehen würden, entsprach dem Konzept der
-am wenigsten einschränkenden Umgebung und dem Kaskaden-Modell, beides
-typisch für die traditionelle Praxis der Sonderschule (Little, 1985). Die
-Schulverwaltungsbehörde änderte ihre Einstellung nicht.
+am wenigsten einschränkenden Umgebung und dem
+ifdef::sep-pages[]
+link:/CCS/de/DE-Changing_Canadian_Schools-085{outfilesuffix}#_die_löcher_in_der_kaskaden_theorie[Kaskaden-Modell]
+endif::sep-pages[]
+ifdef::html-pages[]
+<<Die Löcher in der Kaskaden Theorie,(Kaskaden-Modell)>>
+endif::html-pages[]
+ifdef::pdf-pages[]
+<<Die Löcher in der Kaskaden Theorie,(Kaskaden-Modell)>>
+endif::pdf-pages[]
+ifdef::epub-pages[]
+xref:_abschnitt_zwei_eltern_und_selbstbestimmung#_die_löcher_in_der_kaskaden_theorie[(Kaskaden-Modell)]
+endif::epub-pages[]
+, beides typisch für die traditionelle Praxis der Sonderschule (Little, 1985).
+Die Schulverwaltungsbehörde änderte ihre Einstellung nicht.
 
 Die Elwoods nahmen die Entscheidung nicht einfach hin. Sie wussten
 sie würden in eine Konfrontration mit einer der etabliertesten Authoritäten
