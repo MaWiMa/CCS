@@ -8,7 +8,20 @@ officials firmly maintained Luke would he better served in a
 segregated program. Their position that a range of placement
 options was necessary depending on the student's level of
 disability was consistent with the concept of least restrictive
-environment and the Cascade model, both typical of traditional
+environment and the 
+ifdef::sep-pages[]
+link:/CCS/en/EN-Changing_Canadian_Schools-085{outfilesuffix}#_the_holes_in_the_cascade_theory[Cascade model]
+endif::sep-pages[]
+ifdef::html-pages[]
+<<The Holes in the Cascade Theory,(Cascade model)>>
+endif::html-pages[]
+ifdef::pdf-pages[]
+<<The Holes in the Cascade Theory,(Cascade model)>>
+endif::pdf-pages[]
+ifdef::epub-pages[]
+xref:_section_two_parent_and_self_advocacy#_the_holes_in_the_cascade_theory[(Cascade model)]
+endif::epub-pages[]
+, both typical of traditional
 special education practice (Little, 1985). The department of
 education did not intervene on their behalf.  
 
