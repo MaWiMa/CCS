@@ -41,6 +41,7 @@
 |*neighbourhood school*                     | Stadtteilschule
 |*Nova Scotia Supreme Court*                | http://www.courts.ns.ca/Supreme_Court/NSSC_home.htm[Oberster Gerichtshof Neuschottlands]
 
+|*parent advocacy*							| Eltern-Interessenvertretung, Vereinigung zur Vertretung der Interessen von Eltern
 |*placement consideration*                  | http://www.tdsb.on.ca/Portals/0/EarlyYears/docs/SpecialEducationPlan.pdf[Bestimmung des Förderortes]
 |*pull-out recource room*                   | resource program, pull out program link:/CCS/inclusion/Effectiveness_of_Special_Education-Placement.pdf[Placement] 
 |*principal*								| Schulleiterin/Schulleiter
