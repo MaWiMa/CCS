@@ -1,21 +1,96 @@
-== Changing Canadian Schools, Schule verändern
+==== ADVOCACY
 
-== This work is not done yet
+==== Interessenvertretung
 
-You are welcome to work with me. 
+Although many of the segregated schools that existed across
+Canada in the early 1980s had been started by local chapters
+of the Canadian Association for Community Living (the national
+advocacy association for persons with mental handicaps) 
+segregated schools and segregated classes no longer satisfy
+the aspirations of many families.
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+Obwohl viele der in Kanada existierenden Förderschulen der 1980er
+von lokalen Abteilungen der Canadian Association for Community Living 
+(CACL, Kanadische Vereinigung für gemeinschaftliches Leben -- die nationale
+Vereinigung zur Interessenvertretung der Menschen mit geistiger Behinderung) 
+gegründet wurden, erfüllen Förderschulen und Förderklassen nicht länger die
+Hoffnungen vieler Familien.
 
-== Diese Arbeit ist noch nicht getan
+Parent advocacy for integrated schooling has increased substantially in
+the years following adoption of the _Charter_, particularly by parents of
+children labelled mentally handicapped.
 
-Ich lade Sie ein mit mir zu arbeiten.
+Eltern-Interessenverbände zur integrativen Beschulung hatten deutlich Zuwachs
+in den Jahren nach der Verabschiedung der _Charta_, vor allem durch Eltern
+von sogenannten _geistig behinderten_ Kindern.
 
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+CACL has advocated and promoted the right of every student to attend a regular class in a
+neighbourhood school.
 
+Die CACL hat das Recht -- zum Besuch einer regulären Klasse einer Stadtteilschule --
+jeden Kindes benannt und ist dafür eingetreten.
 
+This policy has been formally supported by all off CACL's provincial and
+territorial affiliates (CACL, 1987).
 
+Diese Grundregel ist von allen Mitgliedsorganisationen der CACL offiziell
+unterstützt worden
+ifdef::sep-pages,html-pages[]
+link:/CCS/inclusion/ED308645.pdf[(CACL, 1987)]
+endif::[]
+ifdef::pdf-pages,epub-pages[]
+https://mawima.github.io/CCS/inclusion/ED308645.pdf[(CACL, 1987)]
+endif::[]
+.
 
+While integation was not a matter of priority to most local or provincial
+associations in the early 1980s, at the national level, The Roeher Institute,
+sponsored by CACL, began to support parents as they struggled to articulate
+their concerns about their children's education. 
 
+Während Integration keine Priorität für die meisten Orts- oder Bezirksverbände
+in den frühen 1980ern hatte, begann auf der nationalen Ebene, das Roeher
+Institut, finanziell unterstützt durch die CACL, Eltern zu helfen, als diese 
+damit kämpften ihre Sorgen zur Erziehung ihrer Kinder zu formulieren.
 
+At the community, provincial and national levels, parents found solidarity
+and strength by banding together.
+
+Auf kommunaler, Bezirks- und nationaler Ebene, fanden Eltern Solidarität
+und Stärke durch Zusammenschluss.
+
+As parent demand grew, the (Roeher) Institute and CACL identified and
+promoted positive examples of integration and facilitated training for
+educators to work in integrated settings.
+
+Als die Nachfrage durch die Eltern wuchs, benannten und unterstützten das
+(Roeher) Institut und die CACL gute Beispiele von Integration und förderten
+die Ausbildung von Lehrern in integrativen Gegebenheiten.
+
+These courses led to the establishment of university affiliated
+programs that are currently providing teachers and school
+administrators with the attitudes and skills they need to meet
+increasing parent demand for integration.
+
+Diese Kurse führten zur Gründung universitär gebundener Programme, die
+zur Zeit (Anfang der 90er) bei Lehrern und Schulleitern Haltungen und
+Kompetenzen fördern, die diese zur Befriedigung der steigenden Nachfrage
+der Eltern benötigen.
+
+Since the early 1980s, the (Roeher) Institute and CACL have actively promoted integration
+through conferences and seminars, publications, video productions,
+and financial and consulting support for selected litigation.  
+
+Seit den frühen 1980ern, haben das (Roeher) Institut und die CACL aktiv --
+durch Konferenzen und Seminare, Publikationen, Video-Produktionen und durch
+finanzielle und beratende Unterstützung bei besonderen Rechtsstreitigkeiten --
+Integration gefördert.
+
+CACL actively supported the development of an autonomous parent
+organization, the Integration Action Group, which now has a
+substantial membership in southern Ontario and a number of chapters
+in other provinces.
+
+Die CACL unterstützte aktiv die Entwicklung eines autonomen Elternverbandes,
+der Integration Action Group (Aktionsgruppe Integration), die nun viele Mitglieder
+in Süd-Ontario und einige Abteilungen in anderen Provinzen hat.
