@@ -266,12 +266,13 @@ Asciidoctor.render_file f,
 :safe => 'safe'
 
 optthis= "CCS/inclusion/" + File.basename(f, ".txt")
+
 HexaPDF::Document.open(optthis + ".pdf") do |doc|
  doc.task(:optimize, compact: true, object_streams: :generate, compress_pages: true)
  doc.write(optthis + "-optimized.pdf")
 end
+
 File.rename(optthis + "-optimized.pdf", optthis + ".pdf")
-File.delete(optthis + "-optimized.pdf")
 
 when "epub"
 
