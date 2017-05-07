@@ -6,6 +6,7 @@ require 'asciidoctor'
 require 'asciidoctor-pdf'
 require 'asciidoctor-epub3'
 require 'git'
+require 'hexapdf'
 
 BEGIN {
  unless ARGV.length > 1 && ARGV.length < 5
@@ -263,6 +264,14 @@ Asciidoctor.render_file f,
 :attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
 #:attributes => 'pdf-pages  imagesdir=CCS/images includedir=included',
 :safe => 'safe'
+
+optthis= "CCS/inclusion/" + File.basename(f, ".txt")
+HexaPDF::Document.open(optthis + ".pdf") do |doc|
+ doc.task(:optimize, compact: true, object_streams: :generate, compress_pages: true)
+ doc.write(optthis + "-optimized.pdf")
+end
+File.rename(optthis + "-optimized.pdf", optthis + ".pdf")
+File.delete(optthis + "-optimized.pdf")
 
 when "epub"
 
