@@ -6,27 +6,28 @@
 
 |*adaptive learning environments model*     | http://files.eric.ed.gov/fulltext/ED243913.pdf[Indivdiuelle Förderung]
 
-|*behavior disorder*						| Verhaltensstörung
-|*beyond behavior*							| Inakzeptables Verhalten
+|*behavior disorder*                        | Verhaltensstörung
+|*beyond behavior*                          | Inakzeptables Verhalten
 
 |*Canadian Association for Community Living*| Kanadische Vereinigung für gemeinschaftliches Leben
-|*challenging behavior*						| Verhaltensauffälligkeiten
-|*citizenship*								| Bürgerrecht
+|*challenging behavior*                     | Verhaltensauffälligkeiten
+|*citizenship*                              | Bürgerrecht
 
 |*Department of Education*                  | Bildungsministerium   
 
-|*eating disorder*							| Essstörung
-|*education ministries*						| Bildungsministerien
-|*emotional and behavioral disorders* (EBD)	| Emotionale- und Verhaltenstörungen (EVS)
+|*eating disorder*                          | Essstörung
+|*education ministries*                     | Bildungsministerien
+|*emotional and behavioral disorders* (EBD) | Emotionale- und Verhaltenstörungen (EVS)
 |*equality rights provisions*               | Bestimmungen zur Gleichberechtigung, Gleichheitsbestimmungen
 |*exceptional children*                     | Außergewöhnliche Kinder, Abweichung von der Norm, Lernen, Verhalten, Leben verläuft und entwickelt sich jenseits der ersten Erwartung Dritter, wie Eltern, Lehrer, soziale Gemeinschaft
 
-|*facilitator*								| Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
-|*fellow teacher*							| Tutor
+|*facilitator*                              | Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
+|*fellow teacher*                           | Tutor
 |*file suit*                                | Klage erheben
 |*full trial*                               | Hauptverfahren
-|*guidance counsellor*						| Beratungslehrer
+|*guidance counsellor*                      | Beratungslehrer
 
+|*Individual Education Plan (IEP)*          | Individueller Förderplan
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
 
@@ -36,16 +37,16 @@
 |*mental disorder*							| psychische Störung
 |*mental handicap*							| geistige Behinderung
 |*mental therapy*							| Verhaltenstherapie
-|*methods and resource teacher*				| Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
+|*methods and resource teacher*	            | Teamlehrer des Klassenlehrers zur Unterstützung in inklusiven Anforderungen
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*neighbourhood school*                     | Stadtteilschule
 |*Nova Scotia Supreme Court*                | http://www.courts.ns.ca/Supreme_Court/NSSC_home.htm[Oberster Gerichtshof Neuschottlands]
 
-|*parent advocacy*							| Eltern-Interessenvertretung, Vereinigung zur Vertretung der Interessen von Eltern
+|*parent advocacy*                          | Eltern-Interessenvertretung, Vereinigung zur Vertretung der Interessen von Eltern
 |*placement consideration*                  | http://www.tdsb.on.ca/Portals/0/EarlyYears/docs/SpecialEducationPlan.pdf[Bestimmung des Förderortes]
 |*pull-out recource room*                   | resource program, pull out program link:/CCS/inclusion/Effectiveness_of_Special_Education-Placement.pdf[Placement] 
-|*principal*								| Schulleiterin/Schulleiter
-|*problem-solving team*						| Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
+|*principal*                                | Schulleiterin/Schulleiter
+|*problem-solving team*                     | Team zur Planung und Umsetzung eines Problemlöseansatzes im Sinne des Schülers
 
 |*queen's bench division*                   | Zivilkammer, https://de.wikipedia.org/wiki/High_Court_of_Justice#Queen.E2.80.99s_Bench_Division[Kammer für Zivilsachen]
 
@@ -53,21 +54,21 @@
 
 |*segregated classes*                       | Förderklassen (sinngemäß)
 |*segregated schools*                       | Förderschulen (sinngemäß)
-|*self-advocacy*							| Eigenverantwortung (Vertretung der eigenen Rechte)
-|*self-determination*						| Selbstbestimmung
-|*school board*								| Schulamt, Schulbehörde, Schulausschuss
+|*self-advocacy*                            | Eigenverantwortung (Vertretung der eigenen Rechte)
+|*self-determination*                       | Selbstbestimmung
+|*school board*                             | Schulamt, Schulbehörde, Schulausschuss
 
-|*skills*									| Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
+|*skills*                                   | Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
-|*special class*						    | Förderklasse
-|*special education*						| Förderpädagogik
-|*special education resource teacher*		| Förderschullehrer/Förderpädagoge
-|*special needs*							| besondere Bedürfnisse 
+|*special class*                            | Förderklasse
+|*special education*                        | Förderpädagogik
+|*special education resource teacher*       | Förderschullehrer/Förderpädagoge
+|*special needs*                            | besondere Bedürfnisse 
                                               http://www.european-agency.org/country-information/germany/national-overview/special-needs-education-within-the-education-system[(nähere Erläuterung)]
-|*staff room*								| Lehrerzimmer
-|*staff meeting*							| Lehrerkonferenz
+|*staff room*                               | Lehrerzimmer
+|*staff meeting*                            | Lehrerkonferenz
 
-|*teacher fellow*							| Kollege
+|*teacher fellow*                           | Kollege
 
 
 |===
