@@ -80,7 +80,6 @@ spine = i.downcase+"/CCS-"+i+".txt"
 f = File.new(spine, "w")
 f.write("// common-part begins\n")
 f.write(":ext-relative: {outfilesuffix} \n")
-f.write(":nofooter:\n")
 f.write(":doctype: book \n")
 f.write(":front-cover-image: image:"+i+"-CCS-Cover.svg[Front Cover] \n")
 f.write(":doctitle: Changing Canadian Schools: Perspectives on Disability and Inclusion. \n")
@@ -215,8 +214,6 @@ Asciidoctor.render_file f,
 when "pdf"
  f = File.open(spine, "a")
   f.write("// pdf-part begins\n")
-  f.write(":pagenums: \n")
-  f.write(":toc: macro \n")
   f.write("Changes in this Version can be viewed by following this link: https://github.com/MaWiMa/CCS/commit/"+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s+"["+git.log(1).path(i.downcase+"/"+i+"*.txt").to_s[0..7]+"] \n")
 
   f.write("\n")
@@ -261,8 +258,7 @@ Asciidoctor.render_file f,
 :base_dir => '.',
 :to_dir => 'CCS/inclusion',
 :backend => 'pdf',
-:attributes => 'pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
-#:attributes => 'pdf-pages  imagesdir=CCS/images includedir=included',
+:attributes => 'pagenums pdf-pages pdf-style=CCS pdf-stylesdir=CCS imagesdir=CCS/images includedir=included',
 :safe => 'safe'
 
 optthis= "CCS/inclusion/" + File.basename(f, ".txt")
@@ -309,13 +305,13 @@ headings=samples.read.split(/(?=^=[[:blank:]].)/) # split(/(?=pattern)/) cuts be
 heading_one = headings[0] # get first include file for spine
 #puts heading_one[0] # get first character of first file
 if not heading_one[0] == "="
-puts "the first include-file in spine has to start with \"=\" as first character in first line"
-exit
+ puts "the first include-file in spine has to start with \"=\" as first character in first line"
+ exit
 else
 headings.each_with_index { |h,i| # h is the content including the heading, i the index (starts from 0)
 c = File.new("_tmp/heading-"+"%03d"%(i+1).to_s+".txt", "w") # index starts at zero therefor i+1
-c.write(h)
-c.close
+ c.write(h)
+ c.close
 }
 end
 
