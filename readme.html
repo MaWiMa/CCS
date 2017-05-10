@@ -140,10 +140,10 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 </div>
 <div class="paragraph">
-<p>At the moment you can build hmtl-pages this way:</p>
+<p>At the moment you can build hmtl-pages, pdf-files and epub3-files this way:</p>
 </div>
 <div class="paragraph">
-<p>To make all English pages just type:</p>
+<p>To make all-english-hmtl pages (one big hmtl file) just type:</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -151,7 +151,8 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 </div>
 <div class="paragraph">
-<p>To make Page one of the English Version just type:</p>
+<p>To make separate pages, for example page one of the english Version just
+type:</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -159,7 +160,8 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 </div>
 </div>
 <div class="paragraph">
-<p>To make Page two to onehundretfiftyone of the English Version just type:</p>
+<p>To make page two to onehundretfiftyone as separate pages of the english
+Version just type:</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -170,7 +172,7 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 <p>Everytime you run this commands the all-in-one-HTML-Page gets updated too.</p>
 </div>
 <div class="paragraph">
-<p>To take a look at the website you did build run:</p>
+<p>To take a look at pages (the website) you did build run:</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -188,7 +190,25 @@ To make <strong>all</strong> basedir HTML-Pages just open a terminal and type</p
 at <strong><a href="http://localhost:8000/CCS" class="bare">http://localhost:8000/CCS</a></strong>.</p>
 </div>
 <div class="paragraph">
-<p><span class="userinput3"><span class="image"><a class="image" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/cc-by-nc-sa.svg" alt="CC-BY-NC-SA"></a></span></span>
+<p>To make one pdf file in english just type (be patient it will last a few
+seconds):</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>./makePages.rb EN pdf</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>To make one epub3 file in english just type:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>./makePages.rb EN epub</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Both files are stored in CCS/inclusion/CCS-EN.[pdf, epub]
+<span class="userinput3"><span class="image"><a class="image" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="images/cc-by-nc-sa.svg" alt="CC-BY-NC-SA"></a></span></span>
 <span class="userinput2-l"><a href="/CCS/en/EN-Changing_Canadian_Schools-003.html">Transcription</a></span>
 <span class="userinput2-c"><a href="/CCS/index.html">Home</a></span>
 <span class="userinput2-r"><a href="/CCS/de/DE-Changing_Canadian_Schools-003.html">Translation</a></span>
