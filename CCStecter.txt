@@ -52,12 +52,13 @@
 
 |*remedial education*                       | Remedialer Unterricht	http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
 
+|*school board*                             | Schulamt, Schulbehörde, Schulausschuss
+
 |*segregated classes*                       | Förderklassen (sinngemäß), getrennte Klassen (wörtlich)
 |*segregated schools*                       | Förderschulen (sinngemäß), getrennte Schulen (wörtlich
 |*segregated school system*                 | separierendes Schulssystem, mehrgliedriges Schulsystem (euphemistisch)
 |*self-advocacy*                            | Eigenverantwortung (Vertretung der eigenen Rechte)
 |*self-determination*                       | Selbstbestimmung
-|*school board*                             | Schulamt, Schulbehörde, Schulausschuss
 
 |*skills*                                   | Fertigkeiten link:/CCS/inclusion/DeutscherQualifikationsrahmen.pdf[(Teilkompetenz der Fachkompetenz nach DQR)]
 											  http://www.eucen.eu/EQFpro/GeneralDocs/FilesFeb09/GLOSSARY.pdf[(EQF Glossar)]
