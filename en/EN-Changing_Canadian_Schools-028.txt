@@ -1,12 +1,11 @@
 //~~and basketball games, simply because he is our friend and we care about him. (Carson 1987)~~ <- page 27
 
-Parents have invariably had a deep feeling of malease both about the
+Parents have invariably had a deep feeling of malaise both about the
 prospect and the reality of special education. This has been true even
-when parents have had no clear no clear conception of why this is so and
-how it might be changed. Goffman(1963) has provided a thorough description
+when parents have had no clear conception of why this is so and how it
+might be changed. Goffman(1963) has provided a thorough description
 of the underlying factors that affect people's perception
 of difference. As one parent explains,
-
 
 [quote, Penner, 1989]
 ____
@@ -15,34 +14,46 @@ first hand the damage the segregated school system has done to some
 students, particularly those with severe handicaps. The system was based
 on the negative, stressing the students`' differences and inabilities.
 Special education teachers have told as repeatedly that our daughter
-Yvonne "`does not understand`", "`is not able to...`", "`will never be
-able to...`", and so on. The turning point came about fiveyears ago with
+Yvonne "`does not understand`", "`is not able to ...`", "`will never be
+able to ...`", and so on. The turning point came about five years ago with
 the recognition that although our daughter will probably always need
 assistance in daily living, the most important element in her life will
 be friends and the ability to communicate with them. It has taken a
 number of years for educators to understand the importance of this.
 ____
 
+//https://github.com/asciidoctor/asciidoctor/issues/1667
+//[quote, Jory, 1989
+//ifdef::sep-pages[]
+//link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[,(see Chapter 5)]
+//endif::sep-pages[]
+//ifdef::html-pages,pdf-pages[]
+//<<Chapter 5, (see Chapter 5)>>
+//endif::[]
+//ifdef::epub-pages[]
+//xref:_section_two_parent_and_self_advocacy#_chapter_5[, (see Chapter 5)]
+//endif::epub-pages[]
+//]
+
 [quote, Jory, 1989]
 ____
 The only time in my son's life that he was segregated was in our school
 system. It is not the only time he has learned; he has learned much as a
-member of the YMCA, at various jobs, and in groups... What this tells me
+member of the YMCA, at various jobs, and in groups ... What this tells me
 is that the segregation that was part of his educational upbringing,
 unfortunately, was a learned response, it is not natural. It seems to me
 that in an environment where we believe that [all] people should be treated
-equally... there is no place in our school system [for the] kind of
-segregation... being promoted through the Cascade model.
+equally ... there is no place in our school system [for the] kind of
+segregation ... being promoted through the Cascade model.
 ____
+
+//this maybe done correct later, see issue 1667 obove
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
 endif::sep-pages[]
-ifdef::html-pages[]
+ifdef::html-pages,pdf-pages[]
 <<Chapter 5,(see Chapter 5)>>
-endif::html-pages[]
-ifdef::pdf-pages[]
-<<Chapter 5,(see Chapter 5)>>
-endif::pdf-pages[]
+endif::[]
 ifdef::epub-pages[]
 xref:_section_two_parent_and_self_advocacy#_chapter_5[(see Chapter 5)]
 endif::epub-pages[]
