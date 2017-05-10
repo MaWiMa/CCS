@@ -76,6 +76,7 @@
 
 |*teacher fellow*                           | Kollege
 
+|*upbringing*                               | Erziehung
 
 |===
 
