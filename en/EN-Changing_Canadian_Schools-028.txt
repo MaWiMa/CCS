@@ -3,15 +3,9 @@
 Parents have invariably had a deep feeling of malaise both about the
 prospect and the reality of special education. This has been true even
 when parents have had no clear conception of why this is so and how it
-might be changed. 
-ifdef::sep-pages,html-pages[]
-link:/CCS/inclusion/StigmaGoffman1963.pdf[Goffman (1963)]
-endif::[]
-ifdef::pdf-pages,epub-pages[]
-https://mawima.github.io/CCS/inclusion/StigmaGoffman1963.pdf[Goffman (1963)]
-endif::[]
-has provided a thorough description of the underlying factors that
-affect people's perception of difference. As one parent explains,
+might be changed. Goffman (1963) has provided a thorough description
+of the underlying factors that affect people's perception
+of difference. As one parent explains,
 
 [quote, Penner, 1989]
 ____
