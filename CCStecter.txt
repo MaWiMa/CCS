@@ -54,6 +54,8 @@
 
 |*school board*                             | Schulamt, Schulbehörde, Schulausschuss
 
+|*severe handicaps*                         | Schwerstbehinderungen (sinngemäß), schweren Behinderungen (wörtlich)
+
 |*segregated classes*                       | Förderklassen (sinngemäß), getrennte Klassen (wörtlich)
 |*segregated schools*                       | Förderschulen (sinngemäß), getrennte Schulen (wörtlich
 |*segregated school system*                 | separierendes Schulssystem, mehrgliedriges Schulsystem (euphemistisch)
