@@ -26,9 +26,6 @@ BEGIN {
  a = ARGV[2].to_i                # 3. Parameter first page [optional]
  b = ARGV[3].to_i                # 4. Parameter last page [optional]
 
-puts i
-puts o
-
  if a == 0
   a = 1
   b = 329
