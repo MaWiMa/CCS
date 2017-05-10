@@ -1,4 +1,5 @@
 *~
+*.sh
 *.html
 #CCS/**/*.html
 _tmp
