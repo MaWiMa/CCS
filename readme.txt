@@ -105,23 +105,25 @@ If you just want to build the page that you changed, type
 ./makeBase.rb justchangedfile.txt
 ----
 
-At the moment you can build hmtl-pages this way:
+At the moment you can build hmtl-pages, pdf-files and epub3-files this way:
 
-To make all English pages just type:
+To make all-english-hmtl pages (one big hmtl file) just type:
 
 [source]
 ----
 ./makePages.rb EN html 
 ----
 
-To make Page one of the English Version just type:
+To make separate pages, for example page one of the english Version just
+type:
 
 [source]
 ----
 ./makePages.rb EN html 1
 ----
 
-To make Page two to onehundretfiftyone of the English Version just type:
+To make page two to onehundretfiftyone as separate pages of the english
+Version just type:
 
 [source]
 ----
@@ -131,7 +133,7 @@ To make Page two to onehundretfiftyone of the English Version just type:
 Everytime you run this commands the all-in-one-HTML-Page gets updated too.
 
 
-To take a look at the website you did build run:
+To take a look at pages (the website) you did build run:
 
 [source]
 ----
@@ -140,8 +142,25 @@ ruby -run -e httpd . -p 8000
 
 Your terminal should show something like this:
 
-image:/CCS/images/terminal-webrick.png[image from terminal output of ruby -run -e httpd . -p 8000] +
+image:/CCS/images/terminal-webrick.png[image from terminal output of ruby
+-run -e httpd . -p 8000] +
 
 If it does, open your browser and look for your website
 at *http://localhost:8000/CCS*.
 
+To make one pdf file in english just type (be patient it will last a few
+seconds):
+
+[source]
+----
+./makePages.rb EN pdf 
+----
+
+To make one epub3 file in english just type:
+
+[source]
+----
+./makePages.rb EN epub
+----
+
+Both files are stored in CCS/inclusion/CCS-EN.[pdf, epub]
