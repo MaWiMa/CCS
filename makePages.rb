@@ -26,6 +26,9 @@ BEGIN {
  a = ARGV[2].to_i                # 3. Parameter first page [optional]
  b = ARGV[3].to_i                # 4. Parameter last page [optional]
 
+puts i
+puts o
+
  if a == 0
   a = 1
   b = 329
@@ -46,14 +49,7 @@ BEGIN {
   abort
  end
 
- until i.length == 2    # i has more than 2 letters
-  puts "Please enter language as follows!"
-  puts "Notation: <language> <format>"
-  puts "Example: EN pdf"
-  abort
-end
-
- until i == "EN" || i== "DE"
+ until i == "EN" || i == "DE"
   puts "At this time there are only english [EN] and german [DE] versions." 
   puts "if you like to start a translation into other languages, you are welcome."
   puts "If you are comfortable with git and github you could fork the repository on"
@@ -68,6 +64,15 @@ end
   puts "Norbert.Reschke@gMail.com"
   abort
  end
+
+ until o == "html" || o == "pdf" || o == "epub"
+  puts "Please enter format as second parameter!"
+  puts "Notation: <language> <format>"
+  puts "Example: EN html"
+  puts "You can choose html, pdf or epub"
+  abort
+ end
+
 }
 
 def sample_one(file,lang)
