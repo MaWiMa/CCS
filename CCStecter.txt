@@ -16,6 +16,7 @@
 |*Department of Education*                  | Bildungsministerium   
 
 |*eating disorder*                          | Essstörung
+|*educator* (teacher)                       | Lehrer
 |*education ministries*                     | Bildungsministerien
 |*emotional and behavioral disorders* (EBD) | Emotionale- und Verhaltenstörungen (EVS)
 |*equality rights provisions*               | Bestimmungen zur Gleichberechtigung, Gleichheitsbestimmungen
