@@ -52,8 +52,9 @@
 
 |*remedial education*                       | Remedialer Unterricht	http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
 
-|*segregated classes*                       | Förderklassen (sinngemäß)
-|*segregated schools*                       | Förderschulen (sinngemäß)
+|*segregated classes*                       | Förderklassen (sinngemäß), getrennte Klassen (wörtlich)
+|*segregated schools*                       | Förderschulen (sinngemäß), getrennte Schulen (wörtlich
+|*segregated school system*                 | separierendes Schulssystem, mehrgliedriges Schulsystem (euphemistisch)
 |*self-advocacy*                            | Eigenverantwortung (Vertretung der eigenen Rechte)
 |*self-determination*                       | Selbstbestimmung
 |*school board*                             | Schulamt, Schulbehörde, Schulausschuss
