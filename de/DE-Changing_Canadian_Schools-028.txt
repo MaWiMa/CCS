@@ -1,18 +1,7 @@
-Parents have invariably had a deep feeling of malaise both about the
-prospect and the reality of special education.
-
 Eltern hatten ein permanentes Gefühl des Unbehagens, sowohl aufgrund
-des Konzepzes und der Realität der Sonderpädagogik.
-
-This has been true even when parents have had no clear conception of why
-this is so and how it might be changed.
-
-Dies traf auch zu wenn Eltern keine klare Idee hatten, warum dies so war
+des Konzepzes als auch der Realität der Sonderpädagogik.
+Dies traf auch zu, wenn Eltern keine klare Idee hatten, warum dies so war
 und wie dieser Zustand verändert werden könnte.
-
-Goffman(1963) has provided a thorough description of the underlying factors
-that affect people's perception of difference.
-
 ifdef::sep-pages,html-pages[]
 link:/CCS/inclusion/StigmaGoffman1963.pdf[Goffman (1963)]
 endif::[]
@@ -21,51 +10,22 @@ https://mawima.github.io/CCS/inclusion/StigmaGoffman1963.pdf[Goffman (1963)]
 endif::[]
 lieferte eine eingehende Beschreibung der zugrunde liegenden
 Faktoren, die die Akzeptanz von Diversität bei Menschen betrifft.
-
-As one parent explains,
-
 Ein Elternteil erläuterte,
 
 [quote, Penner, 1989]
 ____
-Our experience with special education goes back to 1976.
-
 Unsere Erfahrung mit der Sonderpädagogik geht bis zum Jahr 1976 zurück.
-
-We have seen at first hand the damage the segregated school system has done to some
-students, particularly those with severe handicaps.
-
 Wir haben aus erster Hand erfahren, welchen Schaden das separierende Schulsystem
 einigen Schülern zugefügt hat, besonders solchen mit Schwerstbehinderungen.
-
-The system was based on the negative, stressing the students`' differences
-and inabilities.
-
 Dieses System war an den Schwächen ausgerichtet und betonte die Normabweichung
-und Unfähigkeit. 
-
-Special education teachers have told us repeatedly that our daughter
-Yvonne "`does not understand`", "`is not able to ... `", "`will never be
-able to ... `", and so on.
-
-Sonderschullehrer haben uns wiederkehrend vermittelt, dass unsere Tochter
-Yvonne "`nicht versteht`", "`nicht in der Lage ist ... `", "`wird niemals
-in der Lage sein ... `" und so weiter.
-
-The turning point came about five years ago with the recognition that
-although our daughter will probably always need assistance in daily living,
-the most important element in her life will be friends and the ability to
-communicate with them.
-
+und die Unfähigkeit. Sonderschullehrer haben uns wiederkehrend vermittelt,
+dass unsere Tochter Yvonne "`nicht versteht`", "`nicht in der Lage ist
+... `", "`niemals in der Lage sein wird ... `" und so weiter.
 Der Wendepunkt kam vor fünf Jahren mit der Erkenntnis, dass unsere Tochter
 wohl immer Hilfe im täglichen Leben benötigen wird, aber das wichtigste
 Element in Ihrem Leben Freunde -- und die Möglichkeit mit ihnen zu kommunizieren
--- sein werden.
-
-It has taken a number of years for educators to understand the importance of this.
-
-Es hat viele Jahre gedauert, bis Lehrer diese besondere Bedeutung verstanden
-haben.
+-- sein werden. Es hat viele Jahre gedauert, bis Lehrer diese besondere
+Bedeutung verstanden haben.
 ____
 
 //https://github.com/asciidoctor/asciidoctor/issues/1667
@@ -83,33 +43,16 @@ ____
 
 [quote, Jory, 1989]
 ____
-The only time in my son's life that he was segregated was in our school
-system.
-
-In seinem Leben war mein Sohn nur einmal von anderen getrennt und das war
-in unserem Schulsystem.
-
-It is not the only time he has learned; he has learned much as a
-member of the YMCA, at various jobs, and in groups ...
-
-Das ist nicht die einzige Zeit gewesen zu der er gelernt hat; er hat viel
-als Mitglied des YMCA gelernt, bei verschiedenen Jobs und in Gruppen ...
-
-What this tells me is that the segregation that was part of his educational
-upbringing, unfortunately, was a learned response, it is not natural.
-
-Was mir das sagt ist, dass die Trennung (von anderen), die ein Bestandteil
-seiner schulischen Erziehung -- eine unglücklicherweise gemachte Erfahrung
--- war, nicht natürlich ist.
-
-It seems to me that in an environment where we believe that [all] people should be treated
-equally ... there is no place in our school system [for the] kind of
-segregation ... being promoted through the Cascade model.
-
-Meiner Meinung nach sollte, in einer Welt in der wir glauben alle Menschen
-gleich behandelen zu wollen, ... in unserem Schulsystem kein Platz für
-diese Art von Trennung ... wie sie im kaskadierenden Modell vorausgesetzt
-wird, sein.
+In seinem Leben war mein Sohn nur zu einer bestimmten Zeit von anderen
+getrennt und das war in unserem Schulsystem. Das ist nicht die einzige
+Zeit gewesen zu der er gelernt hat; er hat viel als Mitglied des YMCA
+gelernt, bei verschiedenen Jobs und in Gruppen ... Was mir das sagt ist,
+dass die Trennung (von anderen), die -- eine unglücklicherweise gemachte
+Erfahrung --ein Bestandteil seiner schulischen Erziehung war, nicht
+natürlich ist. Meiner Meinung nach sollte, in einer Welt in der wir glauben
+alle Menschen gleich behandeln zu wollen, ... in unserem Schulsystem kein
+Platz für diese Art von Trennung ... wie sie im kaskadierenden Modell
+vorausgesetzt wird, sein.
 ____
 
 //this maybe done correct later, see issue 1667 obove
