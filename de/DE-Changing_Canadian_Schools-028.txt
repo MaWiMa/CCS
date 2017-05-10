@@ -31,13 +31,14 @@ ____
 //https://github.com/asciidoctor/asciidoctor/issues/1667
 //[quote, Jory, 1989
 //ifdef::sep-pages[]
-//link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[,(see Chapter 5)]
+//link:/CCS/de/DE-Changing_Canadian_Schools-079{outfilesuffix}[,(siehe Kapitel 5)]
 //endif::sep-pages[]
 //ifdef::html-pages,pdf-pages[]
-//<<Chapter 5, (see Chapter 5)>>
+//<<Chapter 5, (siehe Kapitel 5)>>
 //endif::[]
 //ifdef::epub-pages[]
-//xref:_section_two_parent_and_self_advocacy#_chapter_5[, (see Chapter 5)]
+//xref:_section_two_parent_and_self_advocacy#_chapter_5[, (siehe Kapitel 5)]
+//xref:_abschnitt_zwei_eltern_und_selbstbestimmung#_kapitel_5[, (siehe Kapitel 5)]
 //endif::epub-pages[]
 //] 
 
@@ -57,11 +58,11 @@ ____
 
 //this maybe done correct later, see issue 1667 obove
 ifdef::sep-pages[]
-link:/CCS/en/EN-Changing_Canadian_Schools-079{outfilesuffix}[(see Chapter 5)]
+link:/CCS/de/DE-Changing_Canadian_Schools-079{outfilesuffix}[(siehe Kapitel 5)]
 endif::sep-pages[]
 ifdef::html-pages,pdf-pages[]
-<<Chapter 5,(see Chapter 5)>>
+<<Kapitel 5,(siehe Kapitel 5)>>
 endif::[]
 ifdef::epub-pages[]
-xref:_section_two_parent_and_self_advocacy#_chapter_5[(see Chapter 5)]
+xref:_abschnitt_zwei_eltern_und_selbstbestimmung#_kapitel_5[(siehe Kapitel 5)]
 endif::epub-pages[]
