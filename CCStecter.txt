@@ -32,7 +32,9 @@
 |*Individual Education Plan (IEP)*          | Individueller Förderplan
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
-|*integrated day care*                      | inklusive Kindertagesbetreuung (sinngemäß)
+|*integrated day care*                      | inklusive Kindertagesbetreuung, informelles Lernen (sinngemäß)
+
+|*kindergarten*                             | Kindergarten für bis 4-6-jährige Kinder mit strukturierter Lernumgebung
 
 |*legal remedy*                             | Rechtsbehelf
 |*litigation*                               | Prozess, Rechtsstreit, Gerichtsverfahren
@@ -44,6 +46,7 @@
 											  http://www.cea-ace.ca/education-canada/article/role-resource-teacher-inclusive-setting[(nähere aktuelle Erläuterung)]
 |*neighbourhood school*                     | Stadtteilschule
 |*Nova Scotia Supreme Court*                | http://www.courts.ns.ca/Supreme_Court/NSSC_home.htm[Oberster Gerichtshof Neuschottlands]
+|*nursery*                                  | Kinderhort (Kindergarten) für bis 3-jährige Kinder mit strukturierter Lernumgebung
 
 |*parent advocacy*                          | Eltern-Interessenvertretung, Vereinigung zur Vertretung der Interessen von Eltern
 |*placement consideration*                  | http://www.tdsb.on.ca/Portals/0/EarlyYears/docs/SpecialEducationPlan.pdf[Bestimmung des Förderortes]
