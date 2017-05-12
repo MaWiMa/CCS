@@ -20,6 +20,7 @@
 |*education ministries*                     | Bildungsministerien
 |*emotional and behavioral disorders* (EBD) | Emotionale- und Verhaltenstörungen (EVS)
 |*equality rights provisions*               | Bestimmungen zur Gleichberechtigung, Gleichheitsbestimmungen
+|*early intervention program                | Programmen zur Frühförderung, Frühförderungskonzept
 |*exceptional children*                     | Außergewöhnliche Kinder, Abweichung von der Norm, Lernen, Verhalten, Leben verläuft und entwickelt sich jenseits der ersten Erwartung Dritter, wie Eltern, Lehrer, soziale Gemeinschaft
 
 |*facilitator*                              | Prozessbegleiter http://kommunikationslotsen.de/facilitating-change/was-ist-ein-facilitator/[(nähere Erläuterung)]
@@ -31,6 +32,7 @@
 |*Individual Education Plan (IEP)*          | Individueller Förderplan
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
+|*integrated day care*                      | inklusive Kindertagesbetreuung (sinngemäß)
 
 |*legal remedy*                             | Rechtsbehelf
 |*litigation*                               | Prozess, Rechtsstreit, Gerichtsverfahren
