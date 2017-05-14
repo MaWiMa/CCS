@@ -28,7 +28,7 @@
 |*file suit*                                | Klage erheben
 |*full trial*                               | Hauptverfahren
 |*french immersion*                         | [[immersion]]französisches Sprachbad z.B. im Kindergarten oder der Schule,
-                                              der Erwerb der fremden Sprache erfolgt im Sprachbad ausschließlich
+                                              der Erwerb der fremden Sprache folgt im Sprachbad
                                               den Prinzipien des Spracherwerbs der Muttersprache 
 
 |*guidance counsellor*                      | Beratungslehrer
