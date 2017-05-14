@@ -27,7 +27,7 @@
 |*fellow teacher*                           | Tutor
 |*file suit*                                | Klage erheben
 |*full trial*                               | Hauptverfahren
-|*french immersion*                         | französisches Sprachbad z.B. im Kindergarten oder der Schule,
+|*french immersion*                         | [[immersion]]französisches Sprachbad z.B. im Kindergarten oder der Schule,
                                               der Erwerb der fremden Sprache erfolgt im Sprachbad ausschließlich
                                               den Prinzipien des Spracherwerbs der Muttersprache 
 
