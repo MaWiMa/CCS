@@ -11,7 +11,7 @@ die Eltern von Kindern mit einem geistigem Handicap höhere Erwartungen,
 als die traditionell vom Fachpersonal vorgegebenen, an das Leben ihrer
 Kinder zu entwickeln.
 Diese Eltern wollten Alternativen zur getrennten Ausbildung von Schülern und sie
-engagierten sich in "`early intervention`"
+engagierten sich in "`link:/CCS/CCStecter.html#early_intervention[early intervention]`"
 (z.B. http://www.earlyintervention.net), in neuen Methoden der Förderung
 ihrer Kinder und entdeckten und bauten auf die Fähigkeit ihrer Kinder zu
 lernen. Mit der Durchführung ihrer Erwartungen
