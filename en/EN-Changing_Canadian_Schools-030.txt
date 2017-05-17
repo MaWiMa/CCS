@@ -18,12 +18,9 @@ Steinbach, a parent
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
 endif::sep-pages[]
-ifdef::html-pages[]
+ifdef::html-pages, pdf-pages[]
 <<Chapter 6,(see Chapter 6)>>
-endif::html-pages[]
-ifdef::pdf-pages[]
-<<Chapter 6,(see Chapter 6)>>
-endif::pdf-pages[]
+endif::[]
 ifdef::epub-pages[]
 xref:_section_two_parent_and_self_advocacy#_chapter_6[(see Chapter 6)]
 endif::epub-pages[]
@@ -49,12 +46,9 @@ ____
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
 endif::sep-pages[]
-ifdef::html-pages[]
+ifdef::html-pages, pdf-pages[]
 <<Chapter 6,(see Chapter 6)>>
-endif::html-pages[]
-ifdef::pdf-pages[]
-<<Chapter 6,(see Chapter 6)>>
-endif::pdf-pages[]
+endif::[]
 ifdef::epub-pages[]
 xref:_section_two_parent_and_self_advocacy#_chapter_6[(see Chapter 6)]
 endif::epub-pages[]
