@@ -18,7 +18,7 @@ berichtet Alene Steinbach, ein Elternteil
 ifdef::sep-pages[]
 link:/CCS/de/DE-Changing_Canadian_Schools-093{outfilesuffix}[(siehe Kapitel 6)]
 endif::sep-pages[]
-ifdef::html-pages, pdf-pages[]
+ifdef::html-pages,pdf-pages[]
 <<Kapitel 6,(siehe Kapitel 6)>>
 endif::[]
 ifdef::epub-pages[]
@@ -71,7 +71,7 @@ ____
 ifdef::sep-pages[]
 link:/CCS/de/DE-Changing_Canadian_Schools-093{outfilesuffix}[(siehe Kapitel 6)]
 endif::sep-pages[]
-ifdef::html-pages, pdf-pages[]
+ifdef::html-pages,pdf-pages[]
 <<Kapitel 6,(siehe Kapitel 6)>>
 endif::[]
 ifdef::epub-pages[]
