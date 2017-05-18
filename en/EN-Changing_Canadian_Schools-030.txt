@@ -36,7 +36,7 @@ parents tell their success stories:
 ____
 For years I watched Mandy stand alone on the front lawn as all of the
 neighbourhood children rushed by her. I remember thinking, "`Please, just
-one person stop and talk toher, just one of you ask her to play too ... !`"
+one person stop and talk to her, just one of you ask her to play too ... !`"
 [O]ne of the most important benefits of being included [in a regular class is]
 that Mandy now has friends.
 [Her] original group of [three] friends has now more than quadrupled in number.
@@ -46,7 +46,7 @@ who come to our home to call on her to come out to play, her friends who
 invite her to parties and dances, and the kids who are anxious to see her
 at Brownies, the Mall, gymnastics, figure skating, the ball diamonds, and
 the hockey rinks. These are the kids who can't wait to introduce me to
-their parents as "`Mandy's mom. Mandy, she's in our class`"
+their parents as "`Mandy's mom. Mandy, she's in our class.`"
 ____
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
