@@ -18,20 +18,18 @@ Steinbach, a parent
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
 endif::sep-pages[]
-ifdef::html-pages, pdf-pages[]
+ifdef::html-pages,pdf-pages[]
 <<Chapter 6,(see Chapter 6)>>
 endif::[]
 ifdef::epub-pages[]
 xref:_section_two_parent_and_self_advocacy#_chapter_6[(see Chapter 6)]
 endif::epub-pages[]
 .
-
 However, while advocacy by both associations and parent groups is
 important, it is individual parents who must carry on the real struggle.
 Each parent must decide whether or not to engage in the struggle for
 integration. The number of people making that choice is growing as
 parents tell their success stories:
-
 //https://github.com/asciidoctor/asciidoctor/issues/1667
 //[quote, Steinbach, 1991
 //ifdef::sep-pages[]
@@ -41,7 +39,7 @@ parents tell their success stories:
 //<<Chapter 6, (see Chapter 6)>>
 //endif::[]
 //ifdef::epub-pages[]
-//xref:_section_two_parent_and_self_advocacy#_chapter_6[, (see Chsapter 6)]
+//xref:_section_two_parent_and_self_advocacy#_chapter_6[, (see Chapter 6)]
 //endif::epub-pages[]
 //]
 [quote, Steinbach, 1991]
@@ -49,7 +47,7 @@ ____
 For years I watched Mandy stand alone on the front lawn as all of the
 neighbourhood children rushed by her. I remember thinking, "`Please, just
 one person stop and talk to her, just one of you ask her to play too ... !`"
-[O]ne of the most important benefits of being included [in a regular class is]
+ [O]ne of the most important benefits of being included [in a regular class is]
 that Mandy now has friends.
 [Her] original group of [three] friends has now more than quadrupled in number.
 They are her classmates, the people who  speak up and support her, her
@@ -63,7 +61,7 @@ ____
 ifdef::sep-pages[]
 link:/CCS/en/EN-Changing_Canadian_Schools-093{outfilesuffix}[(see Chapter 6)]
 endif::sep-pages[]
-ifdef::html-pages, pdf-pages[]
+ifdef::html-pages,pdf-pages[]
 <<Chapter 6,(see Chapter 6)>>
 endif::[]
 ifdef::epub-pages[]
