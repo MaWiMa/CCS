@@ -1,45 +1,19 @@
 [quote, Batten, 1988]
 ____
-What's happened is that Luke's been alienated from everyone around him ...
-
 Was passierte war, dass Luke von jedem um ihm herum entfremdet worden ist ...
-
-It starts first thing in the morning.
-
 Es beginnt schon am Morgen.
-
-Luke doesn't go to school a couple of miles down the road from us, the school where all the other kids in
-the neighbourhood go.
-
 Luke geht nicht ein paar Kilometer die Straße runter zur Schule, nicht zu
 der Schule die alle anderen Kinder der Nachbarschaft besuchen.
-
-Oh no, he gets collected in a taxi and goes miles off in the other direction.
-
 Oh nein, er wird in ein Sammeltaxi gesetzt und Kilometer weit weg in die
 andere Richtung gefahren.
 ____
 
-Parents have increasingly united and worked together to turn their
-visions from dreems into reality.
-
 Eltern haben sich zunehmend vereinigt und arbeiten zusammen, um aus den
 Träumen ihrer Visionen Realität werden zu lassen.
-
-"`We have become a united voice, a resource to other parents and [the]
-community, and strength to one another.
-
 "`Wir sind zu einer vereinigten Stimme geworden, einer Ressource für andere
 Eltern und der Gesellschaft und wir bestärken uns gegenseitig. 
-
-It is because we have stood together that we have seen many significant
-and exciting changes in our schools and our community,`"
-
 Da wir eng zusammenstanden, haben wir viele außerordentliche und aufregende
 Veränderungen in unseren Schulen und unseren Gemeinden gesehen,`"
-
-says Alene Steinbach, a parent
-
 berichtet Alene Steinbach, ein Elternteil
 ifdef::sep-pages[]
 link:/CCS/de/DE-Changing_Canadian_Schools-093{outfilesuffix}[(siehe Kapitel 6)]
@@ -52,21 +26,10 @@ xref:_abschnitt_zwei_eltern_und_selbstbestimmung#_kapitel_6[(siehe Kapitel 6)]
 endif::epub-pages[]
 .
 
-However, while advocacy by both associations and parent groups is
-important, it is individual parents who must carry on the real struggle.
-
 Die Interessenvertretung durch Organisationen und Elternverbände ist von Bedeutung,
-den wahrhaftigen Probleme müssen jedoch die einzelnen Eltern durcharbeiten.
-
-Each parent must decide whether or not to engage in the struggle for
-integration.
-
-Die Eltern müssen zunächst für sich entscheiden, ob sie sich in dem Kampf
-für Integration einbringen wollen.
-
-The number of people making that choice is growing as
-parents tell their succees stories:
-
+den wahrhaftigen Probleme müssen jedoch die einzelnen Eltern entgegentreten.
+Die Eltern müssen zunächst für sich entscheiden, ob sie sich im Kampf für
+Integration einbringen wollen.
 Die Anzahl derjenigen die diese Entscheidung treffen wächst, je mehr Erfolge
 von anderen Eltern bekannt werden:
 
@@ -84,51 +47,25 @@ von anderen Eltern bekannt werden:
 //]
 [quote, Steinbach, 1991]
 ____
-For years I watched Mandy stand alone on the front lawn as all of the neighbourhood children rushed by
-her.
-
 Jahrelang sah ich Mandy alleine im Vorgarten stehen, während alle Kinder
 der Nachbarschaft an ihr vorbei liefen.
-
-I remember thinking,
-"`Please, just one person stop and talk to her, just one of you ask her to play too... !`"
-
 Ich erinnere mich gedacht zu haben,
 "`Bitte, kann nur eine Person innehalten und mit ihr sprechen, kann nur 
 einer von euch sie fragen, ob sie mitspielen möchte ... !`"
-
-[O]ne of the most important benefits of being included [in a regular class is] that Mandy now has friends.
-
 Einer der wesentlichen Vorteile in einer Regelklasse inkludiert zu
 sein ist, dass Mandy jetzt Freunde hat.
-
-[Her] original group of [three] friends has now more than quadrupled in number.
-
 Ihr ursprünglicher Freundeskreis von drei Freunden hat sich jetzt mehr als
 vervierfacht.
-
-They are her classmates, the people who 
-speak up and support her, her advocates at school and in the playgrounds at home...
-
 Sie sind ihre Klassenkameraden, die Menschen die ihr ihre Meinung sagen
 und sie unterstützen, ihre Fürsprecher in der Schule und auf dem Spielplatz
 zu Hause ...
-
-It is her classmates who come to our
-home to call on her to come out to play, her fiiends who invite her to parties and dances, and the kids who are anxious
-to see her at Brownies, the Mall, gymnastics, figure skating, the ball diamonds, and the hockey rinks.
-
 Es sind ihre Klassenkameraden, die zu unserem Haus kommen und nach ihr rufen,
 damit sie zum Spielen kommt, ihre Freunde die sie zu Parties und Tanzveranstaltungen
 einladen und die Kinder die sie aufgeregt zum Kuchen, zum Einkaufen, zum
-Turnen, zum Eiskunstlaufen, auf dem Basballplatz und auf dem Eishockeyfeld
+Turnen, zum Eiskunstlaufen, auf dem Baseballplatz und auf dem Eishockeyfeld
 erwarten.
-
-These are the kids
-who can't wait to introduce me to their parents as "`Mandy's mom. Mandy, she's in our class`"
-
-Das sind die Kinder die es nicht abwarten können mich ihren Eltern vorzustellen
-"`Mandies Mutter. Mandy, sie ist in unserer Klasse.`"
+Das sind die Kinder die es nicht abwarten können mich ihren Eltern vorzustellen,
+als "`Mandies Mutter. Mandy, sie ist in unserer Klasse.`"
 ____
 
 ifdef::sep-pages[]
