@@ -34,6 +34,8 @@
 
 |*guidance counsellor*                      | Beratungslehrer
 
+|*holistic unit*                            | ganzheitliche Einheit (wörtlich), ganzheitlicher Ansatz (sinngemäß) 
+
 |*Individual Education Plan (IEP)*          | Individueller Förderplan
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
