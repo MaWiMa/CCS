@@ -40,6 +40,7 @@
 |*Individual Education Plan (IEP)*          | Individueller Förderplan
 |*individual encouragement*					| individuelle Förderung
 |*injunction*                               | einstweilige Verfügung
+|*instructional services                    | Schulentwicklung
 |*integrated day care*                      | [[integrated_day_care]]inklusive Kindertagesbetreuung, informelles Lernen (sinngemäß)
 
 |*kindergarten*                             | [[kindergarten]]Kindergarten für bis 4-6-jährige Kinder mit strukturierter Lernumgebung
@@ -67,7 +68,6 @@
 |*remedial education*                       | Remedialer Unterricht	http://www.nasponline.org/publications/cq/cq338probsolve.aspx[(nähere Erläuterung)]
 
 |*school board*                             | Schulamt, Schulbehörde, Schulausschuss
-
 |*severe handicaps*                         | Schwerstbehinderungen (sinngemäß), schweren Behinderungen (wörtlich)
 
 |*segregated classes*                       | Förderklassen (sinngemäß), getrennte Klassen (wörtlich)
@@ -86,6 +86,7 @@
                                               http://www.european-agency.org/country-information/germany/national-overview/special-needs-education-within-the-education-system[(nähere Erläuterung)]
 |*staff room*                               | Lehrerzimmer
 |*staff meeting*                            | Lehrerkonferenz
+|*student services*                         | Studierendenwerk, Dienstleistungen für Schüler aller Schulen und Studenten an Universitäten
 
 |*teacher fellow*                           | Kollege
 
