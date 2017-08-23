@@ -1,21 +1,75 @@
-== Changing Canadian Schools, Schule verändern
+It is now recognized that learning problems are contextual.
 
-== This work is not done yet
+Es wird jetzt erkannt, dass Lernprobleme kontextabhängig sind.
 
-You are welcome to work with me. 
+They exist within the context of the classroom where the curriculum design and the
+instructional strategies employed by the teacher influence the degree to
+which exceptional students can be effectively served.
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+Sie existieren im Kontext des Klassenraumes, wo das Design des Curriculums
+und die von der Lehrkraft genutzten Strategien der Unterweisung den Grad
+der effektiven Nützlichkeitfür Schüler mit besonderen Anforderungen (außergewöhnliche Schüler) 
+bestimmt.
 
-== Diese Arbeit ist noch nicht getan
+A commitment to integrated or inclusive education means teachers, schools, and the
+community commit themselves to resolving problems that arise in a way
+that respects the integrity of the school as an organization (Porter, 1986).
 
-Ich lade Sie ein mit mir zu arbeiten.
+Eine Verpflichtung zu integrierender oder inklusiver Bildung bedeutet, Lehrer,
+Schulen und die Gemeinschaft verpflichten sich aufkommende Probleme, unter
+Wahrung der Integrität der Schule als Organisation, zu lösen (Porter, 1986).
 
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+The traditional approach to special education encouraged the classroom
+teacher to refer any difficulties to experts who would diagnose,
+prescribe, and invariably provide alternate instruction for the student
+(Little, 1985).
 
+Der traditionelle Ansatz der sonderpädagogischen Förderung ermutigte den
+Klassenlehrer alle Schwierigkeiten an Experten weiterzugeben, deren Diagnose
+und Verordung ausnahmslos eine alternative Unterweisung vorsehen würde.
 
+The message inherent was that regular class teachers
+were not qualified or competent to provide education to a student with a
+significant learning problem. 
 
+Die Klassenlehrer der Regelklassen seien weder qualifiziert noch kompetent
+einen Schüler mit signifikanten Lernproblemen auszubilden, war die innewohnende
+Botschaft.
 
+The past decade has seen an increasing number of school districts make a
+commitment to full integration for all students (Forest, 1984a; Forest, 1987).
 
+Im letzten Jahrzehnt hat sich eine stetig wachsende Anzahl von Schulbezirken
+zu voller Integration aller Schüler verpflichtet (Forest, 1984a; Forest, 1987).
 
+These range from several Catholic school districts in southern Ontario
+(Little, 1985), to French-language districts in Quebec (Frigon, 1988),
+to several public districts in Manitoba, Saskatchewan, and British
+Columbia (Porter, 1990).
+
+Dies umfasst einige katholische Schulbezirke in Süd-Ontario (Little, 1985),
+französisch sprachige Distrikte in Quebec (Frigon, 1988) und verschiedene 
+Kommunen in Manitoba, Saskatchewan, und British Columbia (Porter, 1990).
+
+Many other school districts across Canada are moving toward more integrated approaches to special education.  
+
+Viele weitere Schulbezirke in Kanada wenden sich Ansätzen der sonderpädagogischen
+Förderung von mehr Integration zu.
+
+One of the compelling features of the school districts that have moved
+toward an integrated approach on a systemic basis is what Sage (1989)
+has described as the relatively "`primitive`" level of development of
+their special services when they began to incorporate integration policy
+and practice.
+
+Ein herausragendes Merkmal der Schulbezirke, die sich einem integrativen
+Ansatz auf einer systemischen Basis hinwenden, ist was Sage (1989) als eine
+relativ "`primitive`" Entwicklungsstufe ihrer Förderangebote beschreibt,
+als sie begannen Theorie und Praxis der Integration einzubinden.
+
+The term "`primitive`" is not used in a negative sense,
+but rather to draw attention to the districts`' relatively late
+development of special education programs.
+
+Der Terminus "`primitiv`" ist hier nicht wertend gemeint, sondern bezieht
+sich auf den vergleichweise späten Einstieg in die Entwicklung dieser Förderangebote.
