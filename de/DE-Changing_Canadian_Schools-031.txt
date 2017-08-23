@@ -1,21 +1,96 @@
-== Changing Canadian Schools, Schule verändern
+==== INNOVATION
 
-== This work is not done yet
+==== Innovation
 
-You are welcome to work with me. 
+In many parts of North America, the expansion of special education has
+resulted in the creation of parallel systems for regular and special
+education.
 
-Please take a look at the link:/CCS/readme{ext-relative}[readme]. 
-If you like to contribute, look at the link:/CCS/CCSsta{ext-relative}[status].
+In vielen Teilen Nordamerikas, hat die Ausbreitung der Sonderpädagogik
+zu parallelen Systemen für reguläre und sonderpädagogische Bildung geführt.
 
-== Diese Arbeit ist noch nicht getan
+Many jurisdictions with the most mature and comprehensive
+special education services have evolved to the point where the regular
+and special education systems exists separately and relate to each other
+only in the most theoretical way.
 
-Ich lade Sie ein mit mir zu arbeiten.
+Viele Entscheidungen bezüglich der gereiften und umfassenden Dienstleistungen
+der Sonderpädagogik haben zu einer Spaltung in zwei Systeme geführt
+-- die reguläre Bildung und die Sonderpädagogik --, die getrennt voneinander
+existieren und nur auf einer sehr theoretischen Ebene zueinander
+in Beziehung stehen.
 
-Sehen Sie sich bitte die link:/CCS/readme{ext-relative}[Liesmich] Seite an.
-Wenn Sie beitragen wollen, sehen Sie sich die link:/CCS/CCSsta{ext-relative}[Status] Seite an.
+Many who promote special education have developed a mentality of
+compartmentalizing: rather than restructure a system that is inadequate,
+"`gaps in service`" are filled with new special education programs
+(Porter, 1990).  
 
+Viele Befürworter des sonderpädagogischen Systems, haben eine Mentalität
+der Kompartimentierung entwickelt: anstatt ein unzulängliches System zu
+restrukturieren, werden "`Löcher im System`" mit neuen sonderpädagogischen
+Programmen gefüllt (Porter, 1990).
 
+The goal, indeed the mission, of an effective school is to assure success
+in learning for all students.
 
+Das Ziel, tatsächlich die Mission, einer effektiven Schule ist Erfolg in
+Lernprozessen für alle Schüler sicherzustellen.
 
+The development of a parallel special education system has been harmful,
+not only because it has excluded exceptional students and prevented their
+contact with non-disabled peers, but also because of the effect it has had
+on the regular education program (Gartner and Lipsky, 1987; Reynolds, Wang
+and Walburg, 1987; Stainback and Stainback, 1984; Will, 1986).
 
+Die Entwicklung eines parallelen sonderpädagogischen Systems ist schädlich,
+nicht nur weil es außergewöhnliche Schüler ausschließt und ihnen den Kontakt
+zu nicht-behinderten Gleichaltrigen verwehrt, sondern auch aufgrund des
+Einflusses, den es auf das Regelschulsystem gehabt hatte (Gartner and Lipsky, 1987;
+Reynolds, Wang and Walburg, 1987; Stainback and Stainback, 1984; Will, 1986).
 
+A School that passes over all the students with learning problems to a
+separate special education system undermines its capacity to be a
+holistic unit that serves all students well.
+
+Durch den Verzicht auf einen ganzheitlichen Ansatz schwächt eine Schule,
+die alle Schüler mit Lernproblemen in ein separates sonderpädagogisches
+System überführt, die eigene Leistungsfähigkeit.
+
+The Director of education of a Roman Catholic school board in western Canada
+describes his rationale for dismantling such a separate structure:  
+
+Der leitende Schulaufsichtsbeamte einer römisch-katholischen Schulbehörde
+in Kanadas Westen beschreibt seine Gründe des Rückbaus einer solchen
+separaten Struktur.
+
+[quote, Porter, 1990)]
+____
+In 1982 ... I took the Student Services Department out of the
+organizational chart and said there will be one department, and it will
+be Instructional Services.
+
+1982 ... nahm ich das Studierendenwerk aus der Organisationsliste
+und beschloss eine Abteilung zu bilden und sie Schulentwicklung zu nennen.
+
+Until than there were two heads of two departments.
+
+Bis dahin gab es zwei Abteilungen mit je einer Leitung.
+
+I said if Student Services is part of Instruction then it has to be part
+of that department, right at the board level too.
+
+Ich sagte, wenn das Studierendenwerk der Entwicklung zugeordnet wird, dann
+muss es auch in der Organisationsstruktur der Schulntwicklung eingebunden sein.  
+
+We didn't wipe out the staff, but we [incorporated] Student Services [into]
+Instructional Services ... People [often] want to keep the functions
+separate. My contention is that organizationally we've got to have them
+together. If there's a sense of education being integral and being for
+everybody, then those services have to be in the one department.
+
+Wir haben die Beschäftigten nicht entlassen, aber haben das Studierendenwerk
+der Schulentwicklung zugeordnet ... Häufig werden die Funktionen getrennt
+voneinander gehalten. Ich behaupte, dass sie in eine Organisationsstruktur
+gehören. Wenn Bildung auf der Idee von Integration und Teilhabe aller Menschen
+beruht, dann müssen diese Dienste in einer Abteilung geführt werden.
+____
