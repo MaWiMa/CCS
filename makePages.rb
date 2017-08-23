@@ -176,7 +176,7 @@ Asciidoctor.render_file new,
 :base_dir => '.',
 :to_dir => 'CCS/'+flip.lang.downcase,
 :safe => 'safe',
-:attributes => 'sep-pages linkcss stylesdir=/CCS stylesheet=adoc.css imagesdir=/CCS/images includedir=included'
+:attributes => 'sep-pages linkcss stylesheet=adoc.css stylesdir=/CCS imagesdir=/CCS/images includedir=included'
 end
 
 puts "I start big page "+i+"!"
